@@ -1,0 +1,2361 @@
+// Official english translations
+// Every language must have lang.localname and lang.engname to be loaded
+// File must be saved with UTF-8 encoding
+[lang]
+localname=Русский
+engname=Russian
+
+[tile]
+unknowntile=Неизвестно
+watertile=Вода
+emptytile=Пусто
+grasstile=Трава
+sandtile=Песок
+swampgrasstile=Болотная трава
+mudtile=Грязь
+dirttile=Земля
+rocktile=Скала
+dungeonfloor=Этаж подземелья
+farmland=Сельскохозяйственные земли
+woodfloor=Деревянный пол
+rockfloor=Каменный пол
+sandstonetile=Песчаник
+swamprocktile=Пол из болотного камня
+snowrocktile=Пол из снежного камня
+lavatile=Лава
+snowtile=Снег
+icetile=Лёд
+stonepathtile=Каменная дорога
+graveltile=Гравий
+sandbrick=Песчаный кирпич
+deeprocktile=Глубокий камень
+deeprockfloor=Пол из глубокого камня
+deepsnowrocktile=Глубокий снежный камень
+deepicetile=Глубокий лёд
+sandgraveltile=Песчаный гравий
+
+[object]
+unknownobject=Неизвестно
+air=Воздух
+
+// Trees/big flora
+oaktree=Дуб
+oaksapling=Саженец дуба
+sprucetree=Ель
+sprucesapling=Саженец ели
+pinetree=Сосна
+pinesapling=Саженец сосны
+palmtree=Пальма
+palmsapling=Саженец пальмы
+willowtree=Ива
+willowsapling=Саженец ивы
+cactus=Кактус
+cactussapling=Саженец кактуса
+
+// Work stations
+workstation=Верстак
+forge=Кузница
+carpentersbench=Верстак плотника
+ironanvil=Железная наковальня
+demonicworkstation=Демонический верстак
+alchemytable=Алхимический стол
+advancedworkstation=Продвинутый верстак
+
+
+// Walls and doors etc
+woodwall=Деревянная стена
+wooddoor=Деревянная дверь
+pinewall=Сосновая стена
+pinedoor=Сосновая дверь
+stonewall=Каменная стена
+stonedoor=Каменная дверь
+sandstonewall=Стена из песчаника
+sandstonedoor=Дверь из песчаника
+swampstonewall=Стена из болотного камня
+swampstonedoor=Дверь из болотного камня
+snowstonewall=Стена из снежного камня
+snowstonedoor=Дверь из снежного камня
+icewall=Ледяная стена
+icedoor=Ледяная дверь
+brickwall=Кирпичная стена
+brickdoor=Кирпичная дверь
+dungeonwall=Стена подземелья
+dungeondoor=Дверь подземелья
+deepstonewall=Стена из глубокого камня
+deepstonedoor=Дверь из глубокого камня
+obsidianwall=Обсидиановая стена
+obsidiandoor=Обсидиановая дверь
+woodfence=Деревянный забор
+woodfencegate=Деревянная калитка
+
+// Inventories
+storagebox=Сундук
+barrel=Бочка
+demonchest=Демонический Сундук
+
+// ### Furniture ###
+// Lighting
+torch=Факел
+walltorch=Настенный факел
+ironlamp=Железная лампа
+goldlamp=Золотая лампа
+firechalice=Огненная чаша
+
+// Misc
+sign=Табличка
+flowerpot=Цветочный горшок
+itemstand=Стойка для предметов
+armorstand=Стойка для брони
+trainingdummy=Манекен
+
+// Furniture types
+// Oak
+oakchest=Дубовый сундук
+oakdinnertable=Дубовый обеденный стол
+oakdesk=Дубовый стол
+oakmodulartable=Дубовый модульный стол
+oakchair=Дубовый стул
+oakbench=Дубовая скамья
+oakbookshelf=Дубовая книжная полка
+oakcabinet=Дубовый шкаф
+oakbed=Дубовая кровать
+oakdresser=Дубовый комод
+oakclock=Дубовые часы
+oakcandelabra=Дубовый канделябр
+oakdisplay=Дубовая витрина
+oakbathtub=Дубовая ванна
+oaktoilet=Дубовый туалет
+
+// Spruce
+sprucechest=Еловый сундук
+sprucedinnertable=Еловый обеденный стол
+sprucedesk=Еловый стол
+sprucemodulartable=Еловый модульный стол
+sprucechair=Еловый стул
+sprucebench=Еловая скамья
+sprucebookshelf=Еловая книжная полка
+sprucecabinet=Еловый шкаф
+sprucebed=Еловая кровать
+sprucedresser=Еловый комод
+spruceclock=Еловые часы
+sprucecandelabra=Еловый канделябр
+sprucedisplay=Еловая витрина
+sprucebathtub=Еловая ванна
+sprucetoilet=Еловый туалет
+
+// Pine
+pinechest=Сосновый сундук
+pinedinnertable=Сосновый обеденный стол
+pinedesk=Сосновый стол
+pinemodulartable=Сосновый модульный стол
+pinechair=Сосновый стул
+pinebench=Сосновая скамья
+pinebookshelf=Сосновая книжная полка
+pinecabinet=Дубовый шкаф
+pinebed=Сосновая кровать
+pinedresser=Сосновый комод
+pineclock=Сосновые часы
+pinecandelabra=Сосновые канделябры
+pinedisplay=Сосновая витрина
+pinebathtub=Сосновая ванна
+pinetoilet=Сосновый туалет
+
+// Palm
+palmchest=Пальмовый сундук
+palmdinnertable=Пальмовый обеденный стол
+palmdesk=Пальмовый стол
+palmmodulartable=Пальмовый модульный стол
+palmchair=Пальмовый стул
+palmbench=Пальмовая скамья
+palmbookshelf=Пальмовая книжная полка
+palmcabinet=Пальмовый шкаф
+palmbed=Пальмовая кровать
+palmdresser=Пальмовый комод
+palmclock=Пальмовые часы
+palmcandelabra=Пальмовый канделябр
+palmdisplay=Пальмовая витрина
+palmbathtub=Пальмовая ванна
+palmtoilet=Пальмовый туалет
+
+// Dungeon
+dungeonchest=Подземельный сундук
+dungeondinnertable=Подземельный обеденный стол
+dungeondesk=Подземельный стол
+dungeonmodulartable=Подземельный модульный стол
+dungeonchair=Подземельный стул
+dungeonbench=Подземельная скамья
+dungeonbookshelf=Подземельная книжная полка
+dungeoncabinet=Подземельный шкаф
+dungeonbed=Подземельная кровать
+dungeondresser=Подземельный комод
+dungeonclock=Подземельные часы
+dungeoncandelabra=Подземельный канделябр
+dungeondisplay=Подземельная витрина
+dungeonbathtub=Подземельная ванна
+dungeontoilet=Подземельный туалет
+
+// Misc
+wooddinnertable=Деревянный обеденный стол
+wooddesk=Деревянный стол
+woodmodulartable=Деревянный модульный стол
+woodchair=Деревянный стул
+golddinnertable=Золотой обеденный стол
+goldchair=Золотой стул
+woodbookshelf=Деревянная книжная полка
+woodbathtub=Деревянная ванна
+woodtoilet=Деревянный туалет
+
+// Carpets
+woolcarpet=Шерстяной ковёр
+leathercarpet=Кожаный ковёр
+
+// Beds
+woodbed=Деревянная кровать
+
+// Logic - traps etc
+woodpressureplate=Деревянная нажимная плита
+rockpressureplate=Каменная нажимная плита
+dungeonpressureplate=Подземельная нажимная плита
+deeprockpressureplate=Глубококаменная нажимная плита
+rocklever=Каменный рычаг
+telepad=Телепад
+ledpanel=Светодиодная панель
+andgate=И
+nandgate=И-НЕ
+orgate=ИЛИ
+norgate=ИЛИ-НЕ
+xorgate=Исключающее ИЛИ
+tflipflopgate=T flip-flop Gate
+srlatchgate=SR Latch Gate
+timergate=Таймер
+buffergate=Buffer Gate
+sensorgate=Sensor Gate
+soundgate=Sound Gate
+woodwalltrap=Деревянная <trap>
+stonewalltrap=Каменная <trap>
+sandstonewalltrap=Песчаниковая <trap>
+swampstonewalltrap=Болотнокаменная <trap>
+snowstonewalltrap=Снежнокаменная <trap>
+icewalltrap=Ледяная <trap>
+deepstonewalltrap=Глубококаменная <trap>
+obsidianwalltrap=Обсидиановая <trap>
+dungeonwalltrap=Подземельная <trap>
+arrowtrap=Ловушка из стрел
+flametrap=Огненная ловушка
+voidtrap=Ловушка бездны
+tnt=Взрывчатка
+
+// Agriculture / flowers / alchemy
+sunflowerseed=Семена подсолнуха
+wildsunflower=Дикий подсолнух
+sunflower=Подсолнух
+firemoneseed=Семена огнецвета
+wildfiremone=Дикий огнецвет
+firemone=Огнецвет
+iceblossomseed=Семена ледяного цветка
+wildiceblossom=Дикий ледяной цветок
+iceblossom=Ледяной цветок
+mushroom=Гриб
+wildmushroom=Дикий гриб
+mushroomflower=Грибной цветок
+wheatseed=Семена пшеницы
+wildwheat=Дикая пшеница
+wheat=Пшеница
+caveglowsprout=Росток пещерносвета
+wildcaveglow=Дикий пещерносвет
+caveglow=Пещерносвет
+compostbin=Компостница
+feedingtrough=Кормушка
+
+// Rocks - unobtainable
+surfacerock=Поверхностный камень
+sandsurfacerock=Песчаный поверхностный камень
+surfacerocksmall=Маленький поверхностный камень
+sandsurfacerocksmall=Маленький песчаный поверхностный камень
+
+rock=Скала
+rockore=Камень <ore>
+sandstonerock=Песчаник
+sandstonerockore=Песчаник <ore>
+swamprock=Болотный камень
+swamprockore=Болотная <ore>
+snowrock=Снежный камень
+snowrockore=Снежная <ore>
+deeprock=Глубокий камень
+deeprockore=Глубокая <ore>
+deepsnowrock=Глубокий снежный камень
+deepsnowrockore=Глубокая снежная <ore>
+
+clayrock=Глиняная порода
+obsidianrock=Обсидиановая порода
+
+ironore=Железная руда
+copperore=Медная руда
+goldore=Золотая руда
+quartzore=Кварц
+tungstenore=Вольфрамовая руда
+lifequartzore=Кварц жизни
+glacialore=Ледяная руда
+
+// Misc
+grass=Трава
+swampgrass=Болотная трава
+cattail=Камыш
+snowpile=Снежная куча
+ladderdown=Лестница вниз
+ladderup=Лестница вверх
+dungeonentrance=Вход в подземелье
+dungeonexit=Выход из подземелья
+deepladderdown=Глубокая лестница вниз
+deepladderup=Глубокая лестница вверх
+coinstack=Стопка монет
+crate=Ящик
+snowcrate=Снежный ящик
+swampcrate=Болотный ящик
+vase=Ваза
+ancienttotem=Древний тотем
+settlementflag=Флаг поселения
+homestone=Домашний камень
+waystone=Путевой камень
+bannerstand=Баннерный стенд
+
+[objecttooltip]
+logicinputs=Входы: <value>
+logicoutputs=Выходы: <value>
+logicactive=Активный
+logicinactive=Неактивный
+bufferdelay=Задержка: <value>
+sensorplayeron=Обнаружениет игроков
+sensorplayeroff=Не обнаруживает игроков
+sensorhostileon=Обнаружениет врагов
+sensorhostileoff=Не обнаруживать врагов
+sensorpassiveon=Обнаруживает пассивные элементы
+sensorpassiveoff=Не обнаруживать пассивные элементы
+rsactivate=Активировать: <value>
+rsreset=Сброс: <value>
+tflipflopout1=Перевернутый
+tflipflopout2=Не перевернутый
+timerticks=Тик: <value>
+timercurrent=Таймер: <value>
+timeractive=Запущен
+timerinactive=Не запущен
+soundbass=Бас
+soundhat=Хэт
+soundkick=Кик
+soundpiano=Пианино
+soundsnare=Снэйр
+soundnone=N/A
+soundname=Звук: <name>
+soundpitch=Высота: <value>
+
+[item]
+// General materials
+coin=Монеты
+oaklog=Дубовое бревно
+sprucelog=Еловое бревно
+pinelog=Сосновое бревно
+palmlog=Пальмовое бревно
+willowlog=Ивовое бревно
+stone=Камень
+sandstone=Песчаник
+swampstone=Болотный камень
+snowstone=Снежный камень
+deepstone=Глубокий камень
+batwing=Крыло летучей мыши
+wool=Шерсть
+wheat=Пшеница
+leather=Кожа
+clay=Глина
+copperore=Медная руда
+copperbar=Слиток меди
+ironore=Железная руда
+ironbar=Слиток железа
+goldore=Золотая руда
+goldbar=Слиток золота
+quartz=Кварц
+lifequartz=Кварц жизни
+demonicbar=Демонический слиток
+tungstenore=Вольфрамовая руда
+tungstenbar=Слиток вольфрама
+glacialore=Ледяная руда
+glacialbar=Ледяной слиток
+obsidian=Обсидиан
+cavespidergland=Железа пещерного паука
+voidshard=Осколок бездны
+bone=Кость
+ectoplasm=Эктоплазма
+glacialshard=Ледяной осколок
+glassbottle=Стеклянная бутылка
+book=Книга
+gobfish=Рыба-комок
+terrorfish=Рыба-ужас
+halffish=Полурыба
+rockfish=Морской окунь
+furfish=Меховая рыба
+icefish=Ледяная рыба
+swampfish=Болотная рыба
+mapfragment=Фрагмент карты
+spareboatparts=Запасные части лодки
+brokencoppertool=Сломанный медный инструмент
+brokenirontool=Сломанный железный инструмент
+
+// Pickaxes
+woodpickaxe=Деревянная кирка
+copperpickaxe=Медная кирка
+ironpickaxe=Железная кирка
+demonicpickaxe=Демоническая кирка
+tungstenpickaxe=Вольфрамовая кирка
+icepickaxe=Ледяная кирка
+
+// Axes
+woodaxe=Деревянный топор
+copperaxe=Медный топор
+ironaxe=Железный топор
+demonicaxe=Демонический топор
+tungstenaxe=Вольфрамовый топор
+
+// Shovels
+woodshovel=Деревянная лопата
+coppershovel=Медная лопата
+ironshovel=Железная лопата
+demonicshovel=Демоническая лопата
+tungstenshovel=Вольфрамовая лопата
+
+// Fishing rods
+godrod=Божественная удочка
+woodfishingrod=Деревянная удочка
+ironfishingrod=Железная удочка
+overgrownfishingrod=Переросшая удочка
+goldfishingrod=Золотая удочка
+depthscatcher=Ловец глубин
+
+// Bait
+godbait=Божественная наживка
+wormbait=Червь
+swamplarva=Болотная личинка
+anglersbait=Приманка рыболова
+
+// Misc tools
+farmingscythe=Коса для сельского хозяйства
+wrench=Гаечный ключ
+cutter=Кусачки
+wire=Провод
+
+// Swords
+woodsword=Деревянный меч
+coppersword=Медный меч
+ironsword=Железный меч
+nunchucks=Нунчаки
+heavyhammer=Тяжелый молот
+lightninghammer=Молниеносный посох
+demonicsword=Демонический меч
+cutlass=Cабля
+tungstensword=Вольфрамовый меч
+reaperscythe=Коса жнеца
+
+// Spears
+woodspear=Деревянное копье
+copperpitchfork=Медные вилы
+copperspear=Медное копье
+ironspear=Железное копье
+demonicspear=Демоническое копье
+voidspear=Копье бездны
+vulturestalon=Коготь стервятника
+tungstenspear=Вольфрамовое копье
+cryospear=Крио копье
+
+// Bows
+woodbow=Деревянный лук
+copperbow=Медный лук
+ironbow=Железный лук
+demonicbow=Демонический лук
+vulturesburst=Взрыв стервятников
+tungstenbow=Вольфрамовый лук
+glacialbow=Ледяной лук
+
+// Arrows
+stonearrow=Каменная стрела
+firearrow=Огненная стрела
+bouncingarrow=Прыгающая стрела
+ironarrow=Железная стрела
+bonearrow=Костяная стрела
+
+// Guns
+handgun=Пистолет
+sniperrifle=Снайперская винтовка
+machinegun=Пулемет
+shotgun=Дробовик
+flintlock=Кремневое ружье
+handcannon=Ручная пушка
+deathripper=Потрошитель смерти
+cryoblaster=Крио бластер
+
+// Bullets
+simplebullet=Простая пуля
+bouncingbullet=Прыгающая пуля
+cannonball=Пушечное ядро
+
+// Magic weapons
+bloodbolt=Кровавый стержень
+bloodvolley=Кровавый залп
+voidstaff=Посох бездны
+voidmissile=Ракета бездны
+genielamp=Лампа джинна
+woodstaff=Деревянный посох
+venomstaff=Ядовитый посох
+quartzstaff=Кварцевый посох
+elderlywand=Древний жезл
+shadowbolt=Теневой стержень
+iciclestaff=Посох из сосульки
+shadowbeam=Теневой луч
+cryoquake=Крио-дрожь
+
+// Throw weapons
+ninjastar=Сюрикен
+woodboomerang=Деревянный бумеранг
+spiderboomerang=Паучий бумеранг
+voidboomerang=Бумеранг бездны
+tungstenboomerang=Вольфрамовый бумеранг
+hook=Крюк
+ironbomb=Железная бомба
+dynamitestick=Динамит
+boxingglovegun=Боксерская перчатка
+glacialboomerang=Ледяной бумеранг
+
+// Summon weapons
+brainonastick=Мозг на палочке
+spiderstaff=Паучий посох
+vulturestaff=Посох стервятника
+cryostaff=Крио посох
+reaperscall=Зов жнецов
+
+// Banners
+bannerofspeed=Знамя скорости
+
+// Misc weapons
+forceofwind=Сила ветра
+mlg1=MLG 1
+mlg2=MLG 2
+mousetest=Тест мыши
+
+// Trinkets
+ninjasmark=Знак ниндзи
+vampiresgift=Подарок вампира
+demonclaw=Когти демона
+polarclaw=Полярный коготь
+fins=Плавники
+piratetelescope=Пиратский телескоп
+regenpendant=Кулон регенерации
+mobilitycloak=Плащ скорости
+mesmertablet=Гипнотизирующая таблетка
+inducingamulet=Амулет наведения
+lifeline=Спасательный трос
+magicfoci=Магический фоци
+rangefoci=Фоци дальнего боя
+meleefoci=Фоци ближнего боя
+summonfoci=Призывающее фоци
+ancientfeather=Древнее перо
+miningcharm=Шахтерский амулет
+cactusshield=Кактусовый щит
+magicalquiver=Волшебный колчан
+ammobox=Ящик с боеприпасами
+bonehilt=Костяная рукоять
+firestone=Огненный камень
+lifependant=Кулон жизни
+constructionhammer=Строительный молоток
+telescopicladder=Телескопическая лестница
+toolextender=Увеличитель инструментов
+toolbox=Ящик для инструментов
+spikedboots=Шипованные ботинки
+spikedbatboots=Шипованные ботинки из летучей мыши
+froststone=Морозный камень
+frostflame=Морозное пламя
+calmingrose=Успокаивающая роза
+hysteriatablet=Таблетка истерии
+frenzyorb=Сфера безумия
+
+// Armor
+leatherhood=Кожаный капюшон
+leathershirt=Кожаный нагрудник
+leatherboots=Кожаные ботинки
+copperhelmet=Медный шлем
+copperchestplate=Медный нагрудник
+copperboots=Медные ботинки
+ironhelmet=Железный шлем
+ironchestplate=Железный нагрудник
+ironboots=Железные ботинки
+spiderhelmet=Паучий шлем
+spiderchestplate=Паучий нагрудник
+spiderboots=Паучьи ботинки
+ninjahood=Ниндзя капюшон
+ninjarobe=Ниндзя роба
+ninjashoes=Ниндзя ботинки
+demonichelmet=Демонический шлем
+demonicchestplate=Демонический нагрудник
+demonicboots=Демонические ботинки
+voidmask=Маска бездны
+voidhat=Шляпа бездны
+voidrobe=Роба бездны
+voidboots=Ботинки бездны
+quartzhelmet=Кварцевый шлем
+quartzchestplate=Кварцевый нагрудник
+quartzboots=Кварцевые ботинки
+tungstenhelmet=Вольфрамовый шлем
+tungstenchestplate=Вольфрамовый нагрудник
+tungstenboots=Вольфрамовые ботинки
+shadowhat=Теневая шляпа
+shadowhood=Теневой капюшон
+shadowmantle=Теневая мантия
+shadowboots=Теневые ботинки
+glacialcirclet=Ледяной венец
+glacialhelmet=Ледяной шлем
+glacialchestplate=Ледяной нагрудник
+glacialboots=Ледяные ботинки
+
+// Cosmetic Armor
+shoes=Обувь
+shirt=Нагрудник
+wig=Парик
+farmerhat=Фермерская шляпа
+farmershirt=Фермерская рубашка
+farmershoes=Фермерские ботинки
+goldcrown=Золотая корона
+elderhat=Древняя шляпа
+captainshat=Капитанская шляпа
+captainsshirt=Капитанская рубашка
+pirateboots=Пиратские ботинки
+piratebandana=Пиратская бандана
+pirateshirt=Пиратская рубашка
+vulturemask=Маска стервятника
+plaguemask=Чумная маска
+plaguerobe=Чумная роба
+plagueboots=Чумные ботинки
+surgicalmask=Хирургическая маска
+trapperhat=Шляпа ловца
+horsemask=Маска коня
+horsecostumeshirt=Рубашка наездника
+horsecostumeboots=Ботинки наездника
+
+// Potions
+healthpotion=Зелье здоровья
+greaterhealthpotion=Большое зелье здоровья
+speedpotion=Зелье скорости
+combatregenpotion=Зелье регенерации в бою
+attackspeedpotion=Зелье скорости аттаки
+invisibilitypotion=Зелье невидимости
+fireresistancepotion=Зелье сопротивления огню
+fishingpotion=Зелье рыбалки
+battlepotion=Боевое зелье
+resistancepotion=Зелье сопротивления
+spelunkerpotion=Зелье спелеолога
+treasurepotion=Зелье сундуков
+passivepotion=Зелье пассивности
+buildingpotion=Зелье строительства
+miningpotion=Зелье добычи
+
+// Consumables
+recallscroll=Свиток телепортации
+travelscroll=Свиток путешествия
+recallflask=Колба воспоминаний
+stinkflask=Колба вони
+
+// Misc
+craftingguide=Руководство по созданию
+voidpouch=Мешочек бездны
+coinpouch=Мешочек для монет
+woodboat=Деревянная лодка
+bucket=Ведро
+infinitewaterbucket=Бесконечное ведро с водой
+rope=Веревка
+infiniterope=Бесконечная веревка
+binoculars=Бинокль
+telescope=Телескоп
+grassseed=Семена травы
+swampgrassseed=Семена болотной травы
+fertilizer=Удобрение
+mysteriousportal=Таинственный портал
+voidcaller=Призыватель бездны
+ancientstatue=Древняя статуя
+shadowgate=Теневые врата
+icecrown=Ледяная корона
+villagemap=Карта ближайшей деревни
+dungeonmap=Карта ближайшего подземелья
+piratemap=Местная пиратская карта
+importedcow=Импортированная корова
+importedsheep=Импортная овца
+inefficientfeather=Неэффективное перо
+jumpingball=Прыгающий мяч
+hoverboard=Ховерборд
+weticicle=Мокрая сосулька
+exoticseeds=Экзотические семена
+steelboat=Стальная лодка
+magicstilts=Волшебные ходули
+demonheart=Демоническое сердце
+lifeelixir=Эликсир жизни
+emptypendant=Пустой кулон
+
+// Quest items
+zombiearm=Рука зомби
+goblinring=Кольцо гоблина
+swampeel=Болотный угорь
+babyshark=Маленькая акула
+crabclaw=Крабовые когти
+sandray=Песчаный луч
+fakefangs=Поддельные клыки
+slimechunk=Кусок слизи
+enchantedcollar=Зачарованный воротник
+apprenticescroll=Свиток ученика
+darkgem=Дармовый самоцвет
+mummysbandage=Бинт мумии
+magicsand=Волшебный песок
+caveoyster=Пещера устрицы
+capturedspirit=Захваченный дух
+pegleg=Деревянная нога
+eyepatch=Повязка на глаз
+rumbottle=Бутылка рома
+deepspiritswab=Мазок глубокого духа
+brokenlimb=Сломанная конечность
+feraltail=Звериный хвост
+razoricicle=Бритвенная сосулька
+
+// Global ingredients
+anysapling=Любой саженец
+anylog=Любое бревно
+anystone=Любой камень
+bulletuser=Любая пуля, используемая оружием
+
+[itemtooltip]
+// Armor
+headslot=Шлем
+chestslot=Нагрудник
+feetslot=Обувь
+cosmeticheadslot=Слот для косметического шлема
+cosmeticchestslot=Слот для косметического нагрудника
+cosmeticfeetslot=Слот для косметической обуви
+cosmetic=Косметический предмет
+cosmeticslot=Нет статистики в косметическом слоте
+armorvalue=+<value> брони
+setbonus=Бонус комплекта:
+ninjaset1=Ты долбаный ниндзя!
+ninjaset2=Убирает скорость передвижения\nво время атаки
+quartzset=Игнорирует следующий удар и получает\nскорость передвижения\n20 секунд перезарядка
+voidset=Нажмите [input=setability] чтобы получить прирост к скорости передвижения
+tungstenset1=Сопротивление отбрасыванию
+tungstenset2=50% увеличенное отбрасывание
+shadowhatset=Магические атаки наносят цели\n25 урона в течение 5 секунд
+shadowhoodset=+10% к урону при бездействии
+surgicalmasktip=Защищает окружающих
+spiderchest=Уменьшает отбрасывание
+spiderset=Атаки отравляют цель нанося\n10 урона в течение 5 секунд\nИммунитет к замедлениям
+glacialhelmetset=Атаки ближнего боя стреляют сосулькой
+glacialcircletset=Атаки призыва замедляют цель
+
+// Trinkets
+trinketslot=Слот для аксессуара
+trinketdisabled=§hDisabled by <items>
+demonclawtip=Дает сопротивление отбрасыванию
+polarclawtip=Атаки замедляют цель
+finstip=Удваивает скорость плавания
+ninjasmark1=Уменьшает скорость передвижения вдвое
+ninjasmark2=снижение при атаке
+piratetelescope=Увеличивает дальность обзора биомов на 1
+vampiresgift=Увеличивает скорость передвижения на 15%
+regenpendant=Незначительно восстанавливает здоровье
+mobilitycloak=Дает большую мобильность вне боя
+lifeline=Восстанавливает 50 HP при получении смертельного урона\n5 минут перезарядка
+magicfoci1=Увеличивает магический урон на 20%
+magicfoci2=Уменьшает не магический урон на 20%
+rangefoci1=Увеличивает урон дальнего боя на 20%
+rangefoci2=Уменьшает урон не дальнего боя на 20%
+meleefoci1=Увеличивает урон ближнего боя на 20%
+meleefoci2=Уменьшает урон не ближнего боя на 20%
+summonfoci1=Увеличивает призываемый урон на 20%
+summonfoci2=Уменьшает не призываемый урон на 20%
+ancientfeather=Увеличивает скорость снаряда на 50%
+miningcharm=Увеличивает урон инструментами на 40%
+cactusshield1=Даёт 4 брони
+cactusshield2=Есть шанс вернуть урон
+magicalquiver=Уменьшает использование стрел на 75%
+ammobox=Уменьшает использование пуль на 75%
+bonehilt=Увеличивает бронепробиваемость на 20
+firestonetip=Атаки поджигают цель, нанося\n25 урона в течение 5 секунд
+lifependant=Дает улучшенное восстановление здоровья
+constructionhammer=Увеличивает скорость строительства
+telescopicladder=Увеличивает дальность строительства
+toolextender=Увеличивает дальность добычи
+spikedboots=Увеличивает скорость передвижения на 15%\nПредотвращает скольжение
+spikedbatboots=Увеличивает скорость передвижения на 25%\nПредотвращает скольжение
+froststonetip=Атаки замедляют цель и наносят\n15 урона в течение 5 секунд
+frostflametip=Атаки замедляют цель и наносят\n35 урона в течение 5 секунд
+calmingrose=Уменьшает скорость появления мобов
+frenzyorbtip=Добавляет + 40% урона в зависимости от недостающего здоровья
+
+// Tools
+tooldmg=Эффективность инструмента: <value>
+tooltier=Разряд инструмента: <value>
+tooladdrange=<value> дальность
+pickaxetip=Инструмент кирка
+shoveltip=Инструмент лопата
+axetip=Инструмент топор
+demonictooltip=Может добывать кварц в пустыне
+tungstentooltip1=Может добывать обсидиан и
+tungstentooltip2=ледяную руду в глубоких снежных пещерах
+
+// Weapons
+damagetip=Урон: <value>
+truedamagetip=Чистый урон: <value>
+meleedamagetip=Урон в ближнем бою: <value>
+rangeddamagetip=Урон в дальнем бою: <value>
+magicdamagetip=Магический урон: <value>
+summondamagetip=Призываемый урон: <value>
+knockbacktip=Отбрасывание: <value>
+ammotip=Доступно боеприпасов: <value>
+arrowtip=Можно стрелять из лука
+cannonballtip=Используется в ручной пушке
+boomerangstack=Суммируется до <value>
+bowtip=Использует стрелы
+guntip=Требуются пули для стрельбы
+summonfocustip=Нажмите [input=mouse2] чтобы навестись на моба
+handcannontip1=Стреляет пушечными ядрами
+handcannontip2=Боеприпасы, созданные на железной наковальне
+machineguntip=Имеет 50% шанс не расходовать боеприпасы
+snipertip=Имеет снайперский прицел
+deathrippertip1=Имеет 75% шанс не расходовать боеприпасы
+deathrippertip2=Заряжается, чтобы стрелять быстрее
+throwtip=Можно метать
+heavyhammertip=Бросает маленькие камни
+lightninghammertip1=Очень быстрая скорость
+lightninghammertip2=Выпускает короткими очередями молнии
+reaperscythetip=Стреляет косой жнеца
+speartip=Ударяет кончиком
+bloodbolttip=Стреляет самонаводящимся снарядом
+bloodvolleytip=Стреляет 3 самонаводящимися снарядами
+voidstafftip=Стреляет лазером мгновенной бездны
+voidmissiletip=Стреляет управляемой ракетой
+genielamptip=Быстро распыляет водные снаряды
+destructivetip=Разрушает объекты
+venomstafftip=Помещает яд на землю
+quartzstafftip=Стреляет быстро пробивающим стержнем
+vulturesbursttip=Стреляет пробивающим выстрелом на высокой скорости
+elderlywandtip=Стреляет управляемой бронебойной ракетой
+shadowbolttip=Стреляет большим самонаводящимся снарядом
+shadowbeamtip=Мгновенно стреляет теневым лучом
+reaperscalltip1=Вызывает духов-защитников
+reaperscalltip2=Максимум 5 за раз
+iciclestafftip=Стреляет быстрыми сосульками.
+boxingglovetip=Не сильно повреждает, но сильно отбрасывает
+fowtipequipped=Нажмите [input=trinketability] чтобы подтолкнуть себя вперед
+fowtipnotequipped=Наденьте и нажмите [input=trinketability] чтобы подтолкнуть себя вперед
+fowtip2=Также можно использовать из рук
+glacialbowtip=Стреляет снарядом, который разбивается\nоб ближайших врагов при попадании
+glacialboomerangtip=Управляется после броска
+cryoquaketip=Создает линию сосулек
+cryospeartip=Выпускает осколок при атаке
+bannertip=Держите в руке, чтобы бафнуть товарищей по команде
+
+// Potions
+consumetip=Можно использовать
+5min=Продолжительность 5 мин
+8min=Продолжительность 8 мин
+15min=Продолжительность 15 мин
+healthpot=Мгновенно восстанавливает <health> здоровья
+healthpottip=Нажмите <key> для быстрого использования
+attackspeedpot=Увеличивает скорость атаки
+battlepot=Увеличивает наносимый урон на 10%
+regenpot=Увеличивает восстановление здоровья
+fireresistpot=Даёт огнестойкость
+fishingpot1=Увеличивает силу рыбалки на 20%
+fishingpot2=Добавляет дополнительную леску
+invispot=Даёт невидимость
+resistpot=Увеличивает броню на 8
+speedpot=Увеличивает скорость бега
+spelunkerpot=Подсвечивает руду
+treasurepot=Подсвечивает сокровища
+passivepot=Уменьшает появление враждебных мобов
+buildingpot=Увеличивает скорость размещения плиток и объектов
+miningpot=Увеличивает скорость добычи
+
+// Tiles
+tiletip=Можно разместить на любой местности
+
+// Objects
+placetip=Можно поставить
+bedtip=Работает как точка возрождения при использовании
+seedtip=Должен быть размещен на сельскохозяйственных угодьях
+flowertip=Можно разместить в цветочном горшке
+wheattip=Можно скармливать некоторым животным
+activewiretip=Активирует провода
+settlementflagtip1=Используется для создания поселения
+settlementflagtip2=Должен быть размещен на поверхности
+settlementflagtip3=Нельзя разместить в NPC деревне
+tnttip=Взрывается при активации по проводу
+activatedwiretip=Активируется по проводам
+telepadtip=Переместиться к другим телепадам
+telepadrangetip=Расстояние до острова: <range>
+ladderdowntip=Используется чтобы добраться до пещер
+deepladderdowntip=Используется чтобы добраться до глубоких пещер
+homestonetip=Должен быть размещен в поселении, в котором он был куплен
+waystonetip1=После размещения нельзя подобрать снова
+waystonetip2=Продаётся у мага в деревне
+compostbintip=Медленно создаст удобрение
+feedingtroughtip=Используется для кормления животных пшеницей
+trainingdummytip=Атакуйте его, чтобы проверить урон
+clocktip=Показывает текущее время
+dressertip=Используется для хранения доспехов
+displaytip=Отображает сохраненный предмет
+bannerstandtip=Применяет эффекты знамя вокруг себя
+
+// Misc
+itemcount=<amount> всего предметов
+craftingmat=Материал для изготовления
+cointip=Используется для торговли в поселениях
+baittip=Используется во время рыбалки
+fishingrodtip=Используется для рыбалки
+fishingpower=Сила наживки: <value>
+fishinglines=<value> лески
+evilsevent=Призывает могучих существ
+voidcallertip=Призывает Волшебника бездны
+ancientstatuetip1=Призывает древнее существо
+ancientstatuetip2=Необходимо использовать в пустынном биоме
+shadowgatetip1=Призывает мощного призрака
+shadowgatetip2=Необходимо использовать в глубоких пещерах
+icecrowntip1=Призывает своего хозяина
+icecrowntip2=Необходимо использовать в глубоких снежных пещерах
+binocularstip=Смотрите дальше вдаль
+ropetip=Используйте верёвку, чтобы поймать животное
+biomemaptip=Используется для поиска островов около вас
+mapfail=Карта не показала вам никакой полезной информации
+mapresult=Карта показывает <dir> вашего местоположения (<coord>)
+boattip1=Можно поместить на воду
+boattip2=+1 пройденное расстояние
+buckettip=Может использоваться для сбора жидкостей
+infwaterbuckettip=Удерживает и собирает воду
+demonhearttip=Навсегда увеличивает максимальное здоровье на 100
+lifeelixirtip=Навсегда увеличивает максимальное здоровье на 10 до 300
+emptypendanttip=Навсегда увеличивает максимальное количество аксессуаров до 4
+recalltip=Телепортирует к месту возрождения
+stinkflasktip=Покрывает вас ароматом, привлекающим врагов
+singleuse=Одноразовое использования
+infiniteuse=Бесконечное использование
+traveltip=Перемещает на близлежащие острова
+farmingscythetip=Очень эффективена при уборке выращенных растений
+cuttertip=Используется для снятия провода
+wrenchtip=Используется для размещения проводов
+wrenchammo=Доступно проводов: <value>
+enchantslot=Слот для зачарования
+materialslot=Слот для изготовления предметов
+trashslot=Мусорное ведро
+voidshardtip=Магическая эссенция
+glassbottletip=Используется в алхимии
+mapfragmenttip=Объедините 2 для создания карты
+sparepartstip=Используется для изготовления стальной лодки
+wiretip=Можно поставить гаечным ключом
+voidpouchtip=Небольшая личная сумка
+coinpouchtip1=Хранит подобранные монеты
+coinpouchtip2=[input=-99] чтобы достать монеты
+coinpouchstored=Хранимые монеты: <coins>
+rclickopentip=[input=-99] чтобы открыть
+rclickinvopentip=[input=-99] в инвентаре, чтобы открыть
+usetoopentip=Используйте, чтобы открыть
+grassseedtip=Используется для создания лужайки
+fertilizertip=Используйте на посевах для ускорения роста
+brokentooltipМожно переплавить или продать
+portalnotonsurface=Мне нужно быть на поверхности
+portalnotnight=Дождитесь ночи, чтобы использовать данный предмет
+portalnospace=Здесь не хватает места
+portalerror=Здесь не работает
+callernoarena=Я не в области подземелья
+spawnmob=Используется для создания одного <mob>
+summontip=Используется для призыва одного <mob>
+summonmounttip=Используется для призыва <mob> маунт
+summonslots=Максимальное количество призыва: <count>
+summonuseslots=Использует <count> слотов призыва
+steelboattip=+2 пройденное расстояние
+jumpingballtip=Весело и подходит для всех размеров!
+hoverboardtip=Медленно набирает скорость
+
+// Quests
+questitem=Предмет задания
+zombiearmobtain=Падает с зомби
+goblinringobtain=Падает с гоблинов
+swampeelobtain=Можно поймать на мелководье болота
+babysharkobtain=Можно поймать из глубинных вод
+crabclawobtain=Падает с пустынных крабов
+sandrayobtain=Можно выловить из воды в пустыне
+fakefangsobtain=Падает с вампиров
+slimechunkobtain=Падает с болотных слизней
+enchantedcollarobtain=Падает с зачарованных мобов в подземелье
+apprenticescrollobtain=Падает с Ученика Бездны в подземелье
+darkgemobtain=Падает с Ученика Бездны в подземелье
+bookobtain=Находится на книжных полках в подземелье
+mummysbandageobtain=Падает с мумий в пустынной пещере
+magicsandobtain=Падает с мумии-мага в пустынной пещере
+caveoysterobtain=Можно выловить из воды в пустынных пещерах
+capturedspiritobtain=Падает с песчаного духа в пустынной пещере
+peglegobtain=Падает с пиратов
+eyepatchobtain=Падает с пиратов
+rumbottleobtain=Падает с пиратов
+deepspiritswabobtain=Падает с духов глубинной пещеры
+brokenlimbobtain=Падает с скелетов
+feraltailobtain=Падает со снежных волков
+razoricicleobtain=Падает с крио хлопьев
+
+[enchantment]
+noenchant=NO_ENCHANT
+
+// Trinkets
+keen=Острый
+blunt=Тупой
+nimble=Шустрый
+sluggish=Вялый
+quick=Быстрый
+clumsy=Неуклюжий
+sturdy=Крепкий
+weak=Слабый
+
+// Swords
+berserk=Берсерк
+brutal=Жестокий
+shoddy=Дрянной
+light=Лёгкий
+agile=Проворный
+heavy=Тяжелый
+
+// Projectile
+pounding=Отскакивающий
+tightened=Затянутый
+broken=Сломанный
+loose=Свободный
+advanced=Продвинутый
+primitive=Примитивный
+
+// Tool damage
+sharp=Острый
+dull=Тупой
+
+[buffmodifiers]
+limitmax=Макс <modifier>
+limitmin=Мин <modifier>
+
+damage=<mod>% урона
+meleedamage=<mod>% урона ближнего боя
+rangeddamage=<mod>% урона дальнего боя
+magicdamage=<mod>% магического урона
+summondamage=<mod>% урона призываемых существ
+tooldamage=<mod>% эффективности инструмента
+armorpen=<mod>% бронепробиваемости
+armorpenflat=<mod> бронепробиваемость
+knockbackout=<mod>% отбрасывания
+
+speed=<mod>% скорости
+speedflat=<mod> скорости
+slow=<mod>% замедления
+swimspeed=<mod>% скорость плавания
+friction=<mod>% трения
+acceleration=<mod>% ускорения
+deceleration=<mod>% торможения
+
+armor=<mod>% брони
+armorflat=<mod> брони
+
+maxhealth=<mod>% максимум здоровья
+maxhealthflat=<mod> максимум здоровья
+
+regen=<mod>% регенерации
+regenflat=<mod> регенерации
+combatregen=<mod>% регенерации в бою
+combatregenflat=<mod> регенерации в бою
+
+poisondamage=<mod>% урон яда
+poisondamageflat=<mod> урон яда
+firedamage=<mod>% урон огня
+firedamageflat=<mod> урон огня
+frostdamage=<mod>% урон морозом
+frostdamageflat=<mod> урон морозом
+
+mobspawnrate=<mod>% скорости появления мобов
+mobspawncap=<mod>% лимит появления мобов
+
+attackspeed=<mod>% скорости атаки
+meleeattackspeed=<mod>% скорости атаки в ближнем бою
+rangedattackspeed=<mod>% скорости атаки в ближнем бою
+magicattackspeed=<mod>% магической скорости атаки
+
+miningspeed=<mod>% скорости добычи
+buildingspeed=<mod>% скорости строительства
+
+miningrange=<mod> дальности добычи
+buildingrange=<mod> дальности строительства
+
+arrowusage=<mod>% использования стрел
+bulletusage=<mod>% использования пуль
+maxsummons=<mod> к количеству призываемых существ
+summonsspeed=<mod>% скорости призыва
+summonstargetrange=<mod>% дальности призываемых существ
+
+attackmovement=<mod>% штраф за движение во время атаки
+projectilevel=<mod>% скорости снаряда
+throwingvel=<mod>% скорости броска
+
+traveldistance=<mod> расстояния путешествия
+biomeviewdistance=<mod> расстояние видимости биомов
+
+knockbackin=<mod>% поступающего отбрасывания
+fishingpower=<mod>% рыболовной силы
+fishinglines=<mod> лесок
+
+waterwalking=Позволяет ходить по воде
+emitslight=Излучает свет
+invisibility=Включает невидимость
+spelunker=Включает спелеолог
+treasurehunter=Включает охотника за сокровищами
+bouncy=Бодрый
+
+targetrange=<mod>% расстояния до цели
+chaserrange=<mod>% расстояния до преследователя
+
+// Tool items
+toolknockback=<mod>% отбрасывания
+toolrange=<mod>% расстояния
+
+// Projectile
+velocity=<mod>% скорости
+
+[mob]
+// Passive
+sheep=Овца
+lamb=Ягнёнок
+wildostrich=Дикий страус
+cow=Корова
+calf=Телёнок
+penguin=Пингвин
+polarbear=Полярный медведь
+
+// Critters
+rabbit=Кролик
+squirrel=Белка
+snowhare=Снежный заяц
+crab=Краб
+scorpion=Скорпион
+swampslug=Болотный слизень
+frog=Лягушка
+duck=Утка
+bird=Птица
+bluebird=Лазурная птица
+canarybird=Канарейка
+spider=Паук
+mouse=Мышь
+
+// Humans
+human=Деревенский житель
+humanname=<name> Деревенский житель
+farmerhuman=Фермер
+farmerhumanname=<name> Фермер
+blacksmithhuman=Кузнец
+blacksmithhumanname=<name> Кузнец
+guardhuman=Охранник
+guardhumanname=<name> Охранник
+magehuman=Маг
+magehumanname=<name> Маг
+gunsmithhuman=Оружейник
+gunsmithhumanname=<name> Оружейник
+alchemisthuman=Алхимик
+alchemisthumanname=<name> Алхимик
+hunterhuman=Охотник
+hunterhumanname=<name> Охотник
+elderhuman=Старец
+elderhumanname=<name> Старец
+anglerhuman=Рыболов
+anglerhumanname=<name> Рыболов
+animalkeeperhuman=Хранитель животных
+animalkeeperhumanname=<name> Хранитель животных
+pawnbrokerhuman=Ростовщик
+pawnbrokerhumanname=<name> Ростовщик
+stylisthuman=Стилист
+stylisthumanname=<name> Стилист
+piratehuman=Сломанный пират
+piratehumanname=<name> Сломанный пират
+explorerhuman=Исследователь
+explorerhumanname=<name> Исследователь
+travelingmerchant=Странствующий торговец
+travelingmerchantname=<name> Странствующий торговец
+travelingpawnbroker=Странствующий ростовщик
+travelingpawnbrokername=<name> Странствующий ростовщик
+
+// Hostile
+zombie=Зомби
+trapperzombie=Зомби-ловец
+goblin=Гоблин
+vampire=Вампир
+zombiearcher=Зомби лучник
+crawlingzombie=Ползучий зомби
+giantcavespider=Гигантский пещерный паук
+blackcavespider=Черный пещерный паук
+cavemole=Пещерный крот
+swampslime=Болотный слизень
+swampshooter=Болотный стрелок
+enchantedzombie=Зачарованный зомби
+enchantedzombiearcher=Зачарованный зомби-лучник
+enchantedcrawlingzombie=Зачарованный ползающий зомби
+voidapprentice=Ученик бездны
+mummy=Мумия
+mummymage=Мумия маг
+sandspirit=Песчаная душа
+skeleton=Скелет
+skeletonthrower=Скелет метатель
+deepcavespirit=Глубокопещерный дух
+skeletonminer=Скелет шахтёр
+ninja=Ниндзя
+snowwolf=Снежный волк
+cryoflake=Крио хлопья
+
+// Pets/spawned
+spawnedname=<player>'s <mob>
+tameostrich=Приручить страуса
+petpenguin=Домашний пингвин
+petparrot=Домашний попугай
+steelboat=Стальная лодка
+petwalkingtorch=Ходячий факел
+jumpingball=Прыгающий мяч
+hoverboard=Ховерборд
+babyzombie=Зомби малыш
+babyspider=Паук малыш
+playervulturehatchling=Детеныш стервятника
+playerreaperspirit=Дух жнеца
+playercryoflake=Крио хлопья
+
+// Bosses/minions
+evilsprotector=Защитник Зла
+evilsportal=Портал Зла
+portalminion=Портал Миньон
+voidwizard=Волшебник Бездны
+voidwizardclone=Волшебник Бездны
+piratecaptain=Пират Капитан
+piraterecruit=Пират Рекрут
+pirateparrot=Пиратский Попугай
+ancientvulture=Древний Стервятник
+ancientvultureegg=Яйцо Древнего Стервятника
+vulturehatchling=Детеныш Стервятника
+reaper=Жнец
+reaperspiritportal=Портал Духа Жнеца
+reaperspirit=Дух Жнеца
+cryoqueen=Крио Королева
+
+// Misc
+woodboat=Деревянная лодка
+trainingdummy=Манекен
+
+[mobmsg]
+angryshop=Cannot trade angry shops
+busyhuman=<name> занят
+humanangry1=Я не ценю это
+humanangry2=Прекратите это или мне, возможно, придется убить вам
+humanangry3=Я пытаюсь здесь что-то делать!
+humanangry4=Зачем вы это сделали?
+humanangry5=Почему вы это сделали?
+humanangry6=Что я вам сделал?
+
+humanpassiveangry1=Я это не одобряю
+humanpassiveangry2=Я здесь только для того, чтобы помочь вам!
+humanpassiveangry3=Я пытаюсь здесь что-то делать!
+humanpassiveangry4=Зачем вы это сделали?
+humanpassiveangry5=Почему вы это сделали?
+humanpassiveangry6=Что я вам сделал?
+
+humanattack1=Охранники, помогите!
+humanattack2=Вы пожалеете об этом
+humanattack3=Теперь я действительно зол
+humanattack4=Это был ваш последний шанс!
+humanattack5=Охранники! Между нами враг!
+humanattack6=Давай решим это раз и навсегда
+
+humantalk1=Фу, отойдите от меня!
+humantalk2=Если вы ударите меня, я прослежу, чтобы вы заплатили за это
+humantalk3=Я могу показаться безобидным. Пока я не вытащу катану
+humantalk4=Ошибки были сделаны, когда вы родились
+humantalk5=Вы - ошибка природы
+
+alchemisttalk1=Я люблю грибы
+alchemisttalk2=Мои химикаты никогда не взорвутся, уверяю вас
+alchemisttalk3=Вы хотите получить кайф?
+alchemisttalk4=Чего? Нет, я не злоупотреблял ингредиентами!
+alchemisttalk5=Ха-ха! Почему все, что вы говорите, такое смешное !?
+
+anglertalk1=Рыбалка - это любовь, рыбалка - это жизнь
+anglertalk2=Однажды вы увидите радость от рыбалки
+anglertalk3=В свое время я видел странных рыб
+anglertalk4=Мне нравится проводить день, разговаривая со своей рыбкой
+anglertalk5=Приманка необходима для рыбалки!
+anglerspecial=<stylist> прокомментировал мой стиль?
+
+akeepertalk1=Я собирал только для вас!
+akeepertalk2=Вы знаете, что они говорят: надо их всех поймать!
+akeepertalk3=У меня одни из самых экзотических животных, которых вы когда-либо видели!
+akeepertalk4=Мои питомцы требуют очень мало времени и ухода
+akeepertalk5=Домашнее животное может быть спутником на всю жизнь!
+akeepertalk6=Я не знаю, как люди выживают без домашнего животного рядом с ними
+akeepertalk7=Некоторые животные могут быть дорогими, но оно того стоит!
+
+blacksmithtalk1=Мой молот можно использовать не только для ковки!
+blacksmithtalk2=Важно использовать правильный инструмент для работы!
+blacksmithtalk3=Ваш нужно заточить меч?
+blacksmithtalk4=Взгляните на мои товары!
+blacksmithspecial=Не продавайте свои слитки <gunsmith>! Он их неправильно использует!
+
+eldertalk1=Не сидите на месте. Вам нужно исследовать больше.
+eldertalk2=В старинных сказках говорится, что на некоторых островах есть подземелья с сокровищами
+eldertalk3=Я вижу потенциал в таком молодом искателе приключений, как ты
+eldertalk4=Под землей вы найдете одни из лучших руд в мире
+eldertalk5=Я всего лишь один раз видел демона в моей жизни,к счастью,я выбрался живим
+
+farmertalk1=Вы видели моего сына?
+farmertalk2=Вы хотите выглядеть как я?
+farmertalk3=Вас интересует сельское хозяйство?
+farmertalk4=Мне нужно, чтобы кто-то возглавил ферму, когда я состарюсь
+
+gunsmithtalk1=Не забудьте потренироваться перед охотой
+gunsmithtalk2=Оружие не убивает людей, люди убивают людей
+gunsmithtalk3=У меня самое смертоносное оружие в городе!
+gunsmithtalk4=Клянусь, с этими товарами все в порядке
+gunsmithspecial1=Не продавайте слитки <blacksmith>! Он их неправильно использует!
+gunsmithspecial2=<hunter> это безумие, оружие - лучший выбор!
+
+huntertalk1=Нет ничего, с чем не справятся лук и стрела
+huntertalk2=Основной компонент лука - это я.
+huntertalk3=Я покажу вам трюк, если вы положите яблоко на макушку
+huntertalk4=Вы богаты или бедны?
+huntertalk5=Я вам кого-то напоминаю?
+huntertalkspecial=<gunsmith> сумасшедший, луки - это то, что нужно!
+
+magetalk1=Вы интересуетесь магией?
+magetalk2=У вас может быть потенциал
+magetalk3=Есть какая-то магия, о которой вы не говорите
+magetalk4=Нет такого магазина, как у меня!
+magetalk5=Для мощного оружия нужны чары!
+magetalk6=Чары могут значительно увеличить характеристики
+
+piratetalk1=Иногда я думаю о море и скучаю по нему
+piratetalk2=У тебя есть ром в запасе?
+piratetalk3=Вы уже нашли какое-нибудь сокровище?
+piratetalk4=Я потерял свой замок, у тебя он есть?
+piratetalk5=Мой порох - лучшее, что ты когда-либо найдешь!
+piratetalk6=Мне все равно не нравился мой пиратский образ жизни
+piratespecial1=Thanks for not making me walk the plank!
+piratespecial2=Надеюсь, я не обидел тебя раньше!
+
+stylisttalk1=Некоторые говорят, что я выгляжу так, будто я из мультфильма?
+stylisttalk2=Отрастить волосы - это не суперсила!
+stylisttalk3=Хотите произвести на кого-то впечатление?
+stylisttalk4=Новый комплект джинсов иногда решит все ваши проблемы!
+stylisttalk5=Еще я работаю по выходным!
+stylisttalk6=Мой магазин обязательно впечатлит вас!
+stylistspecial=Не могу поверить, что <angler> выбрал этот стиль!
+
+tmerchanttalk1=My wares are as exotic as you!
+tmerchanttalk2=What? I'm balding?
+tmerchanttalk3=Traveling is fun and rewarding!
+tmerchanttalk4=Looking to get into the business?
+tmerchanttalk5=I should get a pack mule for all this stuff
+tmerchanttalk6=Now you know why my backpack is so big
+tmerchanttalk7=I've been many places, this one is decent
+
+pawnbrokertalk1=Я дам вам за это справедливую цену!
+pawnbrokertalk2=Знаете, я не только для того, чтобы сбагривать мне вещи
+pawnbrokertalk3=Иногда ростовщик - это все, что вам нужно
+pawnbrokertalk4=О, я получу от этого выгоду!
+pawnbrokertalk5=Обещаю, я не обману вас!
+pawnbrokertalk6=Да, я знаю, что выгляжу шикарно!
+pawnbrokertalk7=У вас есть чашка чая?
+
+tpawnbrokertalk1=Торговец уже был здесь? Я только что встретил его в море
+tpawnbrokertalk2=Вы меня ждали? Это так мило
+
+explorertalk1=Мне больше всего нравятся тропические острова
+explorertalk2=У меня была своя доля опасных моментов
+explorertalk3=Это скучное место, я хочу куда-нибудь съездить!
+explorertalk4=Хорошая пара ботинок имеет большое значение
+explorertalk5=Интересно, найду ли я когда-нибудь один из этих храмов
+explorertalk6=Напомни мне принести воды перед отъездом
+explorertalk7=Давайте будем честными, выжить там довольно легко
+explorertalk8=Остерегайтесь ловушек при исследовании
+
+pirateattack1=В АТАКУ!
+pirateattack2=Сдайте ром и уносите ноги!
+pirateattack3=Мой порох быстро справится с вами!
+pirateattack4=Стоять!Враг в поле зрения!
+pirateattack5=Мы будем хлебать ром, когда закончим с вами!
+pirateattack6=Моя сабля разорвет вас на куски!
+pirateattack7=Вы пожалеете, что ступили на нашу землю!
+
+pirateescape1=Вы напуганы и бежите!
+pirateescape2=Я закончил с вами!
+pirateescape3=Может, в следующий раз, парень!
+
+[settlement]
+maxcount=<count> на поселение
+roomreqs=Требования для комнаты:
+showreqs=Удерживайте shift, чтобы увидеть требования к помещению
+clear=Очистить предпочитаемого поселенца
+outsideerr=Комната снаружи
+notopenerr=Room is not an open area
+doorerr=В комнате нет дверей
+doorreq=Хотя бы одна дверь
+lighterr=В номере нет освещения
+lightreq=Как минимум один источник света
+floorerr=Room doesn't have complete floor
+floorreq=Complete valid floor tiles
+roomtoosmall=Комната слишком маленькая
+roomsizereq=Размер комнаты не менее <size> плиток
+alchemyerr=В комнате должен стоять алхимический стол
+alchemyreq=Как минимум 1 алхимический стол
+metalworkerr=В комнате должна стоять кузница или наковальня
+metalworkreq=Как минимум 1 кузница или наковальня
+chairerr=В комнате должен стоять стул
+tableerr=В комнате должен стоять стол
+magereq=Хотя бы 1 стол и стул
+golderr=Комнате нужна золотая мебель
+goldreq=Хотя бы один предмет золотой мебели
+settlerunavailable=Недоступно
+settlershowtip=Удерживайте Shift, чтобы показать подсказку
+alchemisttip=Выпейте зелье
+anglertip=Поймайте рыбу
+pawnbrokertip=Complete Ancient Vulture quest tier
+animalkeepertip=Убейте Капитана пиратов
+blacksmithtip=Идите под землю и создайте слитки металла
+farmertip=Посетите остров с деревней
+guardtip=Нанесите больше урона!
+gunsmithtip=Убейте Защитника Зла
+huntertip=Исследуйте 10 или более островов
+magetip=Посетите подземелье и убейте Волшебника Бездны
+piratetip=Убейте Капитана Пиратов
+stylisttip=Убейте Капитана Пиратов
+explorertip=Убейте Древнего Стервятника
+travelingarrive=§a<mob> прибывает
+travelingleave=§a<mob> вас покидает
+
+[buff]
+healthpotionfatigue=Health potion fatigue
+onfire=Вы горите
+ablaze=Вы пылаете
+brokenarmor=Broken armor
+teleportsickness=Тошнота
+voidsetcooldown=Перезарядка бонуса комплекта бездны
+fowcooldown=Force of Wind cooldown
+lifelinecooldown=Recent lifeline
+spidervenom=Яд паука
+chilled=Chilled
+freezing=Freezing
+frostburn=Frostburn
+haunted=Haunted
+ninjasetbonus=Бонус набора Ниндзи
+bannerofspeed=Знамя скорости
+debugbuff=Debug buff
+summonedpet=Призван питомец
+summonedmount=Призван маунт
+summonedmob=Призвано существо
+settlementflag=Рядом поселение
+
+[bufftooltip]
+canceltip=Закрыть
+nomodifiers=§9Бафф не дает модификаторов
+teleportsicknesstip=Невозможно снова телепортироваться
+settlementflagtip=Значительно уменьшено появление мобов
+
+[biome]
+unknown=Неизвестно
+forest=Лес
+plains=Равнина
+desert=Пустыня
+desertvillage=Пустынная деревня
+swamp=Болото
+snow=Снег
+snowvillage=Снежная деревня
+dungeon=Вход в подземелье
+forestvillage=Лесная деревня
+piratevillage=Пиратская деревня
+
+[expedition]
+completequests=Выполните больше заданий поселения
+cave=Пещера
+swampcave=Болотная пещера
+dungeon=Подземелье
+desertcave=Пустынная пещера
+pirate=Пират
+deepcave=Глубокая пещера
+deepsnowcave=Глубокоснежная пещера
+
+[disconnect]
+chatmsg=<name> отключён: <msg>
+unknown=Причина неизвестна
+internal=Внутренняя ошибка
+kicked=Исключён: <reason>
+noreason=Нет причин
+invalidname=Неверное имя
+clientresponding=Не отвечает
+serverstopped=Сервер остановлен
+servererrorОшибка сервера
+wrongpassword=Неправильный пароль
+missingclient=Пропавший клиент
+banned=Вы забанены на данном сервере
+wrongversion=Неверная версия клиента
+alreadyplaying=Уже играет
+serverfull=Сервер заполнен
+nomessage=Нет сообщений
+missingappearance=Отсутствует внешний вид
+networkerror=Ошибка сети
+networkerrormsg=Ошибка сети: <msg>
+statedesync=Рассинхронизация состояния игры
+notresponding=Не получил обновлений в течение <seconds> секунд
+respondingdc=Сервер не отвечает
+
+[deaths]
+default=<victim> умер
+unknownatt=Unknown
+toobuffed=<victim> was too buffed
+generic1=<victim> был убит <attacker>
+generic2=<victim> был разорван на части <attacker>
+generic3=<victim> был унижен <attacker>
+generic4=<victim> не смог справиться <attacker>
+generic5=<attacker> преодолел <victim>
+generic6=<attacker> оказался слишком быстрым для <victim>
+generic7=<attacker> унизил <victim>
+generic8=<victim> не смог справиться <attacker>
+projectile1=<victim> got headshot by <attacker>
+projectile2=<attacker> landed a fatal shot on <victim>
+projectile3=<victim> was hunted down by <attacker>
+evilsproj1=<victim> got cleaned up by <attacker>
+evilsproj2=<attacker> finished off <victim>
+evilsproj3=<victim> could not handle <attacker>
+portalmin1=<victim> got scared of by <attacker>
+portalmin2=<victim> could not handle the horror of <attacker>
+portalmin3=<attacker> scared <victim> to death
+tntname=Взрывчатка
+explosionname=Взрыв
+explosion1=<victim> got split to pieces by <attacker>
+explosion2=<attacker> exploded all over <victim>
+explosion3=<attacker> made <victim> rest in pieces
+firename=Огонь
+lavaname=Лава
+fire1=<victim> не имел никакой защиты от <attacker>
+fire2=<attacker> was too hot for <victim>
+fire3=<victim> was burned alive by <attacker>
+arrowtrapname=Arrow trap
+flametrapname=Flame trap
+flametrap1=<victim> got roasted by <attacker>
+flametrap2=<attacker> grilled <victim>
+lightning1=<victim> got electrocuted to pieces by <attacker>'s lightning
+lightning2=<attacker> toasted <victim> with lightning
+zombie1=<victim> был разорван на части <attacker>
+zombie2=<victim> был унижен <attacker>
+zombie3=<attacker> съел всё тело <victim>'s
+mummy1=<victim> был обёрнут <attacker>
+mummy2=<attacker> оказался слишком страшным для <victim>
+mummy3=<attacker> к сожалению оказался слишком хорошим для <victim>
+skeleton1=<victim> был разорван на части <attacker>
+skeleton2=<attacker> оказался слишком страшным для <victim>
+skeleton3=<attacker> оказался слишком сложным для <victim>
+polar1=<victim> был растерзан <attacker>
+polar2=<attacker> оказался слишком быстрым для <victim>
+polar3=<victim> был убит <attacker>
+vamp1=<attacker> out juked <victim>
+vamp2=<attacker> унёс <victim> в своё логово
+vamp3=<victim> forgot the counter for <attacker>
+voidwiz1=<attacker> превратил в волшебную пыль <victim>
+voidwiz2=<attacker> защитил свою территорию от <victim>
+voidwiz3=<victim> получил слишком много заклинаний от <attacker>
+voidwiz4=<attacker>'s магия оказалась слишком мощной для <victim>
+voidapp1=<attacker> blasted <victim> with color
+voidapp2=<victim> попробовал вкус посоха <attacker>
+voidapp3=<attacker> оказался слишком быстрым для <victim>
+piratecap1=<victim> был окружен <attacker>
+piratecap2=<attacker> взорвал лицо <victim>
+piratecap3=<attacker> сохранил свое сокровище от <victim>
+piratecap4=<victim> не мог справиться с пушкой <attacker>
+cavespider1=<victim> был разорван <attacker>
+cavespider2=Клыки <attacker> были слишком большими для <victim>
+cavespider3=<attacker> съел заживо <victim> 
+
+[tech]
+all=All
+inventory=Инвентарь
+workstation=Верстак
+forge=Кузница
+carpenter=Верстак плотника
+ironanvil=Железная наковальня
+alchemy=Алхимический стол
+demonic=Демонический верстак
+advanced=Продвинутый верстак
+madein=Сделано в: <tech>
+madeinhidden=Сделано в: <tech> (hidden)
+
+[achievement]
+complete=Завершено
+incomplete=Не завершено
+track=Отслеживать <achievement>
+chatcomplete=§a<player> получил достижение §7<achievement>
+completedon=Получено <date>
+spelunker=Спелеолог
+spelunker_desc=Будьте осторожны, не заблудитесь!
+defeat_boss=Первый из многих
+defeat_boss_desc=Победите своего первого босса
+get_pet=Компаньон для приключений
+get_pet_desc=Заведите своего первого питомца
+start_settlement=Сделайте сами
+start_settlement_desc=Создайте поселение
+set_spawn=Вздремнул
+set_spawn_desc=Измените точку возрождения
+enchant_item=Ремесленник
+enchant_item_desc=Зачаруйте предмет у мага
+magical_drop=Волшебная капля
+magical_drop_desc=Увеличьте максимальное количество слотов для аксессуаров
+village_helper=Деревенский помощник
+village_helper_desc=Завершите задание поселения
+hoarder=Барахольщик
+hoarder_desc=Наполните полностью инвентарь различными предметами
+self_proclaimed=Самопровозглашенный
+self_proclaimed_desc=Наденьте золотую корону
+double_catch=Двойной улов
+double_catch_desc=Поймайте 2 рыбы за 1 бросок
+complete_host=Гостеприимный
+complete_host_desc=Поселите всевозможных жителей в одно поселение
+getting_hot=Становится жарко
+getting_hot_desc=Доберитесь до глубоких пещер
+obtain_items=Полный коллекционер
+obtain_items_desc=Получите все возможные предметы
+visit_biomes=Турист
+visit_biomes_desc=Посетите все биомы
+fish_up=Больше чем хобби
+fish_up_desc=Выловите 500 предметов
+run_marathon=Марафонец
+run_marathon_desc=Пробегите полный марафон пешком
+play_24h=Потраченное время
+play_24h_desc=Играйте в игру 24 часа
+
+[loading]
+foundmods=Found <mods> mod(s)
+loadedmods=Loaded <mods> mod(s)
+preinitmods=Pre initializing mods
+initmods=Initializing mods
+initmodsres=Initializing mod resources
+postinitmods=Post initializing mods
+biomes=Loading biomes
+buffs=Loading buffs
+fonts=Loading fonts
+items=Loading items
+leveldata=Loading level data
+levelevents=Loading level events
+mobs=Loading mobs
+objects=Loading objects
+pickups=Loading pickups
+projectiles=Loading projectiles
+textures=Loading textures
+sound=Loading sound
+shaders=Loading shaders
+commands=Loading commands
+tiles=Loading tiles
+worldevents=Loading world events
+finishing=Finishing up
+mapshot=Taking mapshot
+loading=Loading
+connecting=Connecting
+connectrecipes=Loading recipes <percent>%
+connectstats=Loading player stats
+connectworld=Loading world
+connectlevel=Loading level
+connectplayers=Loading players <percent>%
+connectclient=Loading client
+connectquests=Loading quests
+connectmap=Loading map <percent>%
+
+[ui]
+travelbutton=Переместиться на
+respawnbutton=Возродиться
+dirnorth=север
+dirwest=запад
+direast=восток
+dirsouth=юг
+dirnorthwest=северо-запад
+dirnortheast=северо-восток
+dirsouthwest=юго-запад
+dirsoutheast=юго-восток
+traveldir=Путешествовать на <dir>
+travelnorth=Путешествовать на север
+travelwest=Путешествовать на запад
+traveleast=Путешествовать на восток
+travelsouth=Путешествовать на юг
+travelnorthwest=Путешествовать на северо-запад
+travelnortheast=Путешествовать на северо-восток
+travelsouthwest=Путешествовать на юго-запад
+travelsoutheast=Путешествовать на юго-восток
+travelloading=Загрузка...
+scoreyour=Ваш остров
+scoredirup=Над вами
+scoredirdown=Под вами
+scoredirunknown=Неизвестное местоположение
+latencytip=<latency> мс
+respawn=Возродиться
+respawnin=Возрождение через <seconds>
+totalarmor=Общая броня: <armor>
+filtercraft=Можно изготовить
+changefilters=СМЕНИТЬ ФИЛЬТРЫ
+craftfilters=Фильтры изготовления
+craftsearchfilter=Фильтр
+showhidden=Показать скрытое
+craftshowhiddentip=Некоторые рецепты скрыты до тех пор, пока вы их не создадите, или пока у вас не появится определенный ингредиент в инвентаре.
+usenearbyinv=Использовать ближайшие сундуки
+usenearbyinvtip=Если изготавливаете, должен использовать близлежащие предметы из сундуков
+expand=Развернуть
+collapse=Свернуть
+catmats=Материалы
+catobjects=Объекты
+cattools=Инструменты
+catarmor=Броня
+catmisc=Разное
+shopnoitems=Предметов не найдено
+shopselltip=§aПолучить <coins> монет за <amount> шт:
+shopbuytip=§aОтдать <coins> монет за <amount> шт:
+insertmat=Поместите материал для изготовления в слот
+waystoneinvalidhome=§6Не удалось найти домашний камень
+waystonenoslots=§6Нет пустых слотов в путевом камне
+waystoneinvalid=§6Не удалось найти путевой камень
+currenttime=Текущее время: <time>
+hotkeytip=Клавиша: <hotkey>
+dontshowagain=Больше не показывать
+backbutton=Назад
+buybutton=Купить
+confirmbutton=Подтвердить
+continuebutton=Продолжить
+selectbutton=Выбрать
+acceptbutton=Принять
+declinebutton=Отклонить
+cancelbutton=Отменить
+closebutton=Закрыть
+
+// Main menu
+continueworld=Продолжить играть
+continuetip=Продолжить <world>
+newworld=Новый мир
+loadworld=Загрузить мир
+hostworld=Многопользовательская игра
+multiplayer=Сетевая игра
+settings=Настройки
+mods=Моды
+exit=Выйти
+loadsave=Загрузить
+confirmdeletesave=Удалить сохранение "<save>"?
+deletesave=Удалить
+backupsave=Резервная копия
+nosavestip=Сохраненных миров не найдено. Сначала создайте новый.
+savetip=День: <day>, время: <time>
+refreshservers=Обновить
+addserver=Добавить сервер
+deleteserver=Удалить сервер
+confirmdeleteserver=Удалить сервер "<server>"?
+joinserver=Подключиться к серверу
+directjoin=Прямое подключение
+unknownaddress=Неизвестный адрес
+searchinglan=Поиск локальных серверов...
+searchlandone=Поиск по локальной сети выполнен
+correctversion=Правильная версия игры
+wrongversion=Неправильная версия игры
+serverversion=Версия сервера <version>
+passwordprotected=Сервер защищён паролем
+serversettings=Настройки сервера:
+mobsdisabled=Возрождение мобов выключено
+mobsenabled=Возрождение мобов включено
+keepinv=Сохранять инвентарь после смерти
+dropinv=Не сохранять инвентарь после смерти
+forcepvpon=Forced PvP вкл
+forcepvpoff=Forced PvP выкл
+difficulty=Сложность
+difficultytip=<difficulty> сложность
+diffeasy=Лёгкий
+diffeasytip=Получаемый урон уменьшен
+diffnormal=Нормальный
+diffhard=Сложный
+diffhardtip=Получаемый урон увеличен
+showadvanced=Зажмите shift чтобы узнать подробнее
+daymod=Дневное время: <mod>
+nightmod=Ночное время: <mod>
+connectserver=Присоединиться
+connectcancel=Отмена
+charcreate=Создать
+addconfirm=Добавить
+passwordreq=Сервер требует пароль
+namedesc=Имя:
+nameexample=Показывать только имя
+ipdesc=IP адрес:
+ipexample=Например 127.0.0.1
+portdesc=Порт:
+portexample=Например 14159 или 9001
+hostport=Порт
+playerslots=Количество мест для игроков
+password=Пароль
+passwordtip=Оставьте поле пустым, чтобы не использовать пароль
+hoststart=Создать
+rotate=Повернуть
+hair=Волосы
+haircolor=Цвет волос
+skin=Кожа
+eyes=Глаза
+shirtcolor=Цвет рубашки
+shoescolor=Цвет обуви
+selectcolor=Выбрать цвет
+colorred=Красный
+colorgreen=Зелёный
+colorblue=Синий
+resetappearance=По умолчанию
+undoreset=Сбросить по умолчанию
+randomappearance=Рандомизировать
+customspawn=Пользовательский остров возрождения
+xcoord=X координата
+ycoord=Y координата
+spawnguide=Дом с гидом
+disablespawns=Отключить возрождение мобов
+daymodnew=Модификатор дневного времени
+nightmodnew=Модификатор ночного времени
+spawnsettings=Настройки возрождения
+spawnseed=Сид\n
+resetseed=Сбросить
+playername=Имя игрока
+playernamesize=Имя должно содержать от 4 до 20 символов
+playernamesymbols=Имя содержит неверные символы
+playernameinuse=Имя уже используется
+savename=Сохранить имя
+createworld=Создать мир
+worldsettings=Настройки мира
+worldadvanced=Продвинутые
+hostnewworld=Создать новый мир
+selectsave=Выбрать
+steamlobbytype=Видимость сервера
+steamlobbyinvite=Только по приглашению
+steamlobbyfriends=Только друзья
+steamlobbypublic=Открытый
+allowconnectbyip=Разрешить подключение по IP
+peacefulbox=Мирный
+dropinvbox=Выпадение вещей после смерти
+forcedpvpbox=Принудительное PvP
+rememberpass=Запомнить пароль
+waitserver=Сервер выключается ...
+modmoveup=Move up
+modmovedown=Move down
+modenable=Enable
+moddisable=Disable
+modhelp=Help
+modssave=Save
+modsinfoselect=Select mod for details
+modstatusenabled=enabled
+modstatusdisabled=disabled
+modstatus=Status: <status>
+modinfoid=ID: <id>
+modinfoname=Name: <name>
+modinfoversion=Version: <version>
+modinfogameversion=Game version: <version>
+modinfodep=Dependencies:
+modinfooptdep=Optional dependencies:
+modssavenotice=NOTICE:\nYou must restart the game for change to take effect
+modsquit=Quit now
+modslater=Do later
+modsempty=Не найдено модов
+modsalpha=ALPHA
+modsalphatip=Modding is still in very early stages.\nYou may experience game breaking bugs while using this feature
+modhelptext=Place mods JAR files into games mods directory (create one if it doesn't exist) and they will appear here after restart.
+modiniterror=An error occurred while initializing mod\n"<mod>"\nCheck the latest log for details.
+modmismatch=Your mods do not match the servers
+modmatch=Your mods match the servers
+modreview=Review
+servermods=Моды сервера
+mymods=Мои моды
+useservermods=Использовать моды сервера
+modmissing=Missing
+modinversion=Incorrect version
+modinposition=Incorrect position
+modmissingsome=Missing some mods
+
+// Achievements and stats form
+achievementsandstats=Достижения и статистика
+achievements=Достижения
+achdisabled=Достижения отключены
+achenabled=Достижения включены
+achdisabledhelp=В этом мире отключены достижения и статистика. Достижения выключается при включении читов.  Это необратимо, и вам нужно будет создать новый мир, чтобы выполнить достижения.
+showcompleted=Показать выполненные
+loadingstats=Загрузка...
+statsnotfound=Статистика не найдена
+playerstats=Статистика игрока
+playerstatstip=Ваша суммарная статистика со всех миров
+psdisabled=Статистика игрока выключена
+globalstats=Глобальная статистика
+characterstats=Статистика персонажа
+characterstatstip=Статистика данного персонажа
+worldstats=Мировая статистика
+worldstatstip=Общая статистика в этом мире
+gotinvite=Приглашение от <name>
+
+// Pause menu
+resumegame=Продолжить
+invitefriends=Пригласить друзей
+playinggame=Играет <game>
+playingother=Играет в другую игру
+invite=Пригласить <name>
+invited=Приглашён <name>
+couldnotinvite=Невозможно пригласить <name>
+tomain=Главное меню
+statusonline=Онлайн
+statusoffline=Оффлайн
+statusaway=Отошёл
+statusbusy=Занят
+statusSnooze=Спит
+statuslookingtoplay=Хочет играть
+statuslookingtotrade=Хочет торговаться
+
+// Player
+pvplabel=PvP
+teamcreate=Создать новую команду
+teamleave=Покинуть команду
+teamleaveconfirm=Покинуть команду?\nВам нужно будет получить приглашение, чтобы присоединиться снова
+teamnocurrent=Вы не состоите в команде
+teamowner=Командир: <owner>
+teamchangename=Переименовать команду
+teaminvite=Пригласить игроков
+teaminviteselected=Пригласить выбранных
+teammembers=Члены
+teamkick=Исключить <name>
+teampassowner=Pass team ownership
+teaminvites=Приглашения
+diedlabel=Вы умерли
+settlement=Посёлок
+settlementsurface=Только на поверхности
+pvpandteams=PvP и команды
+quests=Задания
+noquests=У вас нет активных заданий
+maphide=Скрыть
+mapshow=Показать
+toggleautodoor=Автооткрывание дверей
+
+// Containers
+elderheader=Чем я могу помочь?
+elderquest=Задание поселения
+elderquestprogress=Прогресс заданий
+eldernoquest=Нет текущих заданий поселения
+eldertakequest=Взять задание
+eldercompletequest=Завершить задание
+elderskipquest=Пропустить задание
+elderskipquesttime=В данный момент невозможно пропустить это задание
+elderskipquestcant=Невозможно пропустить это задание
+eldertips=Совет
+eldernexttip=Следующий
+elderprevtip=Предыдущий
+eldertip1=Лестницы помогают спуститься под землю, где можно найти ресурсы и сокровища
+eldertip2=Некоторые рецепты скрыты, пока вы не найдёте все ингредиенты
+eldertip3=Используйте руководство по изготовлению, чтобы увидеть рецепты с использованием материалов для изготовления.
+eldertip4=На некоторых островах есть деревни с людьми, готовые торговать
+eldertip5=В подземелье есть могущественный волшебник, охраняющий его
+eldertip6=Опасного демона можно вызвать, если вы найдете портал призыва
+eldertip7=Рыбалка очень полезна для создания зелий
+eldertip8=Броня обычно имеет набор бонусов, когда надеты все части
+eldertip9=Торговцы меняют свои цены каждый день. Попробуйте торговать с ними в лучший для них день
+eldertip10=Создание собственного поселения очень полезно, чтобы всегда иметь доступ к торговцам
+eldertip11=Некоторые торговцы начнут продавать больше предметов, после того как вы победите определенных врагов
+eldertip12=Могущественное существо можно найти в пещерах пустыни
+elderhelpbutton=Объясните кое-что
+elderhelp=Выберите тему
+eldercrafting=Изготовление
+eldercraftingtip=Все предметы с надписью «Материал для изготовления» где-то используются в рецепте. Используйте свой инвентарь для создания простых рецептов. Верстак и наковальня используются для изготовления более продвинутых предметов. Используйте фильтр для определённых рецептов.Поместите материал для изготовления в слот снизу, чтобы посмотреть возможные рецепты.
+elderexploring=Изучение
+elderexploringtip=Плавание к краю карты позволит вам путешествовать по разным островам. Побывав на острове, вы откроете для себя его биом для будущих путешествий. Некоторые острова имеют более высокий уровень опасности, поэтому, возможно,вам предстоит уйти и вернуться попозже.
+eldertrading=Торговля
+eldertradingtip=На некоторых островах есть деревни с торговцами. У торговцев есть случайные предметы своей профессии, которые они хотят купить или продать. У некоторых торговцев одной профессии будут разные предметы и цены. Начните поселение, чтобы рядом всегда были конкретные торговцы.
+elderobjects=Объекты
+elderobjectstip=Объекты - это вещи, расположенные в мире. У некоторых объектов есть коллизия, и с некоторыми объектами можно взаимодействовать. Используйте такие инструменты, как топор и кирка, чтобы сломать их.
+eldertiles=Плитки
+eldertilestip=Плитки - это вещи, по которым вы ходите и плаваете. Некоторые объекты можно размещать только на определенных плитках. Используйте лопату, для сбора большинства плиток.
+eldertools=Инструменты
+eldertoolstip=Инструменты ранней игры изготавливаются на железной наковальне. Кирки используются для твёрдых объектов, топоры для предметов из дерева и лопаты для плитки. Чтобы сломать некоторые объекты, потребуются более продвинутые инструменты.
+elderweapons=Оружие
+elderweaponstip=Базовое оружие для ранней игры создается на железной наковальне. Более продвинутое оружие часто можно найти в сундуках по всему миру. Существует множество видов оружия, от мечей и луков до ружей, бумерангов и магического оружия.
+elderarmor=Броня
+elderarmortip=Доспехи в ранней игре изготавливаются на железной наковальне. Комплекты доспехов часто дают бонусы, когда надет полный комплект. Слоты для косметической брони не дают никаких характеристик, но внешне накладываются поверх надетой броне.
+eldertrinkets=Аксессуары
+eldertrinketstip=Акссесуары часто можно найти в сундуках по всему миру, а иногда и создавать. Они дают различные баффы и чары. Характеристики от ношения двух одинаковых аксессуаров не совмещаются и последующий аксессуар не будет работать.
+elderenchants=Зачарование
+elderenchantstip=Большинство оружия и аксессуаров можно зачаровать для улучшения характеристик. Вы можете найти дружелюбного мага, который поможет вам за определенную плату зачаровать их. Хорошие чары очень помогают преодолеть будущие испытания.
+elderpotions=Зелья
+elderpotionstip=Зелья можно найти в сундуках или изготовить на алхимическом столе. Они важны для выживания и победы над сильными врагами, поэтому не жалейте их!
+eldersettlements=Поселения
+eldersettlementstip=Поселения - это деревни, созданные игроками. Для начала создайте флаг поселения и поставьте его. Затем комнаты и здания начнут заполняться NPC в зависимости от владельца поселения. Другие люди могут силой переселить поселенцев, к которым у них есть доступ, в общественные поселения. Убивайте боссов и продвигайтесь, чтобы разблокировать больше NPC.
+demoniccrafting=Демонический верстак
+tpislandrange=Расстояние до острова: <range>
+tpdestinations=Направления
+traderbuy=Купить
+tradersell=Продать
+mageheader=Я могу помочь вам зачаровать предметы, или вы можете посетить мой магазин!
+mageenchant=Зачаровать
+mageconfirm=Зачаровать!
+mageenchanttip=Поместите предмет в слот и нажмите зачаровать, чтобы получить случайные чары или проклятие!
+magecost=Затраты:
+stylistheader=Нужна новая стрижка или просто собираетесь купить рубашку?
+stylistchange=Сменить стиль
+stylistbuy=Купить
+stylistcost=Расходы:
+stylistshirtcolor=Цвет рубашки
+stylistshoescolor=Цвет обуви
+stylistreset=Сброс
+stylistrandom=Рандомизировать
+brokerprofit=Прибыль:
+brokervalue=Ценность: <value>
+explorerfindisland=Найдите остров
+explorerexpeditions=Экспедиции
+explorerselectisland=Выберите остров
+explorerfindcost=Я пойду искать <biome> за <cost> монет
+explorerfoundisland=Я нашёл <biome> <dir> отсюда
+explorerfoundfail=Я не мог найти остров, который вы искали
+explorerknowalready=Похоже, вы уже знате об <biome>, который я нашел. Вы хотите, чтобы я нашел новый?
+explorerfindnew=Найти новый
+explorerdiscover=Discovered island <dir> of your location (<coord>)
+explorerselectexp=Выберите экспедицию
+explorershowallexp=Показать все
+explorerexpcost=Я принесу предметы из экспедиции <expedition> за <cost> монет с шансом успеха <chance>%
+explorerexpfail=Извините, но мне не удалось завершить экспедицию
+explorerexpcomplete=Я нашел эти предметы во время экспедиции
+explorerexploot=Получить
+explorerexpdiscard=Отказаться
+wireinputs=Входы
+wireoutputs=Выходы
+wire0=Красный провод
+wire1=Зелёный провод
+wire2=Синий провод
+wire3=Жёлтый провод
+bufferticks=Тиков
+buffertip=<ticks> тиков это 1 сек
+buffersave=Save
+timerticks=Ticks
+timertip=<ticks> тиков это 1 сек
+timersave=Save
+soundpitch=Высота
+soundsave=Сохранить
+sensorplayers=Игроки
+sensorhostile=Вражеские мобы
+sensorpassive=Пассивные мобы
+sensorrange=Дальность
+rsactivate=Активировать
+rsreset=Сбросить
+inventoryrename=Переименовать
+inventorysave=Сохранить
+inventoryquickstack=Пополнить из инвентаря
+inventoryquickstackinfo=Will quick stack items to inventory. Use <key> to lock items from being stacked
+inventoryrestock=Пополнить из сундука
+inventorylootall=Забрать всё из сундука
+inventorysort=Сортировать инвентарь
+telepadname=Name
+telepadprivate=Private
+telepadregister=Register
+telepaddial=Dial
+telepadaccesserr=Частный телепад
+telepadnodest=Нет действительных направлений
+settlementnone=Флаг поселения не был найден
+settlementman=Менеджер поселения
+settlementowner=Владелец: <owner>
+settlementpriv=Настройки конфиденциальности
+settlementispriv=Частное поселение
+settlementowneronly=Только владелец
+settlementmakepriv=Сделать частным
+settlementmakepub=Сделать открытым
+settlementclaim=Утвердить поселение
+settlementunclaim=Распустить поселение
+settlementclaimfirst=Утвердить первым
+settlementroom=Управление комнатами
+settlementhowto=Помощь:\n1. Нажмите на предпочитаемого поселенца\n2. Нажмите на комнату, чтобы запереть
+settlementshowall=Показать всех
+travelselect=Выберите остров
+travelworldmap=Карта мира
+travelhelp=ЛКМ, чтобы переместиться\nПКМ, чтобы сфокусироваться.
+travelteam=Члены команды:
+travelspawn=§aОстров возрождения
+traveldiscovered=§7Исследовано
+travelnotdiscovered=§9Не исследовано
+travelloadingisland=§9Загрузка острова...
+traveloutrange=§6OВне зоны доступа
+travelnotes=Заметка:
+travelcantcurrent=Невозможно переместиться к данному месту назначения
+travelcantrange=Пункт назначения вне зоны доступа
+travelcantmap=Идите к краю карты, чтобы переместиться
+travelcancel=Отмена
+travelconfirm=Переместиться
+craftingguide=Руководство по изготовлению
+composting=Компостирование...
+needcompost=Нужен компостный материал
+emptywaystones=Пустой слот в путевом камне: <count>
+waystonenum=Путевой камень <num>
+waystonerename=Переименовать
+waystonesave=Сохранить
+waystonehelp=Получайте по одному слоту путевых камней за каждое завершенное задание\nПутевые камни можно купить у мага в деревне
+
+// Sidebars
+tutoriallabel=Руководство
+wireedit=Изменить провода
+
+// Quickbar
+shiftmoreinfo=Удерживайте Shift, чтобы узнать больше
+restocktip=Пополнить из ближайших сундуков
+quickstacktip=Восполнить запасы в сундуках
+quickstacktipinfo=Быстро складывает предметы в ближайшие сундуки. Удерживайте <key> чтобы заблокировать предметы от сортировки
+sorttip=Сортировать инвентарь
+sorttipinfo=Удерживайте <key> чтобы заблокировать предметы от сортировки
+
+[quests]
+complete=Завершено
+incomplete=Не завершено
+track=Отследить задание
+abandon=Отменить
+abandonconfirm=Отказаться от задания?
+genericquest=Задание
+settlementquest=Задание поселения
+killmob=Убейте <mob>
+deliveritem=Доставьте <item>
+
+[tutorials]
+treestorch=Следуйте за всплывающими указателями, чтобы выучить как срубить дерево и изготовить факел.
+hittree=Подойдите ближе и ударьте по дереву топором, зажав <key>
+findtree=Найдите дерево, чтобы срубить
+openinv=Нажмите <key> чтобы открыть инвентарь
+crafttorch=Создайте факел в меню изготовления
+craftwork=Найдите или создайте верстак (требуется 10[item=pinelog]) и поставьте, нажав <key1>. Затем откройте,нажав <key2> на него.
+craftpick=Найдите и изготовьте деревянную кирку на верстаке (требуется 5[item=pinelog]).
+talkelder=Поговорите со старцем, чтобы узнать об игре.
+elderdoor=Подойте и откройте дверь, нажав <key>
+elderwalk=Подойдите поближе и поговорите со старейшиной нажав <key>
+talkelderstop=Отойдите или нажмите <key> чтобы перестать разговаривать со старцем.
+findore=Найдите под землей руду для добычи. Вы можете разместить факелы, чтобы осветить территорию.
+gounder=Спуститесь под землю, чтобы найти руду
+craftladder=Создайте лестницу, разместите её и используйте, чтобы спуститься под землю.
+craftladderfloat=Создайте лестницу в своём инвентаре и поместите ее нажав <key>
+useladder=Идите и используйте лестницу, чтобы спуститься под землю.
+useladderfloat=Подойдите ближе и нажмите <key> по лестнице, чтобы спуститься под землю
+useladderdoor=Идите и используйте лестницу, чтобы спуститься под землю. Вы можете открывать и закрывать двери, нажав <key> на них.
+mineore=Добывайте руду, нажав <key> выбрав кирку.
+findorefloat=Прогуляйтесь или покапайте рядом, чтобы найти руду
+ores=Руда используется для изготовления слитков, которые используются во многих рецептах на протяжении всей игры.
+oresnext=Далее
+travel=Если вы устремитесь по воде к краю мира, у вас появится возможность путешествовать к другим островам. Острова имеют разные биомы и особенности, как подземелья и деревни. Нажмите <key> чтобы открыть карту мира. Удачи в исследованиях!
+travelend=Завершить руководство
+skip=Пропустить
+
+[settingsui]
+front=Настройки
+world=Мир
+general=Основные
+language=Язык
+controls=Управление
+interface=Интерфейс
+graphics=Графика
+displaymode=Режим:
+displaywindowed=Окно
+displayborderless=Окно без рамок
+displayfullscreen=Полноэкранный
+displayres=Разрешение экрана:
+maxfps=Лимит FPS:
+fpsnocap=Без лимита
+particles=Частицы:
+particlesmin=Минимум
+particlesdec=Уменьшено
+particlesmax=Максимум
+cursorcolor=Цвет курсора
+cursorpreview=Предпросмотр
+sound=Звук
+confirm=Подтвердить?
+zoomlevel=Уровень приближения
+pausefocus=Пауза при потере фокуса
+skiptutorial=Всегда пропускать обучение
+showdebug=Показать информацию об отладке
+showquest=Показать маркеры заданий
+showpickup=Показать текст подобранных вещей
+showdamage=Показать текст урона
+showdot=Показать текст о продолжительном уроне
+showbosshealthbars=Показать полосу здоровья боссов
+showtooltipsbackground=Показать фон всплывающих подсказок
+showcontroltips=Показать советы по управлению
+showlogicgate=Показать всплывающие подсказки логических вентилей
+alwaysshowquickbar=Всегда показывать панель быстрого доступа
+interfacesize=Размер
+languageselect=Язык: <language>
+opensaves=Открыть папку сохранений
+resetrecipes=Восстановить рецепты по умолчанию
+resetcache=Очистить папку кэша клиента
+recipesconfirm=Вы уверены, что хотите сбросить рецепты?
+cacheconfirm=Вы уверены, что хотите очистить папку кэша клиента?
+onlyinmenu=Невозможно сделать в игре
+vsync=Включить вертикальную синхронизацию
+smoothlight=Мягкое освещение
+perffocus=Сохранение производительности при потере фокуса
+wavygrass=Волнистая трава
+camerashake=Дрожание камеры
+cursorsize=Размер
+mutefocus=Отключение звука при потере фокуса
+mastervolume=Общая громкость
+effectsvolume=Громкость эффектов
+weathervolume=Громкость погоды
+uivolume=Громкость интерфейса
+musicvolume=Громкость музыки
+nopermission=Нет разрешения сервера
+languagecomingsoon=Скоро еще больше языков!
+save=Сохранить
+
+[stats]
+filter=Фильтр:
+time_played=Время в игре
+distance_ran=Пройдено расстояния
+distance_ridden=Расстояние, пройденное верхом
+damage_dealt=Урона нанесено
+show_types=Показать подробнее
+damage_taken=Урона получено
+deaths=Смертей
+mob_kills=Убито мобов
+boss_kills=Убито боссов
+show_mobs=Показать мобов
+island_travels=Путешествия по островам
+islands_discovered=Островов исследовано
+biomes_discovered=Исследовано биомов
+show_biomes=Показать биомы
+objects_mined=Добыто объектов
+objects_placed=Размещено объектов
+tiles_mined=Добыто плитки
+tiles_placed=Размещено плитки
+potions_consumed=Использовано зелий
+fish_caught=Рыбы поймано
+quests_completed=Заданий выполнено
+money_earned=Денег заработано
+items_sold=Предметов продано
+money_spent=Денег потрачено
+items_bought=Предметов куплено
+items_enchanted=Предметов зачарованно
+items_obtained=Уникальных предметов получено
+show_missing_items=Показать недостающие предметы
+show_items_all=Все
+show_items_obtained=Получено
+show_items_not_obtained=Не получено
+have_all_items=Вы получили все предметы!
+trinkets_worn=Изношено аксессуаров
+show_missing_trinkets=Показать недостающие аксессуары
+missing_trinkets=Недостающие аксессуары:
+have_all_trinkets=Вы поносили все аксессуары!
+set_bonuses_worn=Бонусных комплектов поношено
+telepads_used=Использовано телепадов
+ladders_used=Использовано лестниц
+doors_used=Использовано дверей
+plates_triggered=Сработано нажимных плит
+levers_flicked=Щелкнуто рычагов
+homestones_used=Использовано домашних камней
+waystones_used=Использовано путевых камней
+crafted_items=Создано предметов
+crates_broken=Разбито ящиков
+
+normal_damage=Обычный урон
+true_damage=Чистый урон
+melee_damage=Урон в ближнем бою
+ranged_damage=Урон в дальнем бою
+magic_damage=Магический урон
+summon_damage=Призывающий урон
+
+[controls]
+groupgeneral=Основное
+groupmovement=Передвижение
+groupmisc=Разное
+groupkeymods=Ключевые модификаторы
+groupdebug=Режим отладки
+mouse1=Атаковать/размещать
+mouse2=Взаимодействовать
+moveup=Вверх
+moveleft=Влево
+movedown=Вниз
+moveright=Вправо
+movetomouse=Передвижение мышкой
+inventory=Инвентарь
+healthpotion=Использовать зелье здоровья
+setability=Использовать способность набора брони
+trinketability=Использовать способность аксессуаров
+smartmining=Умная добыча
+scoreboard=Табло
+showmap=Показать карту острова
+showworldmap=Показать карту мира
+zoomin=Приблизить
+zoomout=Отдалить
+hideui=Скрыть интерфейс
+screenshot=Скриншот
+debuginfo=Отладка
+debughud=Интерфейс отладки
+buffpotions=Использовать зелье баффов
+placetorch=Поставить факел
+nexthotbar=След слот панели быстрого доступа
+prevhotbar=Пред слот панели быстрого доступа
+invlock=Блокировка слота переключателя
+invquickmove=Быстрое перемещение
+invtrash=Быстрая утилизация
+craftall=Изготовить всё
+craft5=Изготовить 5
+
+// Control tips
+interacttip=Взаимодействовать
+usetip=Использовать
+opentip=Открыть
+closetip=Закрыть
+boatuse=Использовать лодку
+humantalk=Поговорить
+mountmob=Оседлать
+addropemob=Надеть верёвку
+removeropemob=Снять верёвку
+feedmob=Покормить
+equiptip=Надеть
+
+[misc]
+recipecostmult=Стоимость для <amount>:
+recipecostsing=Расходы:
+ingredienthave=Требуется: <ingredient>
+epspawn=§bЗащитник Зла был призван!
+epescape=§bЗащитник Зла сбежал, увидев свет!
+epdefeat=§bЗащитник Зла был побеждён!
+vwstart=§bВолшебник Бездны пробудился!
+vwdefeat=§bВолшебник Бездны был побеждён!
+pcdefeat=§bКапитан Пиратов был побеждён!
+invasionspawn=§bНачалось нашествие мобов!
+vulturespawn=§bДревний Стервятник был призван!
+vulturestart=§bДревний Стервятник пробудился!
+vulturedefeat=§bДревний Стервятник был побеждён!
+reaperspawn=§bЖнец был призван!
+reaperdefeat=§bЖнец был побеждён!
+cryoqueenspawn=§bКрио Королева была призвана!
+cryoqueendefeat=§bКрио Королева была побеждена!
+pvpenable=<player> включил PvP
+pvpdisable=<player> выключил PvP
+teamjoin=<player> присоединился к команде <team>
+teamleft=<player> покинул команду <team>
+teamkick=<player> был исключён из команды <team>
+teaminvite=Вы были приглашены в команду <team>
+screenshotsave=Скриншот сохранён в <path>
+mapshotsave=Мапшот сохранён в <path>
+mapshottip=Мапшот сохраняется, это может занять некторое время...
+shotopen=Нажмите, чтобы открыть папку
+shotexplore=Нажмите, чтобы показать в проводнике
+clearsettler=Clear settler
+locksettler=Lock <settler>
+nosettler=Lock no settler
+playerconnecting=<player> подключается!
+playerjoined=<player> присоединился!
+laddernotsurface=Я могу использовать это только на поверхности
+mountnotown=Вы не владеете этим маунтом!
+spawndungeon=Невозможно поставить точку возрождения внутри подземелья
+spawnhouse=Невозможно поставить точку возрождения снаружи
+spawnset=Точка возрождения установлена!
+spawnremoved=Точка возрождения удалена!
+spawninvalid=Предыдущая точка возрождения недействительна!
+boatplacetip=Чтобы подобрать лодку, ударьте её!
+dpscount=DPS: <dps>
+permuser=Пользователь
+permmod=Модератор
+permadmin=Администратор
+permowner=Основатель
+permserver=Сервер
+permchange=Permissions set to: <perm>
+allowcheats=Разрешить читы, чтобы сделать это
+smartminingon=Умная добыча ВКЛ
+smartminingoff=Умная добыча ВЫКЛ
+eanotice=Уведомление:\nЭта сборка находится в раннем доступе.\n\nВы можете столкнуться с ошибками, отсутствующими, незавершенными или не отшлифованными функциями.\n\nСпасибо, что играете!
