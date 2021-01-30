@@ -845,12 +845,12 @@ tungstentooltip2=Minerai de glace dans des profondes grottes de neige
 
 // Weapons
 // Armes
-damagetip=Dégat : <value>
-truedamagetip=Dégat réel : <value>
-meleedamagetip=Dégat mélée : <value>
-rangeddamagetip=Dégat distance : <value>
-magicdamagetip=Dégat magique : <value>
-summondamagetip=Dégat d'invocation : <value>
+damagetip=Dégâts : <value>
+truedamagetip=Dégâts réel : <value>
+meleedamagetip=Dégâts mêlée : <value>
+rangeddamagetip=Dégâts distance : <value>
+magicdamagetip=Dégâts magique : <value>
+summondamagetip=Dégâts d'invocation : <value>
 knockbacktip=Recul : <value>
 ammotip=Munition disponile : <value>
 arrowtip=Peut être tiré avec un arc
@@ -1048,88 +1048,91 @@ razoricicleobtain=Lâché par les flocons de glace
 noenchant=NO_ENCHANT
 
 // Trinkets
-keen=Keen
-blunt=Blunt
-nimble=Nimble
-sluggish=Sluggish
-quick=Quick
-clumsy=Clumsy
-sturdy=Sturdy
-weak=Weak
+// Bibelots
+keen=Vif
+blunt=Émoussé
+nimble=Agile
+sluggish=Lent
+quick=Rapide
+clumsy=Maladroit
+sturdy=Robuste
+weak=Faible
 
 // Swords
+// Épées
 berserk=Berserk
 brutal=Brutal
-shoddy=Shoddy
-light=Light
+shoddy=Mauvaise
 agile=Agile
-heavy=Heavy
+heavy=Lourde
 
 // Projectile
-pounding=Pounding
-tightened=Tightened
-broken=Broken
-loose=Loose
-advanced=Advanced
-primitive=Primitive
+// Projectile
+pounding=Martèlement
+tightened=Resserré
+broken=Cassé
+loose=Ample
+advanced=Avancé
+primitive=Primitif
 
 // Tool damage
-sharp=Sharp
-dull=Dull
+// Dommages aux outils
+sharp=Tranchant
+dull=Terne
 
 [buffmodifiers]
 limitmax=Max <modifier>
 limitmin=Min <modifier>
 
-damage=<mod>% damage
-meleedamage=<mod>% melee damage
-rangeddamage=<mod>% ranged damage
-magicdamage=<mod>% magic damage
-summondamage=<mod>% summon damage
-tooldamage=<mod>% tool damage
-armorpen=<mod>% armor penetration
-armorpenflat=<mod> armor penetration
-knockbackout=<mod>% knockback
+damage=<mod>% de dégâts
+meleedamage=<mod>% de dégâts de mêlée
+rangeddamage=<mod>% de dégâts de distance
+magicdamage=<mod>% de dégâts magique
+summondamage=<mod>% de dégâts d'invocation
+tooldamage=<mod>% de dégâts d'outils 
+armorpen=<mod>% de pénétration d'armure
+armorpenflat=<mod> pénétration d'armure
+knockbackout=<mod>% de recul
 
-speed=<mod>% speed
-speedflat=<mod> speed
-slow=<mod>% slow
-swimspeed=<mod>% swim speed
-friction=<mod>% friction
-acceleration=<mod>% acceleration
-deceleration=<mod>% deceleration
+speed=<mod>% rapide
+speedflat=<mod> rapide
+slow=<mod>% lent
+swimspeed=<mod>% de vitesse de nage
+friction=<mod>% de friction
+acceleration=<mod>% d'accélération
+deceleration=<mod>% de décélération 
 
-armor=<mod>% armor
-armorflat=<mod> armor
+armor=<mod>% d'armure
+armorflat=<mod> d'armure
 
-maxhealth=<mod>% max health
-maxhealthflat=<mod> max health
+maxhealth=<mod>% de vie maximale
+maxhealthflat=<mod> de vie maximale
 
-regen=<mod>% regen
-regenflat=<mod> regen
-combatregen=<mod>% combat regen
-combatregenflat=<mod> combat regen
+regen=<mod>% de régénération
+regenflat=<mod> de régénération
+combatregen=<mod>% de régénération en combat
+combatregenflat=<mod> de régénération en combat
 
-poisondamage=<mod>% poison damage
-poisondamageflat=<mod> poison damage
-firedamage=<mod>% fire damage
-firedamageflat=<mod> fire damage
-frostdamage=<mod>% frost damage
-frostdamageflat=<mod> frost damage
+poisondamage=<mod>% de dégâts de poison
+poisondamageflat=<mod> de dégâts de poison
+firedamage=<mod>% de dégâts de feu
+firedamageflat=<mod> de dégâts de feu
+frostdamage=<mod>% de dégâts de froid
+frostdamageflat=<mod> de dégâts de froid
 
-mobspawnrate=<mod>% mob spawn rate
-mobspawncap=<mod>% mob spawn cap
+mobspawnrate=<mod>% de taux d'apparition de monstre
+mobspawncap=<mod>% du plafond d'apparition de monstre
 
-attackspeed=<mod>% attack speed
-meleeattackspeed=<mod>% melee attack speed
-rangedattackspeed=<mod>% ranged attack speed
-magicattackspeed=<mod>% magic attack speed
+attackspeed=<mod>% de vitesse d'attaque
+meleeattackspeed=<mod>% de vitesse d'attaque de mêlée
+rangedattackspeed=<mod>% de vitesse d'attaque de distance
+magicattackspeed=<mod>% de vitesse d'attaque magique
 
-miningspeed=<mod>% mining speed
-buildingspeed=<mod>% building speed
+miningspeed=<mod>% de vitesse de minage
+buildingspeed=<mod>% de vitesse de construction
 
-miningrange=<mod> mining range
-buildingrange=<mod> building range
+miningrange=<mod> distance de minage
+buildingrange=<mod> distance de construction
 
 arrowusage=<mod>% arrow usage
 bulletusage=<mod>% bullet usage
