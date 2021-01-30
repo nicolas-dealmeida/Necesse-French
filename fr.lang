@@ -1,0 +1,2443 @@
+// Community French translations by Biprini#0001 / Piebleu
+// Chaque langue doit avoir lang.localname et lang.engname pour être chargée
+// Le fichier doit être sauvgardé en encodage UTF-8
+[lang]
+localname=Français
+engname=Français
+
+[tile]
+unknowntile=Inconnu
+watertile=Eau
+emptytile=Vide
+grasstile=Herbe
+sandtile=Sable
+swampgrasstile=Herbe Marécageuse
+mudtile=Boue
+dirttile=Terre
+rocktile=Roche
+dungeonfloor=Sol de Donjon
+farmland=Terres Cultivables
+woodfloor=Sol en Bois
+rockfloor=Sol en Roche
+sandstonetile=Grès
+swamprocktile=Sol en Roche Marécageuse
+snowrocktile=Sol en Pierre Neigeuse
+lavatile=Lave
+snowtile=Neige
+icetile=Glace
+stonepathtile=Chemin en Pierre
+graveltile=Gravier
+sandbrick=Brique de Sable
+deeprocktile=Roche Profonde
+deeprockfloor=Sol en Roche Profonde
+deepsnowrocktile=Roche Profonde Neigeuse
+deepicetile=Glace Profonde
+sandgraveltile=Gravier de Sable
+
+[object]
+unknownobject=Inconnu
+air=Air
+
+// Trees/big flora
+// Arbre / Grande Fleurs
+oaktree=Chêne
+oaksapling=Pousse de Chêne
+sprucetree=Épicéa
+sprucesapling=Pousse d'Épicéa
+pinetree=Pin
+pinesapling=Pousse de Pin
+palmtree=Palmier
+palmsapling=Pousse de Palmier
+willowtree=Saule
+willowsapling=Pousse de Saule
+cactus=Cactus
+cactussapling=Pousse de Cactus
+
+// Work stations
+// Établi
+workstation=Établi
+forge=Forge
+carpentersbench=Banc de Menuiserie
+ironanvil=Enclume
+demonicworkstation=Établi Démoniaque
+alchemytable=Table d'Alchimie
+advancedworkstation=Établi Avancé
+
+
+// Walls and doors etc
+// Mur et Porte etc
+woodwall=Mur en Bois
+wooddoor=Porte en Bois
+pinewall=Mur en Pin
+pinedoor=Porte en Pin Door
+stonewall=Mur en Pierre
+stonedoor=Porte en Pierre
+sandstonewall=Mur en Grès
+sandstonedoor=Porte en Grès
+swampstonewall=Mur en Pierre de Marécage
+swampstonedoor=Porte en Pierre de Marécage
+snowstonewall=Mur en Pierre Neigeuse
+snowstonedoor=Porte en Pierre Neigeuse
+icewall=Mur en Glace
+icedoor=Porte en Glace
+brickwall=Mur en Brique
+brickdoor=Porte en Brique
+dungeonwall=Mur en Donjon
+dungeondoor=Porte en Donjon
+deepstonewall=Mur en Pierre Profonde
+deepstonedoor=Porte en Pierre Profonde
+obsidianwall=Mur en Obsidienne
+obsidiandoor=Porte en Obsidienne
+woodfence=Clôture en Bois
+woodfencegate=Portillons en Bois 
+
+// Inventories
+// Inventaire
+storagebox=Box de Rangement
+barrel=Baril
+demonchest=Coffre Démoniaque
+
+// ### Furniture ###
+// ### Fourniture ###
+// Lighting
+// Lumière
+torch=Torche
+walltorch=Torche Murale
+ironlamp=Lampe en Fer
+goldlamp=Lampe en Or
+firechalice=Calice de Feu
+
+// Misc
+// Autres
+sign=Pancarte
+flowerpot=Pot de Fleur
+itemstand=Porte Item
+armorstand=Porte Armure
+trainingdummy=Mannequin d'Entraînement
+
+// Furniture types
+// Fourniture Type
+// Chêne
+oakchest=Coffre en Chêne
+oakdinnertable=Table à Dîner en Chêne
+oakdesk=Bureau en Chêne
+oakmodulartable=Table Modulable en Chêne
+oakchair=Chaise en Chêne
+oakbench=Banc en Chêne
+oakbookshelf=Bibliothèque en Chêne
+oakcabinet=Meuble en Chêne
+oakbed=Lit en Chêne
+oakdresser=Commode en Chêne
+oakclock=Horloge en Chêne
+oakcandelabra=Candélabre en Chêne
+oakdisplay=Affiche en Chêne
+oakbathtub=Baignoire en Chêne
+oaktoilet=Toilette en Chêne
+
+// Épicéa
+sprucechest=Coffre en Épicéa
+sprucedinnertable=Table à Dîner en Épicéa
+sprucedesk=Bureau en Épicéa
+sprucemodulartable=Table Modulable en Épicéa
+sprucechair=Chaise en Épicéa
+sprucebench=Banc en Épicéa
+sprucebookshelf=Bibliothèque en Épicéa
+sprucecabinet=Meuble en Épicéa
+sprucebed=Lit en Épicéa
+sprucedresser=Commode en Épicéa
+spruceclock=Horloge en Épicéa
+sprucecandelabra=Candélabre en Épicéa
+sprucedisplay=Affiche en Épicéa
+sprucebathtub=Baignoire en Épicéa
+sprucetoilet=Toilette en Épicéa
+
+// Pin
+pinechest=Coffre en Pin
+pinedinnertable=Table à Dîner en Pin
+pinedesk=Bureau en Pin
+pinemodulartable=Table Modulable en Pin
+pinechair=Chaise en Pin
+pinebench=Banc en Pin
+pinebookshelf=Bibliothèque en Pin
+pinecabinet=Meuble en Pin
+pinebed=Lit en Pin
+pinedresser=Commode en Pin
+pineclock=Horloge en Pin
+pinecandelabra=Candélabre en Pin
+pinedisplay=Affiche en Pin
+pinebathtub=Baignoire en Pin
+pinetoilet=Toilette en Pin
+
+// Palmier
+palmchest=Coffre en Palmier
+palmdinnertable=Table à Dîner en Palmier
+palmdesk=Bureau en Palmier
+palmmodulartable=Table Modulable en Palmier
+palmchair=Chaise en Palmier
+palmbench=Banc en Palmier
+palmbookshelf=Bibliothèque en Palmier
+palmcabinet=Meuble en Palmier
+palmbed=Lit en Palmier
+palmdresser=Commode en Palmier
+palmclock=Horloge en Palmier
+palmcandelabra=Candélabre en Palmier
+palmdisplay=Affiche en Palmier
+palmbathtub=Baignoire en Palmier
+palmtoilet=Toilette en Palmier
+
+// Donjon
+dungeonchest=Coffre de Donjon
+dungeondinnertable=Table à Dîner de Donjon
+dungeondesk=Bureau de Donjon
+dungeonmodulartable=Table Modulable de Donjon
+dungeonchair=Chaise de Donjon
+dungeonbench=Banc de Donjon
+dungeonbookshelf=Bibliothèque de Donjon
+dungeoncabinet=Meuble de Donjon
+dungeonbed=Lit de Donjon
+dungeondresser=Commode de Donjon
+dungeonclock=Horloge de Donjon
+dungeoncandelabra=Candélabre de Donjon
+dungeondisplay=Affiche de Donjon
+dungeonbathtub=Baignoire de Donjon
+dungeontoilet=Toilette de Donjon
+
+// Misc
+// Autre
+wooddinnertable=Table à Dîner en Bois
+wooddesk=Bureau en Bois
+woodmodulartable=Table Modulable en Bois
+woodchair=Chaise en Bois
+golddinnertable=Table à Dîner en Or
+goldchair=Chaise en Or
+woodbookshelf=Bibliothèque en Bois
+woodbathtub=Baignoire en Bois
+woodtoilet=Toilette en Bois
+
+// Carpets
+// Tapis
+woolcarpet=Tapis en Laine
+leathercarpet=Tapis en Cuir
+
+// Lits
+woodbed=Lit en Bois
+
+// Logic - traps etc
+// Logiques - Pièges, etc
+woodpressureplate=Plaque de Pression en Bois
+rockpressureplate=Plaque de Pression en Roche
+dungeonpressureplate=Plaque de Pression de Donjon 
+deeprockpressureplate=Plaque de Pression en Roche Profonde
+rocklever=Levier en Roche
+telepad=Telepad
+ledpanel=LED Panel
+andgate=AND Gate
+nandgate=NAND Gate
+orgate=OR Gate
+norgate=NOR Gate
+xorgate=XOR Gate
+tflipflopgate=T flip-flop Gate
+srlatchgate=SR Latch Gate
+timergate=Timer Gate
+buffergate=Buffer Gate
+sensorgate=Sensor Gate
+soundgate=Sound Gate
+woodwalltrap=Bois <trap>
+stonewalltrap=Pierre <trap>
+sandstonewalltrap=Grès <trap>
+swampstonewalltrap=Pierre de Marécage <trap>
+snowstonewalltrap=Pierre Neigeuse <trap>
+icewalltrap=Glace <trap>
+deepstonewalltrap=Pierre Profonde <trap>
+obsidianwalltrap=Obsidienne <trap>
+dungeonwalltrap=Donjon <trap>
+arrowtrap=Arrow Trap
+flametrap=Flame Trap
+voidtrap=Néant Trap
+tnt=TNT
+
+// Agriculture / flowers / alchemy
+// Agriculture / Fleurs / Alchimie
+sunflowerseed=Graines de Tournesol
+wildsunflower=Tournesol Sauvage
+sunflower=Tournesol
+firemoneseed=Graines de Fleur de Feu
+wildfiremone=Fleur de Feu Sauvage
+firemone=Fleur de Feu
+iceblossomseed=Graines de Fleur de Glace
+wildiceblossom=Fleur de Glace Sauvage
+iceblossom=Fleur de Glace
+mushroom=Champignon
+wildmushroom=Champignon Sauvage
+mushroomflower=Fleur de Champignon
+wheatseed=Graines de Blé
+wildwheat=Blé Sauvage
+wheat=Blé
+caveglowsprout=Spores de Caveglow
+wildcaveglow=Caveglow Sauvage
+caveglow=Caveglow
+compostbin=Bac à Compost
+feedingtrough=Mangeoire
+
+// Roches - unobtainable
+// Roche non Obtenable
+surfacerock=Roche de Surface
+sandsurfacerock=Roche de Sable de Surface 
+surfacerocksmall=Petite Roche de Surface
+sandsurfacerocksmall=Petite Roche de Sable de Surface
+
+rock=Roche
+rockore=Roche <ore>
+sandstonerock=Grès
+sandstonerockore=Grès <ore>
+swamprock=Roche de Marécage
+swamprockore=Marécage <ore>
+snowrock=Roche Neigeuse
+snowrockore=Neige <ore>
+deeprock=Roche Profonde
+deeprockore=Profonde <ore>
+deepsnowrock=Roche Neigeuse Profonde
+deepsnowrockore=Neige Profonde <ore>
+
+clayrock=Roche d'Argile
+obsidianrock=Roche d'Obsidienne
+
+ironore=Minerai de Fer
+copperore=Minerai de Cuivre
+goldore=Minerai d'Or
+quartzore=Minerai de Quartz
+tungstenore=Minerai de Tungstène
+lifequartzore=Minerai de Quartz de Vie
+glacialore=Minerai de Glacial
+
+// Misc
+// Autre
+grass=Herbe
+swampgrass=Herbe de Marécage
+cattail=Quenouille
+snowpile=Tas de Neige
+ladderdown=Échelle Décendante
+ladderup=Échelle Montante
+dungeonentrance=Entrée de Donjon
+dungeonexit=Sortie de Donjon
+deepladderdown=Profonde Échelle Décendante
+deepladderup=Profonde Échelle Montante
+coinstack=Pile de Pièces
+crate=Caisse
+snowcrate=Caisse de Neige
+swampcrate=Caisse de Marécage
+vase=Vase
+ancienttotem=Totem Antique
+settlementflag=Drapeau de Colonie
+homestone=Homestone
+waystone=Waystone
+bannerstand=Porte Bannière
+
+[objecttooltip]
+logicinputs=Entrée : <value>
+logicoutputs=Sortie : <value>
+logicactive=Active
+logicinactive=Inactive
+bufferdelay=Delai : <value>
+sensorplayeron=Détecte Joueurs
+sensorplayeroff=Ne Détecte pas de Joueurs
+sensorhostileon=Détecte Créatures Hostiles
+sensorhostileoff=Ne Détecte pas de Créatures Hostiles
+sensorpassiveon=Détecte Créature Passive
+sensorpassiveoff=Ne Détecte pas de Créature Passive
+rsactivate=Activate: <value>
+rsreset=Reset: <value>
+tflipflopout1=Alterne
+tflipflopout2=N'Alterne Pas
+timerticks=Ticks: <value>
+timercurrent=Timer: <value>
+timeractive=Running
+timerinactive=Not running
+soundbass=Bass
+soundhat=Hat
+soundkick=Kick
+soundpiano=Piano
+soundsnare=Snare
+soundnone=N/A
+soundname=Sound: <name>
+soundpitch=Pitch: <value>
+
+[item]
+// General materials
+// Matériaux Généraux
+coin=Pièces
+oaklog=Bûche de Chêne
+sprucelog=Bûche de Épicéa
+pinelog=Bûche de Pin
+palmlog=Bûche de Palmier
+willowlog=Bûche de Saule
+stone=Pierre
+sandstone=Grès
+swampstone=Pierre de Marécage
+snowstone=Pierre de Neige
+deepstone=Pierre Profonde
+batwing=Aile de Chauve-Souris
+wool=Laine
+wheat=Blé
+leather=Cuir
+clay=Argile
+copperore=Minerai de Cuivre
+copperbar=Lingot de Cuivre
+ironore=Minerai de Fer
+ironbar=Lingot de Fer
+goldore=Minerai d'Or
+goldbar=Lingot d'Or
+quartz=Quartz
+lifequartz=Quartz de Vie
+demonicbar=Lingot de Demonic
+tungstenore=Minerai de Tungstène
+tungstenbar=Lingot de Tungstène
+glacialore=Minerai de Glacial
+glacialbar=Lingot de Glacial
+obsidian=Obsidienne
+cavespidergland=Glande d'Araignée des Cavernes
+voidshard=Éclat de Vide
+bone=Os
+ectoplasm=Ectoplasme
+glacialshard=Tesson Glacial
+glassbottle=Bouteille de Verre
+book=Livre
+gobfish=Gobfish
+terrorfish=Terrorfish
+halffish=Halffish
+rockfish=Rochefish
+furfish=Furfish
+icefish=Glacefish
+swampfish=Maraifish
+mapfragment=Fragment de carte
+spareboatparts=Pièces de Bateaux
+brokencoppertool=Outil en Cuivre cassé
+brokenirontool=Outil en Fer cassé
+
+// Pickaxes
+// Pioches
+woodpickaxe=Pioche en Bois
+copperpickaxe=Pioche en Cuivre
+ironpickaxe=Pioche en Fer
+demonicpickaxe=Pioche en Demonic
+tungstenpickaxe=Pioche en Tungstène
+icepickaxe=Pioche de Glace
+
+// Axes
+// Haches
+woodaxe=Hache en Bois
+copperaxe=Hache en Cuivre
+ironaxe=Hache en Fer
+demonicaxe=Hache en Demonic
+tungstenaxe=Hache en Tungstène
+
+// Shovels
+// Pelles
+woodshovel=Pelle en Bois
+coppershovel=Pelle en Cuivre
+ironshovel=Pelle en Fer
+demonicshovel=Pelle en Demonic
+tungstenshovel=Pelle en Tungstène
+
+// Fishing rods
+// Canne à pêche
+godrod=Canne des Dieux
+woodfishingrod=Canne à pêche en Bois
+ironfishingrod=Canne à pêche en Fer
+overgrownfishingrod=Canne à pêche Développé
+goldfishingrod=Canne à pêche en Or
+depthscatcher=Piège de Profondeur
+
+// Bait
+// Appât
+godbait=Appât Divin
+wormbait=Vers d'Appât
+swamplarva=Larve des Marécage
+anglersbait=Appât de Pêcheur
+
+// Misc tools
+// Divers Outils
+farmingscythe=Faux de Culture
+wrench=Clé à Outil
+cutter=Cutter
+wire=Câble
+
+// Swords
+// Epées
+woodsword=Épée en Bois
+coppersword=Épée en Bois Cuivre 
+ironsword=Épée en Bois Fer 
+nunchucks=Nunchucks
+heavyhammer=Marteau Lourd
+lightninghammer=Marteau de Lumière
+demonicsword=Épée en Bois Demonic 
+cutlass=Coutelas
+tungstensword=Épée en Bois Tungstène 
+reaperscythe=Faux de la Mort
+
+// Spears
+// Lances
+woodspear=Lance en Bois
+copperpitchfork=Fourche en Cuivre
+copperspear=Lance en Cuivre
+ironspear=Lance en Fer
+demonicspear=Lance en Demonic
+voidspear=Lance du Néant
+vulturestalon=Serre de Vautours
+tungstenspear=Lance en Tungstène
+cryospear=Lance de Glace
+
+// Bows
+// Arcs
+woodbow=Arc en Bois
+copperbow=Arc en Cuivre
+ironbow=Arc en Fer
+demonicbow=Arc Demonic
+vulturesburst=Vultures Burst
+tungstenbow=Arc en Tungstène
+glacialbow=Arc de Glacial
+
+// Arrows
+// Flèches
+stonearrow=Flèches en Pierre
+firearrow=Flèches de Feu
+bouncingarrow=Flèche Rebondissante
+ironarrow=Flèches en Fer
+bonearrow=Flèches en Os
+
+// Guns
+handgun=Pistolet
+sniperrifle=Fusil de sniper
+machinegun=Mitraillette
+shotgun=Fusil à Pompe
+flintlock=Pistolet Queen Anne
+handcannon=Cannon à Main
+deathripper=Éventreur de la mort
+cryoblaster=Blaster Cryogénique
+
+// Bullets
+// Balles
+simplebullet=Balle Simple
+bouncingbullet=Balle rebondissante
+cannonball=Boulet de Canon
+
+// Magic weapons
+// Armes Magiques
+bloodbolt=Éclair de Sang
+bloodvolley=Volley de Sant
+voidstaff=Bâton du Néant
+voidmissile=Missile du Néant
+genielamp=Lampes au Génie
+woodstaff=Bâton en Bois
+venomstaff=Bâton de Venin
+quartzstaff=Bâton de Quartz
+elderlywand=Baguette de Sureau
+shadowbolt=Éclair des Ténèbres
+iciclestaff=Bâton de Stalactite
+shadowbeam=Faisceau d'Ombre
+cryoquake=Tremblement de Glace
+
+// Throw weapons
+// Armes de Jets
+ninjastar=Étoile de Ninja
+woodboomerang=Boomerang en Bois
+spiderboomerang=Spider Boomerang
+voidboomerang=Boomerang du Néant
+tungstenboomerang=Boomerang en Tungstène
+hook=Crochet
+ironbomb=Bombe de Fer
+dynamitestick=Bâton de Dynamite
+boxingglovegun=Gants de Boxe
+glacialboomerang=Boomerang Glacial
+
+// Summon weapons
+// Armes d'invocation
+brainonastick=Bâton d'Intelligence
+spiderstaff=Bâton D'Arachnéen
+vulturestaff=Bâton des Vautours
+cryostaff=Bâton des Glaces
+reaperscall=Appel de la Mort
+
+// Banners
+// Bannière
+bannerofspeed=Bannière de Rapidité
+
+// Misc weapons
+// Divers Armes
+forceofwind=Force du Vent
+mlg1=MLG 1
+mlg2=MLG 2
+mousetest=Test de Souris
+
+// Trinkets
+// Bibelots
+ninjasmark=Marque Ninja
+vampiresgift=Cadeau de Vampire
+demonclaw=Griffe de Demon
+polarclaw=Griffe Polaire
+fins=Ailerons
+piratetelescope=Longue Vue Pirate
+regenpendant=Pendentif Régénérant
+mobilitycloak=Cape de Mobilitée
+mesmertablet=Tablette Mesmer
+inducingamulet=Inducing Amulet
+lifeline=Fils de Vie
+magicfoci=Magic Foci
+rangefoci=Range Foci
+meleefoci=Melee Foci
+summonfoci=Invocateur de Foci
+ancientfeather=Plume Antique
+miningcharm=Charme de Minage
+cactusshield=Bouclier de Cactus
+magicalquiver=Carquois Magique
+ammobox=Boîte de Munitions
+bonehilt=Pougnée d'Os
+firestone=Pierre de Feu
+lifependant=Pendentif de Vie
+constructionhammer=Marteau de Construction
+telescopicladder=Échelle télescopique
+toolextender=Extension d'Outil
+toolbox=Boîte à Outils
+spikedboots=Bottes à Pointes
+spikedbatboots=Bottes Chauve-Souris à pointes
+froststone=Pierre de Givre
+frostflame=Flame de Givre
+calmingrose=Rose Calmante
+hysteriatablet=Tablette d'Hystérie
+frenzyorb=Orb de Frénésie
+
+// Armure
+// Armure
+leatherhood=Capuche en Cuir
+leathershirt=Chemise en Cuir
+leatherboots=Bottes en Cuir
+copperhelmet=Casque en Cuir
+copperchestplate=Plastron en Cuivre 
+copperboots=Bottes en Cuivre 
+ironhelmet=Casque en Fer
+ironchestplate=Plastron en Fer
+ironboots=Bottes en Fer
+spiderhelmet=Casque d'Araignée
+spiderchestplate=Plastron d'Araignée
+spiderboots=Bottes d'Araignée
+ninjahood=Capuche Ninja
+ninjarobe=Robe Ninja
+ninjashoes=Chaussures Ninja
+demonichelmet=Casque Demonic
+demonicchestplate=Plastron Demonic
+demonicboots=Bottes Demonic
+voidmask=Masque du Néant
+voidhat=Chapeau du Néant
+voidrobe=Robe du Néant
+voidboots=Bottes du Néant
+quartzhelmet=Casque en Quartz
+quartzchestplate=Plastron en Quartz
+quartzboots=Bottes en Quartz
+tungstenhelmet=Casque en Tungstène
+tungstenchestplate=Plastron en Tungstène
+tungstenboots=Bottes en Tungstène
+shadowhat=Chapeau de l'Ombre
+shadowhood=Capuche de l'Ombre
+shadowmantle=Manteau de l'Ombre
+shadowboots=Bottes de l'Ombre
+glacialcirclet=Ceinture Glacial
+glacialhelmet=Casque Glacial
+glacialchestplate=Plastron Glacial
+glacialboots=Bottes Glacial
+
+// Cosmetic Armure
+// Armures Cosmetic
+shoes=Chaussures
+shirt=Chemise
+wig=Perruque
+farmerhat=Chapeau de Fermier
+farmershirt=Chemise de Fermier
+farmershoes=Chaussures de Fermier
+goldcrown=Couronne en Or
+elderhat=Chapeau des Aînés
+captainshat=Chapeau de Capitaine
+captainsshirt=Chemise de Capitaine
+pirateboots=Bottes de Pirate
+piratebandana=Bandana de Pirate
+pirateshirt=Chemise de Pirate
+vulturemask=Masque de Vautour
+plaguemask=Masque de Peste
+plaguerobe=Robe de Peste
+plagueboots=Bottes de Peste
+surgicalmask=Masque Chirurgical
+trapperhat=Chapeau de Trappeur
+horsemask=Masque de Cheval
+horsecostumeshirt=Chemise de Costume de Cheval
+horsecostumeboots=Bottes de Costume de Chevalgreater
+
+// Potions
+// Potions
+healthpotion=Potion de Vie
+greaterhealthpotion=Grande Potion de Vie
+speedpotion=Potion de Vitesse
+combatregenpotion=Potion de Regénération
+attackspeedpotion=Potion de Vitesse d'Attaque
+invisibilitypotion=Potion d'Invisibilité
+fireresistancepotion=Potion de Résistance au Feu
+fishingpotion=Potion de Pêche
+battlepotion=Potion de Combat
+resistancepotion=Potion de Résistance
+spelunkerpotion=Potion de Vision
+treasurepotion=Potion Précieuse
+passivepotion=Potion Passive
+buildingpotion=Potion de Construction
+miningpotion=Potion de Minage
+
+// Consumables
+// Consomable
+recallscroll=Parchemin de Rappel
+travelscroll=Parchemin de Voyage
+recallflask=Fiole de Rappel
+stinkflask=Fiole Repoussante
+
+// Misc
+// Autres
+craftingguide=Guide de Fabrication
+voidpouch=Pochette Vide
+coinpouch=Porte-Monnaie
+woodboat=Bateau en Bois
+bucket=Seau
+infinitewaterbucket=Seau d'Eau Infini
+rope=Corde
+infiniterope=Corde Infini
+binoculars=Jumelles
+telescope=Longue Vue
+grassseed=Graines d'Herbes
+swampgrassseed=Graines d'Herbes Marécageuse
+fertilizer=Fumier
+mysteriousportal=Mystérieux Portail
+voidcaller=Appele du Néant
+ancientstatue=Antique Statue
+shadowgate=Porte des Ombres
+icecrown=Couronne de Glace
+villagemap=Carte du Village Local
+dungeonmap=Carte du Donjon Local
+piratemap=Carte Pirate Local
+importedcow=Vache Importée
+importedsheep=Mouton Importé
+inefficientfeather=Inefficient Feather
+jumpingball=Balle Rebondissante
+hoverboard=Hoverboard
+weticicle=Glaçon Humide
+exoticseeds=Graines Exotiques
+steelboat=Bateau en Acier
+magicstilts=Échasses Magiques
+demonheart=Coeur Démoniaque
+lifeelixir=Elixir de Vie
+emptypendant=Pendentif Vide
+
+// Quest items
+// Items de Quêtes
+zombiearm=Bras de Zombie
+goblinring=Anneau de Gobelin
+swampeel=Anguille des Marécages
+babyshark=Bébé Requin
+crabclaw=Pince de Crabe
+sandray=Rayon de Sable
+fakefangs=Faux Crocs
+slimechunk=Morceau de Slime
+enchantedcollar=Collier Enchanté
+apprenticescroll=Parchemin d'Apprenti
+darkgem=Gemme Sombre
+mummysbandage=Bandage de Maman
+magicsand=Sable Magique
+caveoyster=Huître des cavernes
+capturedspirit=Esprit Capturé
+pegleg=Jambe de Bois
+eyepatch=Cache-Œil
+rumbottle=Bouteille de Rhum
+deepspiritswab=Profond Ésprit Swab
+brokenlimb=Membre Cassé
+feraltail=Queue Sauvage
+razoricicle=Stalactite Coupant
+
+// Global ingredients
+// Ingrédient Globaux
+anysapling=Toute Pousse d'Arbre
+anylog=Toute Bûche
+anystone=Toute Pierre
+bulletuser=Toute Balle de Pistolet
+
+[itemtooltip]
+// Armure
+// Armur
+headslot=Emplacement de Tête
+chestslot=Emplacement de Torse
+feetslot=Emplacement de Pieds
+cosmeticheadslot=Emplacement Cosmétique de Tête
+cosmeticchestslot=Emplacement Cosmétique de Torse
+cosmeticfeetslot=Emplacement Cosmétique de Pieds
+cosmetic=Item Cosmétique
+cosmeticslot=Pas de statistique dans les emplacements cosmétiques
+armorvalue=+<value> Armure
+setbonus=Bonus d'ensemble :
+ninjaset1=Vous êtes un Ninja effrayant !
+ninjaset2=Supprime la vitesse de déplacement\nréduction lors de l'attaque
+quartzset=Ignore le coup suivant et donne\nun bonus de vitesse de déplacement de\n20 secondes de recharge
+voidset=Appyuez sur [input=setability] pour gagner en vitesse de déplacement
+tungstenset1=Résistance de Recul
+tungstenset2=50% d'augmentation de Recul
+shadowhatset=Les attaques magiques hantent la cible et infligent\n25 dégâts toutes les 5 secondes
+shadowhoodset=+10% dégâts quand immobile
+surgicalmasktip=Assure la sécurité des personnes autour de vous
+spiderchest=Réduction du Recul
+spiderset=Attaque les cibles empoisonnées\net inflige 10 dégâts toutes les 5 secondes\nImmunité aux ralentissements
+glacialhelmetset=Les attaques de mêlée lance de la Glace
+glacialcircletset=Les attaques d'invocations ralentissent la cible
+
+// Bibelots
+// Trinkets
+trinketslot=Emplacement pour bijou
+trinketdisabled=§hDésactivé par <items>
+demonclawtip=Donne une résistance de recul
+polarclawtip=Attaques ralentissant la cible
+finstip=Vitesse de nage doublée
+ninjasmark1=Vitesse de déplacement réduite de moitié
+ninjasmark2=Réduction lors de l'attaque
+piratetelescope=Prolonge de 1 la portée de biome vue et de voyage.
+vampiresgift=Augmente la vitesse de déplacement de 15%
+regenpendant=Donne une régénération mineure de la santé
+mobilitycloak=Donne une grande mobilité hors combat
+lifeline=Restaurez 50 PV en subissant des dégâts mortels\n5 minutes de recharge
+magicfoci1=Augmente les dégâts magiques de 20%
+magicfoci2=Diminue les dégâts non magiques de 20%
+rangefoci1=Augmente les dégâts à distance de 20%
+rangefoci2=Diminue les dégâts à distance de 20%
+meleefoci1=Augmente les dégâts de mêlée de 20%
+meleefoci2=Diminue les dégâts non-mêlée de 20%
+summonfoci1=Augmente les dégâts d'invocation de 20%
+summonfoci2=Diminue les dégâts de non-invocation de 20%
+
+ancientfeather=Augmente la vitesse des projectiles de 50%
+miningcharm=Augmente les dégâts d'outil de 40%
+cactusshield1=Donne 4 d'armure
+cactusshield2=A une chance de renvoyer des dégâts
+magicalquiver=Réduit l'utilisation des flèches de 75%
+ammobox=Réduit l'utilisation des balles de 75%
+bonehilt=Augmente la pénétration de l'armure de 20
+firestonetip=Les attaques enflamment la cible et infligent\n25 dégâts en 5 secondes
+lifependant=Donne une meilleure régénération de la santé
+constructionhammer=Augmente la vitesse de construction
+telescopicladder=Augmente la portée de construction
+toolextender=Augmente la portée de minage
+spikedboots=Augmente la vitesse de déplacement de 15%\nEmpêche de glisser
+spikedbatboots=Augmente la vitesse de déplacement de 25%\nEmpêche de glisser
+froststonetip=Les Attaque ralentisent la cible et inflige\n15 dégâts en 5 secondes
+frostflametip=Les Attaque ralentisent la cible et inflige\n35 dégâts en 5 secondes
+calmingrose=Réduit le taux d'apparition des monstres
+frenzyorbtip=Donne jusqu'à +40% de dégâts en fonction de la santé manquante
+
+// Tools
+tooldmg=Dégâts de l'outil : <value>
+tooltier=Niveau d'outils : <value>
+tooladdrange=<value> de distance
+pickaxetip=Pioche
+shoveltip=Pelle
+axetip=Hache
+demonictooltip=Peut extraire du quartz dans le désert
+tungstentooltip1=Peut extraire l'obsidienne et
+tungstentooltip2=Minerai de glace dans des profondes grottes de neige 
+
+// Weapons
+// Armes
+damagetip=Dégat : <value>
+truedamagetip=Dégat réel : <value>
+meleedamagetip=Dégat mélée : <value>
+rangeddamagetip=Dégat distance : <value>
+magicdamagetip=Dégat magique : <value>
+summondamagetip=Dégat d'invocation : <value>
+knockbacktip=Recul : <value>
+ammotip=Munition disponile : <value>
+arrowtip=Peut être tiré avec un arc
+cannonballtip=Utilisé dans le Canon à main
+boomerangstack=S'empile jusqu'à <value>
+bowtip=Tire des flèches
+guntip=Requis des balles pour tirer
+summonfocustip=Utilisez [input=mouse2] pour cibler un monstre
+handcannontip1=Tire des boulets de canon
+handcannontip2=Munition fabriquée dans une Enclume de Fer
+machineguntip=A 50% de chances de ne pas consommer de munition
+snipertip=A une lunette de sniper
+deathrippertip1=A 75% de chances de ne pas consommer de munition
+deathrippertip2=Chargez pour tirer plus rapidement
+throwtip=Peut être jeté
+heavyhammertip=Lance de petites pierres
+lightninghammertip1=Très grande vitesse
+lightninghammertip2=Tire de rapides éclairs
+reaperscythetip=Tire une Faux de la Mort
+speartip=Ne frappera qu'à la pointe
+bloodbolttip=Tire un projectile à tête chercheuse
+bloodvolleytip=Tire 3 projectiles à tête chercheuse
+voidstafftip=Tire un laser instantané
+voidmissiletip=Tire un missile contrôlable
+genielamptip=Tire rapidement de l'eau
+destructivetip=Détruit les objets
+venomstafftip=Place du venin sur le sol
+quartzstafftip=Tire rapidement un boulon perçant 
+vulturesbursttip=Tire très rapidement un boulon perçant 
+elderlywandtip=Tire un missile contrôlable perçant
+shadowbolttip=Tire un gros projectile à tête chercheuse
+shadowbeamtip= Tire une ombre instantané
+reaperscalltip1=Invoque des esprits protecteurs
+reaperscalltip2=Maximum 5 à la fois
+iciclestafftipTire rapidement des glaçons.
+boxingglovetip=Ne fait pas beaucoup de mal, mais a un gros recul
+fowtipequipped=Appuyez sur [input=trinketability] pour aller en avant
+fowtipnotequipped=Équipez-vous et appuyez sur [input=trinketability] pour aller en avant
+fowtip2=Peut également être utilisé à la main
+glacialbowtip=Tire un projectile qui se brise sur les ennemis proches en cas de coup
+glacialboomerangtip=Contrôlable lorsque lancé
+cryoquaketip=Crée une ligne de glaçons
+cryospeartip=Libère un fragment lors de l'attaque
+bannertip=Tenez en main pour améliorer vos alliés
+
+// Potions
+consumetip=Peut être consommé
+5min=5 min de durée
+8min=8 min de durée
+15min=15 min de durée
+healthpot=Restaure <health> de vie instantanément
+healthpottip=Appuyez sur <key> pour utilisez rapidement
+attackspeedpot=Augmente la vitesse d'attaque
+battlepot=Augmente les dégâts infligés de 10%
+regenpot=Augmente la régénération de vie
+fireresistpot=Donne une résistance au feu
+fishingpot1=Augmente la puissance de pêche de 20%
+fishingpot2=Ajoute une ligne de pêche supplémentaire
+invispot=Rend invisible
+resistpot=Augmente l'armure de 8
+speedpot=Augmente la vitesse de déplacement
+spelunkerpot=Illumine les minerais
+treasurepot=Illumine les trésors
+passivepot=Réduit les apparitions de monstre
+buildingpot=Augmente la vitesse de placement des objets
+miningpot=Augmente la vitesse de minage
+
+// Tiles
+// Tuiles
+tiletip=Peut être placé sur la plupart des terrains
+
+// Objects
+placetip=Peut être placé
+bedtip=Fonctionne comme un point de réapparition lors de l'utilisation
+seedtip=Doit être placé sur une terre cultivable
+flowertip=Peut être placé dans un pot de fleur
+wheattip=Peut être donné à certains animaux
+activewiretip=Active les fils
+settlementflagtip1=Utilisé pour démarrer une collonie
+settlementflagtip2=Doit être placé sur la surface
+settlementflagtip3=Ne peut pas être placé au village PNJ
+tnttip=Explose lorsqu'il est activé par fils
+activatedwiretip=Activé par fils
+telepadtip=Voyager vers d'autres telepads
+telepadrangetip=Portée de l'îlot: <range>
+ladderdowntip=Utilisé pour atteindre les grottes
+deepladderdowntip=Utilisé pour atteindre des grottes profondes
+homestonetip=Doit être placé dans la colonie où il a été acheté
+waystonetip1=Ne peut être récupéré une fois placé
+waystonetip2=Vendu par le Mage de la colonie
+compostbintip=Créera lentement de l'engrais
+feedingtroughtip=Utilisé pour nourrir les animaux avec du blé
+trainingdummytip=Attaquez ceci pour voir vos dégâts
+clocktip=Affiche l'heure actuelle
+dressertip=Stocke les sets d'armures
+displaytip=Affiches l'élément stocké
+bannerstandtip=Applique des effets de bannière autour de lui-même
+
+// Misc
+itemcount=<amount> items au total
+craftingmat=Matériel de Fabrication
+cointip=À utiliser pour commercer avec les villages
+baittip=Utilisé pendant la pêche
+fishingrodtip=Utilisé pour la pêche
+fishingpower=Puissance de pêche : <value>
+fishinglines=<value> ligne de pêche
+evilsevent=Appelle une puissante créature
+voidcallertip=Appelle le Sorcier du Néant
+ancientstatuetip1=Appelle une ancienne créature
+ancientstatuetip2=MDoit être utilisé dans le biome du désert
+shadowgatetip1=Appelle un puissant fantôme
+shadowgatetip2=Doit être utilisé dans les grottes profondes
+icecrowntip1=Appelle son propriétaire
+icecrowntip2=Doit être utilisé dans les grottes de neige profonde
+binocularstip=Regardez plus loin
+// ???
+ropetip=Utilisez la corde la plus passive des animaux
+biomemaptip=À utiliser pour trouver des îles autour de vous
+mapfail=La carte ne vous a montré aucune information utile
+mapresult=La carte montre <dir> de votre emplacement (<coord>)
+boattip1=Peut être placé dans l'eau
+boattip2=+1 distance de voyage
+buckettip=Peut être utilisé pour ramasser des liquides
+infwaterbuckettip=Retient et récupère de l'eau
+demonhearttip=Augmente de façon permanente la santé maximale à 200
+lifeelixirtip=PAugmente de manière permanente la santé maximale de 10 à 300
+emptypendanttip=Augmente de manière permanente le nombre maximum de bibelots à 4
+recalltip=Se téléporte vers votre spawn
+stinkflasktip=Vous couvre d'un parfum qui attire les ennemis
+singleuse=Usage unique 
+infiniteuse=Utilisations infinies
+traveltip=Très efficace pour récolter les plantes cultivées
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+farmingscythetip=Very effective at harvesting grown plants
+cuttertip=Used to remove logic wire
+wrenchtip=Used to place logic wire
+wrenchammo=Available wire: <value>
+enchantslot=Enchant slot
+materialslot=Crafting material slot
+trashslot=Trash can
+voidshardtip=Magique essence
+glassbottletip=Used in alchemy
+mapfragmenttip=Combine 2 for a map
+sparepartstip=Used to craft steel boat
+wiretip=Can be used with the wrench
+voidpouchtip=A small personal pouch
+coinpouchtip1=Stores coins picked up
+coinpouchtip2=[input=-99] to take coins out
+coinpouchstored=Stored coins: <coins>
+rclickopentip=[input=-99] to open
+rclickinvopentip=[input=-99] in inventory to open
+usetoopentip=Use to open
+grassseedtip=Used to start a grass patch
+fertilizertip=Use on crops to speed up growth
+brokentooltip=Can be melted down or sold
+portalnotonsurface=I need to be on the surface
+portalnotnight=It needs to be night time for this to work
+portalnospace=There is not enough room here
+portalerror=Does not work here
+callernoarena=I am not in the dungeon arena
+spawnmob=Used to spawn one <mob>
+summontip=Used to summon <mob>
+summonmounttip=Used to summon <mob> mount
+summonslots=Max summons: <count>
+summonuseslots=Uses <count> summon slots
+steelboattip=+2 travel distance
+jumpingballtip=Fun and fits all sizes!
+hoverboardtip=Picks up speed slowly
+
+// Quests
+questitem=Quest item
+zombiearmobtain=Dropped from zombies
+goblinringobtain=Dropped from goblins
+swampeelobtain=Caught in shallow swamp water
+babysharkobtain=Caught in deep water
+crabclawobtain=Dropped from desert crabs
+sandrayobtain=Caught in desert biome water
+fakefangsobtain=Dropped from vampires
+slimechunkobtain=Dropped from swamp slimes
+enchantedcollarobtain=Dropped from enchanted mobs in dungeon
+apprenticescrollobtain=Dropped from Néant Apprentice in dungeon
+darkgemobtain=Dropped from Néant Apprentice in dungeon
+bookobtain=Found in dungeon bookshelves
+mummysbandageobtain=Dropped from mummies in desert cave
+magicsandobtain=Dropped from mummy mage in desert cave
+caveoysterobtain=Caught in desert caves water
+capturedspiritobtain=Dropped from sand spirit in desert cave
+peglegobtain=Dropped from pirates
+eyepatchobtain=Dropped from pirates
+rumbottleobtain=Dropped from pirates
+deepspiritswabobtain=Dropped from deep cave spirits
+brokenlimbobtain=Dropped from skeletons
+feraltailobtain=Dropped from snow wolves
+razoricicleobtain=Dropped from cryo flakes
+
+[enchantment]
+noenchant=NO_ENCHANT
+
+// Trinkets
+keen=Keen
+blunt=Blunt
+nimble=Nimble
+sluggish=Sluggish
+quick=Quick
+clumsy=Clumsy
+sturdy=Sturdy
+weak=Weak
+
+// Swords
+berserk=Berserk
+brutal=Brutal
+shoddy=Shoddy
+light=Light
+agile=Agile
+heavy=Heavy
+
+// Projectile
+pounding=Pounding
+tightened=Tightened
+broken=Broken
+loose=Loose
+advanced=Advanced
+primitive=Primitive
+
+// Tool damage
+sharp=Sharp
+dull=Dull
+
+[buffmodifiers]
+limitmax=Max <modifier>
+limitmin=Min <modifier>
+
+damage=<mod>% damage
+meleedamage=<mod>% melee damage
+rangeddamage=<mod>% ranged damage
+magicdamage=<mod>% magic damage
+summondamage=<mod>% summon damage
+tooldamage=<mod>% tool damage
+armorpen=<mod>% armor penetration
+armorpenflat=<mod> armor penetration
+knockbackout=<mod>% knockback
+
+speed=<mod>% speed
+speedflat=<mod> speed
+slow=<mod>% slow
+swimspeed=<mod>% swim speed
+friction=<mod>% friction
+acceleration=<mod>% acceleration
+deceleration=<mod>% deceleration
+
+armor=<mod>% armor
+armorflat=<mod> armor
+
+maxhealth=<mod>% max health
+maxhealthflat=<mod> max health
+
+regen=<mod>% regen
+regenflat=<mod> regen
+combatregen=<mod>% combat regen
+combatregenflat=<mod> combat regen
+
+poisondamage=<mod>% poison damage
+poisondamageflat=<mod> poison damage
+firedamage=<mod>% fire damage
+firedamageflat=<mod> fire damage
+frostdamage=<mod>% frost damage
+frostdamageflat=<mod> frost damage
+
+mobspawnrate=<mod>% mob spawn rate
+mobspawncap=<mod>% mob spawn cap
+
+attackspeed=<mod>% attack speed
+meleeattackspeed=<mod>% melee attack speed
+rangedattackspeed=<mod>% ranged attack speed
+magicattackspeed=<mod>% magic attack speed
+
+miningspeed=<mod>% mining speed
+buildingspeed=<mod>% building speed
+
+miningrange=<mod> mining range
+buildingrange=<mod> building range
+
+arrowusage=<mod>% arrow usage
+bulletusage=<mod>% bullet usage
+maxsummons=<mod> max summons
+summonsspeed=<mod>% summons speed
+summonstargetrange=<mod>% summons target range
+
+attackmovement=<mod>% attack movement penalty
+projectilevel=<mod>% projectile velocity
+throwingvel=<mod>% throwing velocity
+
+traveldistance=<mod> travel distance
+biomeviewdistance=<mod> biome view distance
+
+knockbackin=<mod>% incoming knockback
+fishingpower=<mod>% fishing power
+fishinglines=<mod> fishing lines
+
+waterwalking=Allows water walking
+emitslight=Emits light
+invisibility=Enables invisibility
+spelunker=Enables spelunker
+treasurehunter=Enables treasure hunter
+bouncy=Bouncy
+
+targetrange=<mod>% target range
+chaserrange=<mod>% chaser range
+
+// Tool items
+toolknockback=<mod>% knockback
+toolrange=<mod>% range
+
+// Projectile
+velocity=<mod>% velocity
+
+[mob]
+// Passive
+sheep=Mouton
+lamb=Lamb
+wildostrich=Wild Ostrich
+cow=Vache
+calf=Calf
+penguin=Penguin
+polarbear=Polar Bear
+
+// Critters
+rabbit=Rabbit
+squirrel=Squirrel
+snowhare=Snow Hare
+crab=Crab
+scorpion=Scorpion
+swampslug=Swamp Slug
+frog=Frog
+duck=Duck
+bird=Bird
+bluebird=Bluebird
+canarybird=Canary
+spider=Spider
+mouse=Mouse
+
+// Humans
+human=Villager
+humanname=<name> the Villager
+farmerhuman=Farmer
+farmerhumanname=<name> the Farmer
+blacksmithhuman=Blacksmith
+blacksmithhumanname=<name> the Blacksmith
+guardhuman=Guard
+guardhumanname=<name> the Guard
+magehuman=Mage
+magehumanname=<name> the Mage
+gunsmithhuman=Gunsmith
+gunsmithhumanname=<name> the Gunsmith
+alchemisthuman=Alchemist
+alchemisthumanname=<name> the Alchemist
+hunterhuman=Hunter
+hunterhumanname=<name> the Hunter
+elderhuman=Elder
+elderhumanname=<name> the Elder
+anglerhuman=Angler
+anglerhumanname=<name> the Angler
+animalkeeperhuman=Animal keeper
+animalkeeperhumanname=<name> the Animal keeper
+pawnbrokerhuman=Pawnbroker
+pawnbrokerhumanname=<name> the Pawnbroker
+stylisthuman=Stylist
+stylisthumanname=<name> the Stylist
+piratehuman=Broken Pirate
+piratehumanname=<name> the Broken Pirate
+explorerhuman=Explorer
+explorerhumanname=<name> the Explorer
+travelingmerchant=Traveling merchant
+travelingmerchantname=<name> the Traveling merchant
+travelingpawnbroker=Traveling pawnbroker
+travelingpawnbrokername=<name> the Traveling pawnbroker
+
+// Hostile
+zombie=Zombie
+trapperzombie=Trapper Zombie
+goblin=Gobelin
+vampire=Vampire
+zombiearcher=Zombie Archer
+crawlingzombie=Crawling Zombie
+giantcavespider=Giant Cave Spider
+blackcavespider=Black Cave Spider
+cavemole=Cave Mole
+swampslime=Swamp Slime
+swampshooter=Swamp Shooter
+enchantedzombie=Enchanted Zombie
+enchantedzombiearcher=Enchanted Zombie Archer
+enchantedcrawlingzombie=Enchanted Crawling Zombie
+voidapprentice=Néant Apprentice
+mummy=Mummy
+mummymage=Mummy Mage
+sandspirit=Sable Spirit
+skeleton=Skeleton
+skeletonthrower=Skeleton Thrower
+deepcavespirit=Deep Cave Spirit
+skeletonminer=Skeleton Miner
+ninja=Ninja
+snowwolf=Snow Wolf
+cryoflake=Cryo Flake
+
+// Pets/spawned
+spawnedname=<player>'s <mob>
+tameostrich=Tame Ostrich
+petpenguin=Pet Penguin
+petparrot=Pet Parrot
+steelboat=Acier Bateau
+petwalkingtorch=Walking Torche
+jumpingball=Jumping Ball
+hoverboard=Hoverboard
+babyzombie=Baby Zombie
+babyspider=Baby Spider
+playervulturehatchling=Vulture Hatchling
+playerreaperspirit=Reaper Spirit
+playercryoflake=Cryo Flake
+
+// Bosses/minions
+evilsprotector=Evil's Protector
+evilsportal=Evil's Portal
+portalminion=Portal Minion
+voidwizard=Néant Wizard
+voidwizardclone=Néant Wizard
+piratecaptain=Pirate Captain
+piraterecruit=Pirate Recruit
+pirateparrot=Pirate Parrot
+ancientvulture=Antique Vulture
+ancientvultureegg=Antique Vulture Egg
+vulturehatchling=Vulture Hatchling
+reaper=Reaper
+reaperspiritportal=Reaper Spirit Portal
+reaperspirit=Reaper Spirit
+cryoqueen=Cryo Queen
+
+// Misc
+woodboat=Bois boat
+trainingdummy=Training dummy
+
+[mobmsg]
+angryshop=Cannot trade angry shops
+busyhuman=<name> is busy
+humanangry1=I do not appreciate that
+humanangry2=Stop that or I may have to kill you
+humanangry3=I am trying to do stuff here!
+humanangry4=What did you do that for?
+humanangry5=Why did you do that?
+humanangry6=What have I done to you?
+
+humanpassiveangry1=I do not appreciate that
+humanpassiveangry2=I am only here to help you!
+humanpassiveangry3=I am trying to do stuff here!
+humanpassiveangry4=What did you do that for?
+humanpassiveangry5=Why did you do that?
+humanpassiveangry6=What have I done to you?
+
+humanattack1=Guards, help!
+humanattack2=You will regret that
+humanattack3=Now I am truly angry
+humanattack4=That was your last chance!
+humanattack5=Guards! We have an enemy between us!
+humanattack6=Let's settle this once and for all
+
+humantalk1=Ew, get away from me!
+humantalk2=If you hit me, I will make sure you pay for it
+humantalk3=I may seem harmless. Until I pull out my katana
+humantalk4=Mistakes were made when you were born
+humantalk5=You must have been an accident
+
+alchemisttalk1=I love mushrooms
+alchemisttalk2=My chemicals will never explode, I assure you
+alchemisttalk3=You wanna get high?
+alchemisttalk4=What? No, I wasn't abusing my ingredients!
+alchemisttalk5=Haha! Why is everything you say so funny!?
+
+anglertalk1=Fishing is love, fishing is life
+anglertalk2=One day you will see the joy in fishing
+anglertalk3=I have seen some weird fish in my days
+anglertalk4=I like to spend the day talking to my fish
+anglertalk5=Bait is essential to fishing!
+anglerspecial=Did <stylist> comment about my style?
+
+akeepertalk1=I have been collecting just for you!
+akeepertalk2=You know what they say: Gotta catch 'em all!
+akeepertalk3=I have some of the most exotic animals you'll ever see!
+akeepertalk4=My pets take up very little time and care
+akeepertalk5=A pet can be a companion for life!
+akeepertalk6=I don't know how people survive without a pet by their side
+akeepertalk7=Some animals might be expensive, but worth it!
+
+blacksmithtalk1=My hammer can be used for more than forging!
+blacksmithtalk2=Using the right tool for the job is important!
+blacksmithtalk3=Your sword need to be sharpened?
+blacksmithtalk4=Take a look at my goods!
+blacksmithspecial=Don't sell your bars to <gunsmith>! He is using them wrong!
+
+eldertalk1=You should always go explore more than you already do
+eldertalk2=Old tales say some islands have dungeons with treasure
+eldertalk3=I see potential in such a young adventurer like you
+eldertalk4=Underground you will find some of the best ores in the world
+eldertalk5=I have only once seen a demon in my life, luckily I made it out alive
+
+farmertalk1=Have you seen my son?
+farmertalk2=You want to look like me?
+farmertalk3=Are you interested in agriculture?
+farmertalk4=I need someone to take over the farm when I get old
+
+gunsmithtalk1=Remember to practice before going hunting
+gunsmithtalk2=Guns don't kill people, people kill people
+gunsmithtalk3=I have some of the deadliest weapons in town!
+gunsmithtalk4=I swear there is nothing wrong with these goods
+gunsmithspecial1=Don't sell your bars to <blacksmith>! He is using them wrong!
+gunsmithspecial2=<hunter> is crazy, guns are the way to go!
+
+huntertalk1=There's nothing a bow and arrow can't handle
+huntertalk2=The core component of a bow is the me
+huntertalk3=I'll show you a trick if you put an apple on top of your head
+huntertalk4=Are you rich or poor?
+huntertalk5=Do I remind you of someone?
+huntertalkspecial=<gunsmith> is crazy, bows are the way to go!
+
+magetalk1=Are you interested in magic?
+magetalk2=You could have potential
+magetalk3=There are some magic you don't speak of
+magetalk4=There's no shop like mine!
+magetalk5=Powerful weapons needs enchants!
+magetalk6=Enchants can increase stats a lot
+
+piratetalk1=I sometimes think about and miss the sea
+piratetalk2=Do you have any spare rum?
+piratetalk3=Did you find any treasure yet?
+piratetalk4=I have lost my lock, do you have it?
+piratetalk5=My gunpowder is the best you'll ever find!
+piratetalk6=I didn't like my the pirate lifestyle anyway
+piratespecial1=Thanks for not making me walk the plank!
+piratespecial2=I hope I didn't hurt ya before!
+
+stylisttalk1=Some say I look like I am from a cartoon?
+stylisttalk2=Growing your hair is not a super power!
+stylisttalk3=Looking to impress someone?
+stylisttalk4=A new set of jeans will sometimes solve all your problems!
+stylisttalk5=I also work on the weekends!
+stylisttalk6=My shop will surely impress you!
+stylistspecial=I can't believe <angler> chose that style!
+
+tmerchanttalk1=My wares are as exotic as you!
+tmerchanttalk2=What? I'm balding?
+tmerchanttalk3=Traveling is fun and rewarding!
+tmerchanttalk4=Looking to get into the business?
+tmerchanttalk5=I should get a pack mule for all this stuff
+tmerchanttalk6=Now you know why my backpack is so big
+tmerchanttalk7=I've been many places, this one is decent
+
+pawnbrokertalk1=I'll give you a fair price for that!
+pawnbrokertalk2=You know, I'm not just for throwing stuff at
+pawnbrokertalk3=Sometimes a pawnbroker is all you need
+pawnbrokertalk4=Oh, I'm gonna profit from this!
+pawnbrokertalk5=I promise I won't scam you!
+pawnbrokertalk6=Yes, I know I look dapper!
+pawnbrokertalk7=Do you have a cup of tea?
+
+tpawnbrokertalk1=Has the merchant been here yet? I just met him out seas
+tpawnbrokertalk2=You've been waiting for me? That's nice
+
+explorertalk1=I like tropic islands the most
+explorertalk2=I've had my share of dangerous moments
+explorertalk3=This place is boring, I want to go somewhere!
+explorertalk4=A good pair of boots goes a long way
+explorertalk5=I wonder if I'll ever find one of those temples
+explorertalk6=Remind me to bring water before I leave
+explorertalk7=Let's be honest, surviving out there is pretty easy
+explorertalk8=Be careful of traps when exploring
+
+pirateattack1=ATTAAACK!
+pirateattack2=Surrender ye rum and hit the plank!
+pirateattack3=Me gunpowder will make quick work of ya!
+pirateattack4=Avast! We got an enemy in sight!
+pirateattack5=We will be popping me rum when done with ya!
+pirateattack6=Me cutlass will slice ya to pieces!
+pirateattack7=Ya will regret steppin' ya booty on our land!
+
+pirateescape1=Ya scared and be runnin!
+pirateescape2=I am done with ya!
+pirateescape3=Maybe next time lad!
+
+[settlement]
+maxcount=<count> per settlement
+roomreqs=Room requirements:
+showreqs=Hold shift to see room requirements
+clear=Clear preferred settler
+outsideerr=Room is outside
+notopenerr=Room is not an open area
+doorerr=Room has no doors
+doorreq=At least one door
+lighterr=Room has no lights
+lightreq=At least one light source
+floorerr=Room doesn't have complete floor
+floorreq=Complete valid floor tiles
+roomtoosmall=Room is too small
+roomsizereq=Room size at least <size> tiles
+alchemyerr=Room needs alchemy table
+alchemyreq=At least one alchemy table
+metalworkerr=Room needs forge or anvil
+metalworkreq=At least one forge or anvil
+chairerr=Room needs a chair
+tableerr=Room needs a table
+magereq=At least one table and chair
+golderr=Room needs a piece of gold furniture
+goldreq=At least one piece of gold furniture
+settlerunavailable=Not available
+settlershowtip=Hold shift to show acquire tip
+alchemisttip=Consume a potion
+anglertip=Catch a fish
+pawnbrokertip=Complete Antique Vulture quest tier
+animalkeepertip=Kill the Pirate Captain
+blacksmithtip=Go underground and craft metal bars
+farmertip=Visit a village island
+guardtip=Deal more damage!
+gunsmithtip=Kill the Evils Protector
+huntertip=Discover 10 or more islands
+magetip=Visit a dungeon and kill the Néant Wizard
+piratetip=Kill the Pirate Captain
+stylisttip=Kill the Pirate Captain
+explorertip=Kill the Antique Vulture
+travelingarrive=§a<mob> is arriving
+travelingleave=§a<mob> is leaving
+
+[buff]
+healthpotionfatigue=Health potion fatigue
+onfire=On fire
+ablaze=Ablaze
+brokenarmor=Broken armor
+teleportsickness=Teleport sickness
+voidsetcooldown=Néant set cooldown
+fowcooldown=Force of Wind cooldown
+lifelinecooldown=Recent lifeline
+spidervenom=Spider venom
+chilled=Chilled
+freezing=Freezing
+frostburn=Frostburn
+haunted=Haunted
+ninjasetbonus=Ninja set bonus
+bannerofspeed=Banner of Speed
+debugbuff=Debug buff
+summonedpet=Summoned pet
+summonedmount=Summoned mount
+summonedmob=Summoned mob
+settlementflag=Colonie nearby
+
+[bufftooltip]
+canceltip=Cancel
+nomodifiers=§9No modifiers given by buff
+teleportsicknesstip=Unable to teleport again
+settlementflagtip=Mob spawns reduced significantly
+
+[biome]
+unknown=Inconnu
+forest=Forêt
+plains=Plaine
+desert=Désert
+desertvillage=Village Désertique
+swamp=Marécage
+snow=Neigeux
+snowvillage=Village Neigeux
+dungeon=Entrée de Donjon
+forestvillage=Village Forestier
+piratevillage=Village Pirate
+
+[expedition]
+completequests=Complete more settlement quests
+cave=Cave
+swampcave=Swamp Cave
+dungeon=Donjon
+desertcave=Desert Cave
+pirate=Pirate
+deepcave=Deep Cave
+deepsnowcave=Deep Snow Cave
+
+[disconnect]
+chatmsg=<name> disconnected: <msg>
+unknown=Inconnu reason
+internal=Internal error
+kicked=Kicked: <reason>
+noreason=No reason
+invalidname=Invalid name
+clientresponding=Not responding
+serverstopped=Serveur stopped
+servererror=Serveur error
+wrongpassword=Wrong password
+missingclient=Missing client
+banned=You are banned from this server
+wrongversion=Wrong client version
+alreadyplaying=Already playing
+serverfull=Serveur full
+nomessage=No message
+missingappearance=Missing appearance
+networkerror=Network error
+networkerrormsg=Network error: <msg>
+statedesync=Game state desync
+notresponding=Have not received updates in <seconds> seconds
+respondingdc=Serveur did not respond
+
+[deaths]
+default=<victim> est mort
+unknownatt=Inconnu
+toobuffed=<victim> was too buffed
+generic1=<victim> was slain by <attacker>
+generic2=<victim> got ripped to pieces by <attacker>
+generic3=<victim> got humiliated by <attacker>
+generic4=<victim> could not handle <attacker>
+generic5=<attacker> overcame <victim>
+generic6=<attacker> was too fast for <victim>
+generic7=<attacker> humiliated <victim>
+generic8=<victim> could not handle <attacker>
+projectile1=<victim> got headshot by <attacker>
+projectile2=<attacker> landed a fatal shot on <victim>
+projectile3=<victim> was hunted down by <attacker>
+evilsproj1=<victim> got cleaned up by <attacker>
+evilsproj2=<attacker> finished off <victim>
+evilsproj3=<victim> could not handle <attacker>
+portalmin1=<victim> got scared of by <attacker>
+portalmin2=<victim> could not handle the horror of <attacker>
+portalmin3=<attacker> scared <victim> to death
+tntname=TNT
+explosionname=Explosion
+explosion1=<victim> got split to pieces by <attacker>
+explosion2=<attacker> exploded all over <victim>
+explosion3=<attacker> made <victim> rest in pieces
+firename=Fire
+lavaname=Lava
+fire1=<victim> did not have any protection against <attacker>
+fire2=<attacker> was too hot for <victim>
+fire3=<victim> was burned alive by <attacker>
+arrowtrapname=Arrow trap
+flametrapname=Flame trap
+flametrap1=<victim> got roasted by <attacker>
+flametrap2=<attacker> grilled <victim>
+lightning1=<victim> got electrocuted to pieces by <attacker>'s lightning
+lightning2=<attacker> toasted <victim> with lightning
+zombie1=<victim> got ripped to pieces by <attacker>
+zombie2=<victim> got humiliated by <attacker>
+zombie3=<attacker> ate <victim>'s entire body
+mummy1=<victim> got wrapped around by <attacker>
+mummy2=<attacker> was too scary for <victim>
+mummy3=<attacker> was sadly too good for <victim>
+skeleton1=<victim> got ripped to pieces by <attacker>
+skeleton2=<attacker> was too scary for <victim>
+skeleton3=<attacker> was too hard for <victim>
+polar1=<victim> got mauled by <attacker>
+polar2=<attacker> was too fast for <victim>
+polar3=<victim> got slaughtered by <attacker>
+vamp1=<attacker> out juked <victim>
+vamp2=<attacker> took <victim> to his lair
+vamp3=<victim> forgot the counter for <attacker>
+voidwiz1=<attacker> turned <victim> to magic dust
+voidwiz2=<attacker> defended his territory against <victim>
+voidwiz3=<victim> got hit by too many spells from <attacker>
+voidwiz4=<attacker>'s magic was too powerful for <victim>
+voidapp1=<attacker> blasted <victim> with color
+voidapp2=<victim> got a taste of <attacker>'s staff
+voidapp3=<attacker> was too fast for <victim>
+piratecap1=<victim> got swarmed by <attacker>
+piratecap2=<attacker> exploded <victim>'s face
+piratecap3=<attacker> kept his treasure from <victim>
+piratecap4=<victim> could not handle <attacker>'s cannon
+cavespider1=<victim> got torn up by <attacker>
+cavespider2=<attacker>'s fangs was too big for <victim>
+cavespider3=<attacker> ate <victim> alive
+
+[tech]
+all=All
+inventory=Inventaire
+workstation=Workstation
+forge=Forge
+carpenter=Carpenters bench
+ironanvil=Fer anvil
+alchemy=Alchemy table
+demonic=Demonic workstation
+advanced=Advanced workstation
+madein=Made in: <tech>
+madeinhidden=Made in: <tech> (hidden)
+
+[achievement]
+complete=Complete
+incomplete=Incomplete
+track=Track <achievement>
+chatcomplete=§a<player> completed achievement §7<achievement>
+completedon=Completed on <date>
+spelunker=Spelunker
+spelunker_desc=Be careful to not get lost!
+defeat_boss=First of Many
+defeat_boss_desc=Defeat your first boss
+get_pet=Companion For Adventure
+get_pet_desc=Get your first pet
+start_settlement=Do It Yourself
+start_settlement_desc=Start a settlement
+set_spawn=Instant Nap
+set_spawn_desc=Change your spawn point
+enchant_item=Artificer
+enchant_item_desc=Enchant an item using the mage
+magical_drop=Magique Drop
+magical_drop_desc=Increase max trinket slots
+village_helper=Village Helper
+village_helper_desc=Complete a settlement quest tier
+hoarder=Hoarder
+hoarder_desc=Have an inventory full of different items
+self_proclaimed=Self Proclaimed
+self_proclaimed_desc=Wear a gold crown
+double_catch=Double Catch
+double_catch_desc=Catch 2 fish in 1 throw
+complete_host=Complete Host
+complete_host_desc=Have all possible settlers live in the same settlement
+getting_hot=Getting Hot
+getting_hot_desc=Reach the deep caves
+obtain_items=Complete Collector
+obtain_items_desc=Obtain all possible items
+visit_biomes=Tourist
+visit_biomes_desc=Visit all different biomes
+fish_up=More Than A Hobby
+fish_up_desc=Fish up a total of 500 items
+run_marathon=Marathon Runner
+run_marathon_desc=Run a full marathon on foot
+play_24h=Time Wasted
+play_24h_desc=Play the game for a full 24 hours
+
+[loading]
+foundmods=Found <mods> mod(s)
+loadedmods=Loaded <mods> mod(s)
+preinitmods=Pre initializing mods
+initmods=Initializing mods
+initmodsres=Initializing mod resources
+postinitmods=Post initializing mods
+biomes=Loading biomes
+buffs=Loading buffs
+items=Loading items
+leveldata=Loading level data
+levelevents=Loading level events
+mobs=Loading mobs
+objects=Loading objects
+pickups=Loading pickups
+projectiles=Loading projectiles
+textures=Loading textures
+sound=Loading sound
+shaders=Loading shaders
+commands=Loading commands
+tiles=Loading tiles
+worldevents=Loading world events
+finishing=Finishing up
+mapshot=Taking mapshot
+loading=Loading
+connecting=Connecting
+connectrecipes=Loading recipes <percent>%
+connectstats=Loading player stats
+connectworld=Loading world
+connectlevel=Loading level
+connectplayers=Loading players <percent>%
+connectclient=Loading client
+connectquests=Loading quests
+connectmap=Loading map <percent>%
+
+[ui]
+travelbutton=Voyager
+respawnbutton=Respawn
+dirnorth=Nord
+dirwest=Ouest
+direast=Est
+dirsouth=Sud
+dirnorthwest=Nord-Ouest
+dirnortheast=Nord-Est
+dirsouthwest=Sud-Ouest
+dirsoutheast=Sud-Est
+traveldir=Voyager vers <dir>
+travelnorth=Voyager vers le Nord
+travelwest=Voyager vers l'Ouest
+traveleast=Voyager vers l'Est
+travelsouth=Voyager vers le Sud
+travelnorthwest=Voyager vers le Nord-Ouest
+travelnortheast=Voyager vers le Nord-Est
+travelsouthwest=Voyager vers le Sud-Ouest
+travelsoutheast=Voyager vers le Sud-Est
+travelloading=Chargement...
+scoreyour=Votre île
+scoredirup=Above you
+scoredirdown=Below you
+scoredirunknown=Localisation Inconnu 
+latencytip=<latency> ms
+respawn=Respawn
+respawnin=Respawn in <seconds>
+totalarmor=Total armor: <armor>
+filtercraft=Craftable
+changefilters=CHANGE FILTERS
+craftfilters=Crafting filters
+craftsearchfilter=Filter
+showhidden=Show hidden
+craftshowhiddentip=Some recipes are hidden until you can craft them, or require a specific ingredient in inventory to show up
+usenearbyinv=Use nearby inventories
+usenearbyinvtip=If crafting should use nearby inventory items
+expand=Expand
+collapse=Collapse
+catmats=Materials
+catobjects=Objects
+cattools=Tools
+catarmor=Armure
+catmisc=Misc
+shopnoitems=No items found
+shopselltip=§aGet <coins> coins for <amount>:
+shopbuytip=§aGive <coins> coins for <amount>:
+insertmat=Insert crafting material in slot
+waystoneinvalidhome=§6Could not find Homestone
+waystonenoslots=§6No empty Waystone slots
+waystoneinvalid=§6Could not find Waystone
+currenttime=Current time: <time>
+hotkeytip=Raccourcis : <hotkey>
+dontshowagain=Don't show again
+backbutton=Retour
+buybutton=Acheter
+confirmbutton=Confirmer
+continuebutton=Continuer
+selectbutton=Sélectionner
+acceptbutton=Accepter
+declinebutton=Décliner
+cancelbutton=Annuler
+closebutton=Fermer
+
+// Main menu
+// Menu
+continueworld=Continuer le Monde
+continuetip=Continuer <world>
+newworld=Nouveau Monde
+loadworld=Charger un Monde
+hostworld=Héberger un Monde
+multiplayer=Multijoueurs
+settings=Paramètre
+mods=Mods
+exit=Exit
+loadsave=Charger
+confirmdeletesave=Supprimer la sauvgarde "<save>" ?
+deletesave=Supprimer
+backupsave=Backup
+nosavestip=Aucune sauvgarde du monde trovée. Créez un nouveau monde avant.
+savetip=Jour : <day>, Heure : <time>
+refreshservers=Rafraichir
+addserver=Ajouter un Serveur
+deleteserver=Supprimer un Serveur
+confirmdeleteserver=Supprimer le Serveur "<server>" ?
+joinserver=Rejoindre le Serveur
+directjoin=Rejoindre Directement
+unknownaddress=Adresse Inconnue
+searchinglan=Recherche de Serveurs Locaux...
+searchlandone=Recherche de Serveurs Locaux effectuée
+correctversion=Version du Jeu correcte
+wrongversion=Mauvaise Version du Jeu
+serverversion=Serveur v. <version>
+passwordprotected=Le Serveur est protégé par un Mot de Passe
+serversettings=Paramètre Serveur :
+mobsdisabled=Appararition des Monstres Désactivée
+mobsenabled=Appararition des Monstres Activée
+keepinv=Garder l'inventaire à la mort
+dropinv=Laisser tomber l'inventaire à la mort
+forcepvpon=Forcer le PVP Activé
+forcepvpoff=Forcer le PVP Désactivé
+difficulty=Difficulté
+difficultytip=Difficulté <difficulty>
+diffeasy=Facile
+diffeasytip=Dégâts subis réduits
+diffnormal=Normale
+diffhard=Difficile
+diffhardtip=Dégâts subis augmentés
+showadvanced=Maintenez Shift pour d'avantage d'informations
+daymod=Temps de Jour : <mod>
+nightmod=Temps de Nuit : <mod>
+connectserver=Se Connecter
+connectcancel=Annuler
+charcreate=Créer
+addconfirm=Ajouter
+passwordreq=Serveur requérant un Mot de Passe
+namedesc=Nom :
+nameexample=Juste un Nom Visible
+ipdesc=Addresse IP :
+ipexample=127.0.0.1
+portdesc=Nombre du Port:
+portexample=14159 ou 9001
+hostport=Port d'Hébergement
+playerslots=Nombre de Joueurs
+password=Mot de Passe
+passwordtip=Laissez vide si aucun mot de passe
+hoststart=Héberger
+rotate=Tourner
+hair=Cheveux
+haircolor=Couleur des Cheveux
+skin=Peau
+eyes=Yeux
+shirtcolor=Couleur de Chemise
+shoescolor=Couleur de Chaussures
+selectcolor=Sélectionner la Couleur
+colorred=Rouge
+colorgreen=Vert
+colorblue=Bleu
+resetappearance=Défaut
+undoreset=Annuler le Reset
+randomappearance=Aléatoire
+customspawn=Personnaliser le point d'apparition
+xcoord=X coord
+ycoord=Y coord
+spawnguide=Spawn guide house
+disablespawns=Disable mob spawns
+daymodnew=Day time modifier
+nightmodnew=Night time modifier
+spawnsettings=Spawn settings
+spawnseed=Spawn\nseed
+resetseed=Reset
+playername=Nom du Joueur
+playernamesize=Name must be between 4 and 20 characters
+playernamesymbols=Name contains invalid symbols
+playernameinuse=Name already in use
+savename=Save name
+createworld=Create world
+worldsettings=World settings
+worldadvanced=Advanced
+hostnewworld=Host new world
+selectsave=Sélectionner
+steamlobbytype=Serveur visibility
+steamlobbyinvite=Invite only
+steamlobbyfriends=Friends only
+steamlobbypublic=Public
+allowconnectbyip=Allow connection by IP
+peacefulbox=Peaceful
+dropinvbox=Drop inventory on death
+forcedpvpbox=Forced PvP
+rememberpass=Remember password
+waitserver=Waiting for server to shut down...
+modmoveup=Move up
+modmovedown=Move down
+modenable=Activé
+moddisable=Désactivé
+modhelp=Help
+modssave=Save
+modsinfoselect=Select mod for details
+modstatusenabled=enabled
+modstatusdisabled=disabled
+modstatus=Status: <status>
+modinfoid=ID: <id>
+modinfoname=Nom : <name>
+modinfoversion=Version: <version>
+modinfogameversion=Game version: <version>
+modinfodep=Dependencies:
+modinfooptdep=Optional dependencies:
+modssavenotice=NOTICE:\nYou must restart the game for change to take effect
+modsquit=Quit now
+modslater=Do later
+modsempty=No mods found
+modsalpha=ALPHA
+modsalphatip=Modding is still in very early stages.\nYou may experience game breaking bugs while using this feature
+modhelptext=Place mods JAR files into games mods directory (create one if it doesn't exist) and they will appear here after restart.
+modiniterror=An error occurred while initializing mod\n"<mod>"\nCheck the latest log for details.
+modmismatch=Your mods do not match the servers
+modmatch=Your mods match the servers
+modreview=Avis
+servermods=Serveur mods
+mymods=Mes Mods
+useservermods=Use server mods
+modmissing=Manquant
+modinversion=Incorrect version
+modinposition=Incorrect position
+modmissingsome=Missing some mods
+
+// Achievements and stats form
+achievementsandstats=Achievements and stats
+achievements=Achievements
+achdisabled=Achievements disabled
+achenabled=Achievements enabled
+achdisabledhelp=This world does not have achievements and player stats enabled. Achievements get disabled when cheats are used in the world. This is not reversible, and you have to start a new world to progress in achievements.
+showcompleted=Show completed
+loadingstats=Loading...
+statsnotfound=Stats not found
+playerstats=Player stats
+playerstatstip=Your total stats across all worlds
+psdisabled=Player stats disabled
+globalstats=Global stats
+characterstats=Character stats
+characterstatstip=Current characters stats
+worldstats=World stats
+worldstatstip=Total stats in this world
+gotinvite=Game invite from <name>
+
+// Pause menu
+resumegame=Resume
+invitefriends=Invite friends
+playinggame=Playing <game>
+playingother=Playing other game
+invite=Invite <name>
+invited=Invited <name>
+couldnotinvite=Could not invite <name>
+tomain=Main menu
+statusonline=Online
+statusoffline=Offline
+statusaway=Away
+statusbusy=Busy
+statusSnooze=Snooze
+statuslookingtoplay=Looking toplay
+statuslookingtotrade=Looking to trade
+
+// Player
+pvplabel=PvP
+teamcreate=Create new team
+teamleave=Leave team
+teamleaveconfirm=Leave team?\nYou will have to get an invite to join again
+teamnocurrent=You are currently not in any team
+teamowner=Owner: <owner>
+teamchangename=Change team name
+teaminvite=Invite players
+teaminviteselected=Invite selected
+teammembers=Members
+teamkick=Kick <name>
+teampassowner=Pass team ownership
+teaminvites=Invites
+diedlabel=You died
+settlement=Colonie
+settlementsurface=Only on surface
+pvpandteams=PvP and teams
+quests=Quests
+noquests=You do not have any active quests
+maphide=Hide
+mapshow=Show
+toggleautodoor=Toggle auto door
+
+// Containers
+elderheader=What can I help you with?
+elderquest=Colonie quest
+elderquestprogress=Quest tier progress
+eldernoquest=No current settlement quest
+eldertakequest=Take quest
+eldercompletequest=Complete quest
+elderskipquest=Skip quest
+elderskipquesttime=Cannot skip quest at this time
+elderskipquestcant=Cannot skip this quest
+eldertips=Tips
+eldernexttip=Next
+elderprevtip=Previous
+eldertip1=Ladders help you get underground where you can find resources and treasure
+eldertip2=Some recipes are hidden until you have all the ingredients
+eldertip3=Use the crafting guide book to see recipes using a crafting material
+eldertip4=Some islands have villages with people willing to trade
+eldertip5=The dungeon has a powerful wizard guarding the end
+eldertip6=A dangerous demon can be summoned if you find a portal for it
+eldertip7=Fishing is very useful for creating potions
+eldertip8=Armure usually have a set bonuses when all is equipped
+eldertip9=Traders change their prices every day. Try to trade with them on their best day
+eldertip10=Starting your own settlement is very useful to always have access to traders
+eldertip11=Some traders sell more items when you've defeated certain enemies
+eldertip12=A powerful creature can be found in the desert caves
+elderhelpbutton=Explain something
+elderhelp=Select a topic
+eldercrafting=Crafting
+eldercraftingtip=All items with the tooltip "Crafting material" are used in a recipe somewhere. Use your inventory crafting for simple recipes. Crafting stations like workstation and anvil can be used for more advanced crafting. Use filter in inventory crafting to filter for specific recipes. Place a crafting material in the slot below to see possible recipes.
+elderexploring=Exploring
+elderexploringtip=Swimming or sailing to the edge of the map will allow you to travel to different islands. Once you have travelled to the island, you will discover its biome for future travel. Some islands have higher level content, so it may be worth to leave it alone and come back later.
+eldertrading=Trading
+eldertradingtip=Some islands have villages with traders. Traders have random items of their profession they want to buy or sell. Some traders of same profession will have different items and prices. Start a settlement to always have specific traders nearby.
+elderobjects=Objects
+elderobjectstip=Objects are the things placed in the world. Some objects have collision and some objects you can interact with. Use tools like the axe and pickaxe to break them.
+eldertiles=Tiles
+eldertilestip=Tiles are the things you walk on and swim in. Some objects can only be placed on certain tiles. Use the shovel to pick up most tiles.
+eldertools=Tools
+eldertoolstip=Early game tools are crafted at the iron anvil. Pickaxes are used for rock type objects, axes for wood type objects and shovels for tiles. Some objects requires higher tier tools to be broken.
+elderweapons=Weapons
+elderweaponstip=Basic early game weapons are crafted at the iron anvil. More advanced weapons can often be found in chests around the world. There are a wide variety of weapon types, anything from swords and bows to guns, boomerangs and magic weapons.
+elderarmor=Armure
+elderarmortip=Early game armor are crafted at the iron anvil. Armure sets often have bonuses when entire set is equipped. Cosmetic armor slots do not give any stats, but override the look of the equivalent equipped armor slot.
+eldertrinkets=Trinkets
+eldertrinketstip=Trinkets can often be found in chests around the world and sometimes crafted. They give various of different buffs and enhancements. Equipping 2 of the same type does not work, and will ignore the later trinket.
+elderenchants=Enchants
+elderenchantstip=Most weapons and trinkets can be enchanted to give better stats. You can find a friendly mage to help you enchant an item for a cost. Good enchantments helps a lot to overcome the next challenge.
+elderpotions=Potions
+elderpotionstip=Potions can be found in chests or crafted at the alchemy table. They are important for survival and defeating hard enemies, so don't be too conservative when using them!
+eldersettlements=Colonies
+eldersettlementstip=Colonies are player made villages. To start one, craft a settlement flag and place it down. Rooms and buildings will then start to be populated with NPCs depending on the owner of the settlement. Other people can force move in settlers they have access to on public settlements. Kill bosses and progress to unlock more NPCs.
+demoniccrafting=Demonic crafting
+tpislandrange=Island range: <range>
+tpdestinations=Destinations
+traderbuy=Buy
+tradersell=Sell
+mageheader=I can help you enchant items or you can visit my shop!
+mageenchant=Enchant
+mageconfirm=Enchant!
+mageenchanttip=Put item in slot and press enchant to get a random enchantment or curse!
+magecost=Cost:
+stylistheader=Need a new haircut or just looking to buy a shirt?
+stylistchange=Change style
+stylistbuy=Buy
+stylistcost=Cost:
+stylistshirtcolor=Chemise color
+stylistshoescolor=Chaussures color
+stylistreset=Reset
+stylistrandom=Randomize
+brokerprofit=Profit:
+brokervalue=Value: <value>
+explorerfindisland=Find island
+explorerexpeditions=Expeditions
+explorerselectisland=Select island
+explorerfindcost=I will go look for a new <biome> island for <cost> coins
+explorerfoundisland=I found a new <biome> island <dir> of here
+explorerfoundfail=I could not find the island you were looking for
+explorerknowalready=Looks like you know about the <biome> island I found already. Do you want me to find a new one?
+explorerfindnew=Find new
+explorerdiscover=Discovered island <dir> of your location (<coord>)
+explorerselectexp=Select expedition
+explorershowallexp=Show all
+explorerexpcost=I will bring back items from a <expedition> expedition for <cost> coins with a <chance>% success chance
+explorerexpfail=Sorry, but I couldn't complete the expedition
+explorerexpcomplete=I found these items on the expedition
+explorerexploot=Receive
+explorerexpdiscard=Discard
+wireinputs=Inputs
+wireoutputs=Outputs
+wire0=Red wire
+wire1=Green wire
+wire2=Blue wire
+wire3=Yellow wire
+bufferticks=Ticks
+buffertip=<ticks> ticks is 1 sec
+buffersave=Save
+timerticks=Ticks
+timertip=<ticks> ticks is 1 sec
+timersave=Save
+soundpitch=Pitch
+soundsave=Save
+sensorplayers=Players
+sensorhostile=Hostile mobs
+sensorpassive=Passive mobs
+sensorrange=Range
+rsactivate=Activate
+rsreset=Reset
+inventoryrename=Rename
+inventorysave=Save
+inventoryquickstack=Quick stack to inventory
+inventoryquickstackinfo=Will quick stack items to inventory. Use <key> to lock items from being stacked
+inventoryrestock=Will restock from inventory
+inventorylootall=Loot all from inventory
+inventorysort=Sort inventory
+telepadname=Name
+telepadprivate=Private
+telepadregister=Register
+telepaddial=Dial
+telepadaccesserr=Telepad is private
+telepadnodest=No valid destinations
+settlementnone=Could not find settlement flag
+settlementman=Colonie manager
+settlementowner=Owner: <owner>
+settlementpriv=Privacy settings
+settlementispriv=Colonie is private
+settlementowneronly=Owner only
+settlementmakepriv=Make private
+settlementmakepub=Make public
+settlementclaim=Claim settlement
+settlementunclaim=Unclaim settlement
+settlementclaimfirst=Claim first
+settlementroom=Manage rooms
+settlementhowto=Help:\n1. Click a preferred settler\n2. Click on the room to lock
+settlementshowall=Show all
+travelselect=Select island
+travelworldmap=World map
+travelhelp=Left click to travel\nRight click to focus.
+travelteam=Team members:
+travelspawn=§aSpawn island
+traveldiscovered=§7Discovered
+travelnotdiscovered=§9Not discovered
+travelloadingisland=§9Loading island level...
+traveloutrange=§6Out of travel range
+travelnotes=Notes:
+travelcantcurrent=Cannot travel to current destination
+travelcantrange=Destination out of range
+travelcantmap=Go to edge of map to travel
+travelcancel=Cancel
+travelconfirm=Voyager
+craftingguide=Crafting guide
+composting=Composting...
+needcompost=Need compost material
+emptywaystones=Empty Waystone slots: <count>
+waystoneempty=Empty slot
+waystonenum=Waystone <num>
+waystonerename=Rename
+waystonesave=Save
+waystonehelp=Get one Waystone slot for each completed quest tier\nMore Waystones can be bought from the settlement Mage
+
+// Sidebars
+tutoriallabel=Tutoriel
+wireedit=Wire edit
+
+// Quickbar
+shiftmoreinfo=Hold shift for more info
+restocktip=Restock from nearby inventories
+quickstacktip=Quick stack to nearby inventories
+quickstacktipinfo=Will quick stack items to nearby inventories. Use <key> to lock items from being stacked
+sorttip=Sort inventory
+sorttipinfo=Use <key> to lock items from being sorted
+
+[quests]
+complete=Terminée
+incomplete=Incomplete
+track=Suivre la quête
+abandon=Abandoner
+abandonconfirm=Abandoner la quête ?
+genericquest=Quête
+settlementquest=Quête de Colonie
+killmob=Tuer <mob>
+deliveritem=Livrer <item>
+
+[tutorials]
+treestorch=Follow instruction arrows to learn how to chop a tree and craft a torch.
+hittree=Walk close and hit tree with axe by pressing <key>
+findtree=Find a tree to chop down
+openinv=Press <key> to open inventory
+crafttorch=Craft a torch in crafting menu
+craftwork=Find or craft a workstation from inventory crafting (requires 10[item=pinelog]) and place it down with <key1>. Then use it by pressing <key2> on it.
+craftpick=Find and craft a wood pickaxe in the workstation (requires 5[item=pinelog]).
+talkelder=Talk to the elder to learn about the game.
+elderdoor=Walk to and open door with <key>
+elderwalk=Walk close and talk to elder with <key>
+talkelderstop=Walk away or press <key> to stop talking to the elder when you are done.
+findore=Find some ore underground to mine. You can place torches to light up the area.
+gounder=Go underground to find ore
+craftladder=Craft a ladder in inventory crafting, place and use it to go underground.
+craftladderfloat=Craft a ladder from your inventory crafting and place it with <key>
+useladder=Go to and use the ladder to go underground.
+useladderfloat=Walk close and press <key> on ladder to go underground
+useladderdoor=Go to and use the ladder to go underground. You can open and close doors by pressing <key> on them.
+mineore=Mine ore by pressing <key> with your pickaxe in hand
+findorefloat=Walk or mine around to find some ore
+ores=Minerais are used to craft bars, which are used in many recipes throughout the game.
+oresnext=Next
+travel=If you travel out in the water to the edge of the map, you will be able to go to other islands. Islands have different biomes and features like dungeons and villages. Press <key> to browse world map. Good luck exploring!
+travelend=End tutorial
+skip=Skip
+
+[settingsui]
+front=Settings
+world=World
+general=General
+language=Language
+controls=Controls
+interface=Interface
+graphics=Graphics
+displaymode=Affiche mode:
+displaywindowed=Windowed
+displayborderless=Borderless windowed
+displayfullscreen=Fullscreen
+displayres=Game resolution:
+maxfps=FPS cap:
+fpsnocap=No cap
+particles=Particles:
+particlesmin=Minimal
+particlesdec=Decreased
+particlesmax=Maximum
+cursorcolor=Cursor color
+cursorpreview=Preview
+sound=Sound
+confirm=Confirm?
+zoomlevel=Zoom level
+pausefocus=Pause on focus loss
+skiptutorial=Always skip tutorial
+showdebug=Show debug info
+showquest=Show quest markers
+showpickup=Show pickup text
+showdamage=Show damage text
+showdot=Show damage over time text
+showbosshealthbars=Show boss health bars
+showtooltipsbackground=Show tooltips background
+showcontroltips=Show control tips
+showlogicgate=Show logic gate tooltips
+alwaysshowquickbar=Always show quickbar
+interfacesize=Size
+languageselect=Language: <language>
+opensaves=Open saves folder
+resetrecipes=Reset to default recipes
+resetcache=Clear client cache folder
+recipesconfirm=Are you sure you want to reset recipes?
+cacheconfirm=Are you sure you want to clear client cache folder?
+onlyinmenu=Cannot be done in-game
+vsync=Enable vSync
+smoothlight=Smooth lighting
+perffocus=Save performance on focus loss
+wavygrass=Wavy grass
+camerashake=Camera shake
+cursorsize=Size
+mutefocus=Mute on focus loss
+mastervolume=Master volume
+effectsvolume=Effects volume
+weathervolume=Weather volume
+uivolume=UI volume
+musicvolume=Music volume
+nopermission=No server permission
+communitytranslations=Community translations
+save=Save
+
+[stats]
+filter=Filter:
+time_played=Time played
+distance_ran=Distance ran
+distance_ridden=Distance ridden
+damage_dealt=Damage dealt
+show_types=Show types
+damage_taken=Damage taken
+deaths=Deaths
+mob_kills=Mob kills
+boss_kills=Boss kills
+show_mobs=Show mobs
+island_travels=Island travels
+islands_discovered=Islands discovered
+biomes_discovered=Biomes discovered
+show_biomes=Show biomes
+objects_mined=Objects mined
+objects_placed=Objects placed
+tiles_mined=Tiles mined
+tiles_placed=Tiles placed
+potions_consumed=Potions consumed
+fish_caught=Fish caught
+quests_completed=Quests completed
+money_earned=Money earned
+items_sold=Items sold
+money_spent=Money spent
+items_bought=Items bought
+items_enchanted=Items enchanted
+items_obtained=Unique items obtained
+show_missing_items=Show missing items
+show_items_all=All
+show_items_obtained=Obtained
+show_items_not_obtained=Not obtained
+have_all_items=You have obtained all items!
+trinkets_worn=Trinkets worn
+show_missing_trinkets=Show missing trinkets
+missing_trinkets=Missing trinkets:
+have_all_trinkets=You have worn all trinkets!
+set_bonuses_worn=Set bonuses worn
+telepads_used=Telepads used
+ladders_used=Ladders used
+doors_used=Doors used
+plates_triggered=Plates triggered
+levers_flicked=Levers flicked
+homestones_used=Homestones used
+waystones_used=Waystones used
+crafted_items=Crafted items
+crates_broken=Crates broken
+
+normal_damage=Normal damage
+true_damage=True damage
+melee_damage=Melee damage
+ranged_damage=Ranged damage
+magic_damage=Magic damage
+summon_damage=Summon damage
+
+[controls]
+groupgeneral=General
+groupmovement=Movement
+groupmisc=Miscellaneous
+groupkeymods=Key modifiers
+groupdebug=Debug
+mouse1=Attack/place
+mouse2=Interact
+moveup=Move up
+moveleft=Move left
+movedown=Move down
+moveright=Move right
+movetomouse=Move to mouse
+inventory=Inventory
+healthpotion=Use health potion
+setability=Use armor set ability
+trinketability=Use trinket ability
+smartmining=Toggle smart mining
+scoreboard=Scoreboard
+showmap=Show island map
+showworldmap=Show world map
+zoomin=Zoom in
+zoomout=Zoom out
+hideui=Hide UI
+screenshot=Screenshot
+debuginfo=Debug info
+debughud=Debug hud
+buffpotions=Use buff potions
+placetorch=Place torch
+nexthotbar=Next hotbar slot
+prevhotbar=Previous hotbar slot
+invlock=Toggle slot locked
+invquickmove=Quick move
+invtrash=Quick trash
+craftall=Craft all
+craft5=Craft 5
+
+// Control tips
+interacttip=Interact
+usetip=Use
+opentip=Open
+closetip=Close
+boatuse=Use boat
+humantalk=Talk
+mountmob=Mount
+addropemob=Add rope
+removeropemob=Remove rope
+feedmob=Feed
+equiptip=Equip
+
+[misc]
+recipecostmult=Cost for <amount>:
+recipecostsing=Cost:
+ingredienthave=Have: <ingredient>
+epspawn=§bEvil's Protector has been summoned!
+epescape=§bEvil's Protector has escaped because of the light!
+epdefeat=§bEvil's Protector has been defeated!
+vwstart=§bNéant Wizard has awoken!
+vwdefeat=§bNéant Wizard has been defeated!
+pcdefeat=§bPirate Captain has been defeated!
+invasionspawn=§bA mob invasion has started!
+vulturespawn=§bAncient Vulture has been summoned!
+vulturestart=§bAncient Vulture has awoken!
+vulturedefeat=§bAncient Vulture has been defeated!
+reaperspawn=§bReaper has been summoned!
+reaperdefeat=§bReaper has been defeated!
+cryoqueenspawn=§bCryo Queen has been summoned!
+cryoqueendefeat=§bCryo Queen has been defeated!
+pvpenable=<player> enabled PvP
+pvpdisable=<player> disabled PvP
+teamjoin=<player> joined <team>
+teamleft=<player> left <team>
+teamkick=<player> was kicked from <team>
+teaminvite=You have been invited to join <team>
+screenshotsave=Saved screenshot to <path>
+mapshotsave=Saved mapshot to <path>
+mapshottip=Saving mapshot, this may take some time...
+shotopen=Click to open folder
+shotexplore=Click to show in explorer
+clearsettler=Clear settler
+locksettler=Lock <settler>
+nosettler=Lock no settler
+playerconnecting=<player> is connecting!
+playerjoined=<player> has joined!
+laddernotsurface=I can only use this on the surface
+mountnotown=You do not own this mount!
+spawndungeon=Cannot set spawn inside dungeon
+spawnhouse=Cannot set spawn outside
+spawnset=Spawn point set!
+spawnremoved=Spawn point removed!
+spawninvalid=Previous spawn point is invalid
+boatplacetip=To pick up the boat again, hit it with a weapon!
+dpscount=DPS: <dps>
+permuser=User
+permmod=Moderator
+permadmin=Admin
+permowner=Owner
+permserver=Serveur
+permchange=Permissions set to: <perm>
+allowcheats=Allow cheats to do that
+smartminingon=Smart mining ON
+smartminingoff=Smart mining OFF
+eanotice=Notice:\nThis is an early access build.\n\nYou might encounter bugs, missing, incomplete or unpolished features.\n\nThank you for playing!
