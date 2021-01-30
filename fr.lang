@@ -1134,44 +1134,45 @@ buildingspeed=<mod>% de vitesse de construction
 miningrange=<mod> distance de minage
 buildingrange=<mod> distance de construction
 
-arrowusage=<mod>% arrow usage
-bulletusage=<mod>% bullet usage
-maxsummons=<mod> max summons
-summonsspeed=<mod>% summons speed
-summonstargetrange=<mod>% summons target range
+arrowusage=<mod>% d'utilisation de flèche
+bulletusage=<mod>% d'utilisation de balle
+maxsummons=<mod> d'invocation max
+summonsspeed=<mod>% de vitesse d'invocation
+summonstargetrange=<mod>% de distance d'invocation de la cible
 
-attackmovement=<mod>% attack movement penalty
-projectilevel=<mod>% projectile velocity
-throwingvel=<mod>% throwing velocity
+attackmovement=<mod>% de pénalité de mouvement d'attaque
+projectilevel=<mod>% de vitesse du projectile
+throwingvel=<mod>% de vitesse de projection
 
-traveldistance=<mod> travel distance
-biomeviewdistance=<mod> biome view distance
+traveldistance=<mod> de distance de voyage
+biomeviewdistance=<mod> de distance de vue de biome 
 
-knockbackin=<mod>% incoming knockback
-fishingpower=<mod>% fishing power
-fishinglines=<mod> fishing lines
+knockbackin=<mod>% de recul entrant
+fishingpower=<mod>% de puissance de pêche
+fishinglines=<mod> lignes de pêche
 
-waterwalking=Allows water walking
-emitslight=Emits light
-invisibility=Enables invisibility
-spelunker=Enables spelunker
-treasurehunter=Enables treasure hunter
-bouncy=Bouncy
+waterwalking=Permet de marcher sur l'eau
+emitslight=Émet de la lumière
+invisibility=Active l'invisibilité
+spelunker=Active la vision nocturne
+treasurehunter=Active le chercheur de trésors
+bouncy=Rebondissant
 
-targetrange=<mod>% target range
-chaserrange=<mod>% chaser range
+targetrange=<mod>% de distance de dible
+chaserrange=<mod>% de distance de poursuite
 
 // Tool items
-toolknockback=<mod>% knockback
-toolrange=<mod>% range
+toolknockback=<mod>% de recul
+toolrange=<mod>% de distance
 
 // Projectile
-velocity=<mod>% velocity
+velocity=<mod>% de vitesse
 
 [mob]
 // Passive
+// Passif
 sheep=Mouton
-lamb=Lamb
+lamb=Agneau
 wildostrich=Wild Ostrich
 cow=Vache
 calf=Calf
