@@ -473,7 +473,7 @@ lightninghammer=Marteau de Lumière
 demonicsword=Épée en Bois Demonic 
 cutlass=Coutelas
 tungstensword=Épée en Bois Tungstène 
-reaperscythe=Faux de la Mort
+reaperscythe=Faux de Faucheuse
 
 // Spears
 // Lances
@@ -869,7 +869,7 @@ throwtip=Peut être jeté
 heavyhammertip=Lance de petites pierres
 lightninghammertip1=Très grande vitesse
 lightninghammertip2=Tire de rapides éclairs
-reaperscythetip=Tire une Faux de la Mort
+reaperscythetip=Tire une Faux
 speartip=Ne frappera qu'à la pointe
 bloodbolttip=Tire un projectile à tête chercheuse
 bloodvolleytip=Tire 3 projectiles à tête chercheuse
@@ -1261,40 +1261,41 @@ snowwolf=Loup des neiges
 cryoflake=Flocons de Glace
 
 // Pets/spawned
-spawnedname=<player>'s <mob>
-tameostrich=Tame Ostrich
-petpenguin=Pet Penguin
-petparrot=Pet Parrot
-steelboat=Acier Bateau
-petwalkingtorch=Walking Torche
-jumpingball=Jumping Ball
+spawnedname=<mob> de <player>
+tameostrich=Apprivoiser l'Autruche 
+petpenguin=Manchot de compagnie
+petparrot=Perroquet de compagnie
+steelboat=Bateau d'Acier
+petwalkingtorch=Torche de marche
+jumpingball=Balle Rebondissante
 hoverboard=Hoverboard
-babyzombie=Baby Zombie
-babyspider=Baby Spider
-playervulturehatchling=Vulture Hatchling
-playerreaperspirit=Reaper Spirit
-playercryoflake=Cryo Flake
+babyzombie=Bébé Zombie
+babyspider=Bébé Araignée
+playervulturehatchling=Jeune Vautour 
+playerreaperspirit=Esprit de la Faucheuse
+playercryoflake=Flocons de Glace
 
 // Bosses/minions
-evilsprotector=Evil's Protector
-evilsportal=Evil's Portal
-portalminion=Portal Minion
-voidwizard=Néant Wizard
-voidwizardclone=Néant Wizard
-piratecaptain=Pirate Captain
-piraterecruit=Pirate Recruit
-pirateparrot=Pirate Parrot
-ancientvulture=Antique Vulture
-ancientvultureegg=Antique Vulture Egg
-vulturehatchling=Vulture Hatchling
-reaper=Reaper
-reaperspiritportal=Reaper Spirit Portal
-reaperspirit=Reaper Spirit
-cryoqueen=Cryo Queen
+// Boss et autres
+evilsprotector=Protecteur du mal
+evilsportal=Portail du mal
+portalminion=Serviteur du portail
+voidwizard=Mage du Néant
+voidwizardclone=Mage du Néant
+piratecaptain=Captaine Pirate
+piraterecruit=Recrue Pirate
+pirateparrot=Perroquet Pirate
+ancientvulture=Vautour Antique
+ancientvultureegg=Œuf de Vautour Antique
+vulturehatchling=Jeune Vautour
+reaper=Faucheuse
+reaperspiritportal=Portail de l'esprit Faucheuse
+reaperspirit=Esprit Faucheuse
+cryoqueen=Reine des Glaces
 
 // Misc
-woodboat=Bois boat
-trainingdummy=Training dummy
+woodboat=Bateau en bois
+trainingdummy=Mannequin d'entraînement 
 
 [mobmsg]
 angryshop=Cannot trade angry shops
