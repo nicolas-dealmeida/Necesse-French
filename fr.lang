@@ -966,7 +966,6 @@ shadowgatetip2=Doit être utilisé dans les grottes profondes
 icecrowntip1=Appelle son propriétaire
 icecrowntip2=Doit être utilisé dans les grottes de neige profonde
 binocularstip=Regardez plus loin
-// ???
 ropetip=Utilisez la corde la plus passive des animaux
 biomemaptip=À utiliser pour trouver des îles autour de vous
 mapfail=La carte ne vous a montré aucune information utile
@@ -983,77 +982,41 @@ stinkflasktip=Vous couvre d'un parfum qui attire les ennemis
 singleuse=Usage unique 
 infiniteuse=Utilisations infinies
 traveltip=Très efficace pour récolter les plantes cultivées
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-farmingscythetip=Very effective at harvesting grown plants
-cuttertip=Used to remove logic wire
-wrenchtip=Used to place logic wire
-wrenchammo=Available wire: <value>
-enchantslot=Enchant slot
-materialslot=Crafting material slot
-trashslot=Trash can
-voidshardtip=Magique essence
-glassbottletip=Used in alchemy
-mapfragmenttip=Combine 2 for a map
-sparepartstip=Used to craft steel boat
-wiretip=Can be used with the wrench
-voidpouchtip=A small personal pouch
-coinpouchtip1=Stores coins picked up
-coinpouchtip2=[input=-99] to take coins out
-coinpouchstored=Stored coins: <coins>
-rclickopentip=[input=-99] to open
-rclickinvopentip=[input=-99] in inventory to open
-usetoopentip=Use to open
-grassseedtip=Used to start a grass patch
-fertilizertip=Use on crops to speed up growth
-brokentooltip=Can be melted down or sold
-portalnotonsurface=I need to be on the surface
-portalnotnight=It needs to be night time for this to work
-portalnospace=There is not enough room here
-portalerror=Does not work here
-callernoarena=I am not in the dungeon arena
-spawnmob=Used to spawn one <mob>
-summontip=Used to summon <mob>
-summonmounttip=Used to summon <mob> mount
-summonslots=Max summons: <count>
-summonuseslots=Uses <count> summon slots
-steelboattip=+2 travel distance
-jumpingballtip=Fun and fits all sizes!
-hoverboardtip=Picks up speed slowly
+farmingscythetip=Très efficace pour récolter les plantes cultivées
+cuttertip=Utilisé pour retirer un fil logique
+wrenchtip=Utilisé pour placer un fil logique
+wrenchammo=Fil disponible : <value>
+enchantslot=Emplacement d'enchantement
+materialslot=Emplacement de matériel de Fabrication
+trashslot=Poubelle
+voidshardtip=Essence magique
+glassbottletip=Utilisé en alchimie
+mapfragmenttip=Combinez 2 pour une carte
+sparepartstip=Utilisé pour fabriquer un bateau en acier
+wiretip=Peut être utilisé avec la Clé à Outil
+voidpouchtip=Une petite pochette personnelle
+coinpouchtip1=Stocke les pièces ramassées
+coinpouchtip2=[input=-99] pour retirer des pièces
+coinpouchstored=Pièces stockées : <coins>
+rclickopentip=[input=-99] pour ouvrir
+rclickinvopentip=[input=-99] dans l'inventaire à ouvrir
+usetoopentip=Utiliser pour ouvrir
+grassseedtip=Utilisé pour démarrer une parcelle d'herbe
+fertilizertip=À utiliser sur les cultures pour accélérer la croissance
+brokentooltip=Peut être fondu ou vendu
+portalnotonsurface=J'ai besoin d'être en surface
+portalnotnight=Il faut que ce soit la nuit pour que ça fonctionne
+portalnospace=Il n'y a pas assez de place ici
+portalerror=Ne fonctionne pas ici
+callernoarena=Je ne suis pas dans la zone du Donjon
+spawnmob=Utilisé pour faire apparaitre un <mob>
+summontip=Utilisé pour invoquer un <mob>
+summonmounttip=Utilisé pour invoquer la monture d'un <mob>
+summonslots=Invocations max : <count>
+summonuseslots=Utilise <count> emplacement d'invocation
+steelboattip=+2 distance de voyage
+jumpingballtip=Amusant et s'adapte à toutes les tailles !
+hoverboardtip=Accélère lentement
 
 // Quests
 questitem=Quest item
