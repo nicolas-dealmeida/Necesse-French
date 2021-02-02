@@ -1944,21 +1944,22 @@ worldstatstip=Total stats in this world
 gotinvite=Game invite from <name>
 
 // Pause menu
-resumegame=Resume
-invitefriends=Invite friends
-playinggame=Playing <game>
-playingother=Playing other game
-invite=Invite <name>
-invited=Invited <name>
-couldnotinvite=Could not invite <name>
-tomain=Main menu
-statusonline=Online
-statusoffline=Offline
-statusaway=Away
-statusbusy=Busy
-statusSnooze=Snooze
-statuslookingtoplay=Looking toplay
-statuslookingtotrade=Looking to trade
+// Menu pause
+resumegame=Reprendre
+invitefriends=Inviter des amis
+playinggame=Jouer à <game>
+playingother=Jouer à un autre jeu
+invite=Inviter <name>
+invited=invité <name>
+couldnotinvite=Impossible d'inviter <name>
+tomain=Menu Principal
+statusonline=En ligne
+statusoffline=Hors ligne
+statusaway=Absent
+statusbusy=Occupé
+statusSnooze=Relancer
+statuslookingtoplay=Recherche pour jouer
+statuslookingtotrade=Recherche pour échanger
 
 // Player
 pvplabel=PvP
@@ -2145,15 +2146,16 @@ waystonehelp=Get one Waystone slot for each completed quest tier\nMore Waystones
 
 // Sidebars
 tutoriallabel=Tutoriel
-wireedit=Wire edit
+wireedit=Éditer
 
 // Quickbar
-shiftmoreinfo=Hold shift for more info
-restocktip=Restock from nearby inventories
-quickstacktip=Quick stack to nearby inventories
-quickstacktipinfo=Will quick stack items to nearby inventories. Use <key> to lock items from being stacked
-sorttip=Sort inventory
-sorttipinfo=Use <key> to lock items from being sorted
+// Bar Rapide
+shiftmoreinfo=Maintenez shift pour plus d'informations.
+restocktip=Réapprovisionner à partir des stocks à proximité.
+quickstacktip=Empilement rapide dans l'inventaires.
+quickstacktipinfo=Empile rapidement les objets dans l'inventaire. Utilisez <key> pour empêcher l'empilement des éléments.
+sorttip=Trier l'inventaire.
+sorttipinfo=Utilisez <key> pour empêcher le tri des éléments.
 
 [quests]
 complete=Terminée
@@ -2167,91 +2169,91 @@ killmob=Tuer <mob>
 deliveritem=Livrer <item>
 
 [tutorials]
-treestorch=Follow instruction arrows to learn how to chop a tree and craft a torch.
-hittree=Walk close and hit tree with axe by pressing <key>
-findtree=Find a tree to chop down
-openinv=Press <key> to open inventory
-crafttorch=Craft a torch in crafting menu
-craftwork=Find or craft a workstation from inventory crafting (requires 10[item=pinelog]) and place it down with <key1>. Then use it by pressing <key2> on it.
-craftpick=Find and craft a wood pickaxe in the workstation (requires 5[item=pinelog]).
-talkelder=Talk to the elder to learn about the game.
-elderdoor=Walk to and open door with <key>
-elderwalk=Walk close and talk to elder with <key>
-talkelderstop=Walk away or press <key> to stop talking to the elder when you are done.
-findore=Find some ore underground to mine. You can place torches to light up the area.
-gounder=Go underground to find ore
-craftladder=Craft a ladder in inventory crafting, place and use it to go underground.
-craftladderfloat=Craft a ladder from your inventory crafting and place it with <key>
-useladder=Go to and use the ladder to go underground.
-useladderfloat=Walk close and press <key> on ladder to go underground
-useladderdoor=Go to and use the ladder to go underground. You can open and close doors by pressing <key> on them.
-mineore=Mine ore by pressing <key> with your pickaxe in hand
-findorefloat=Walk or mine around to find some ore
-ores=Minerais are used to craft bars, which are used in many recipes throughout the game.
-oresnext=Next
-travel=If you travel out in the water to the edge of the map, you will be able to go to other islands. Islands have different biomes and features like dungeons and villages. Press <key> to browse world map. Good luck exploring!
-travelend=End tutorial
-skip=Skip
+treestorch=Suivez les flèches d'instructions pour apprendre à couper un arbre et à fabriquer une torche.
+hittree=Marchez près de l'arbre et frappez le avec une hache en appuyant sur <key>.
+findtree=Trouvez un arbre à abattre.
+openinv=Appuyez sur <key> pour ouvrir l'inventaire.
+crafttorch=Fabriquer une torche dans le menu de fabrication.
+craftwork=Trouvez ou fabriquez un Établi à partir du menu de fabrication dans l'inventaire (nécessite 10 [item=pinelog]) et placez-le avec <key1>. Ensuite, utilisez-le en appuyant sur <key2> dessus.
+craftpick=Trouvez et fabriquez une pioche en bois dans l'Établi (nécessite 5 [item=pinelog]).
+talkelder=Parlez à l'Aîné pour en savoir plus sur le jeu.
+elderdoor=Allez vers la porte et ouvrez la, avec <key>.
+elderwalk=Approchez-vous et parlez à l'Aîné avec <key>.
+talkelderstop=Éloignez-vous ou appuyez sur <key> pour arrêter de parler à l'Aîné lorsque vous avez terminé.
+findore=Trouvez du minerai à miner sous terre. Vous pouvez placer des torches pour éclairer la zone.
+gounder=Allez sous terre pour trouver du minerai.
+craftladder=Fabriquez une échelle dans le menu de fabrication de votre inventaire, placez-la et utilisez-la pour aller sous terre.
+craftladderfloat=Créez une échelle à partir du menu de fabrication de votre inventaire et placez-la avec <key>.
+useladder=Allez vers l'échelle pour aller sous terre.
+useladderfloat=Approchez-vous et appuyez sur <key> près de l'échelle pour aller sous terre.
+useladderdoor=Allez vers l'échelle et utilisez la pour aller sous terre. Vous pouvez ouvrir et fermer les portes en appuyant sur <key>.
+mineore=Minez du minerai en appuyant sur <key> avec votre pioche en main.
+findorefloat=Marchez ou minez pour trouver du minerai.
+ores=Les Minerais sont utilisés pour fabriquer des lingots, qui sont utilisés dans de nombreuses recettes tout au long du jeu. 
+oresnext=Suivant
+travel=Si vous voyagez dans l'eau jusqu'au bord de la carte, vous pourrez vous rendre sur d'autres îles. Les îles ont différents biomes et caractéristiques comme des donjons et des villages. Appuyez sur <key> pour parcourir la carte du monde. Bonne chance pour l'explorer !
+travelend=Terminer le tutoriel.
+skip=Passer
 
 [settingsui]
-front=Settings
-world=World
-general=General
-language=Language
-controls=Controls
+front=Paramètres
+world=Monde
+general=Général
+language=Langue
+controls=Contrôles
 interface=Interface
-graphics=Graphics
-displaymode=Affiche mode:
-displaywindowed=Windowed
-displayborderless=Borderless windowed
-displayfullscreen=Fullscreen
-displayres=Game resolution:
-maxfps=FPS cap:
-fpsnocap=No cap
-particles=Particles:
+graphics=Graphiques
+displaymode=Mode d'Affichage :
+displaywindowed=Fenêtré
+displayborderless=Fenêtre sans bordure
+displayfullscreen=Plein écran
+displayres=Résolution :
+maxfps=FPS Max:
+fpsnocap=Pas de Max
+particles=Particules :
 particlesmin=Minimal
-particlesdec=Decreased
+particlesdec=Diminué
 particlesmax=Maximum
-cursorcolor=Cursor color
-cursorpreview=Preview
-sound=Sound
-confirm=Confirm?
-zoomlevel=Zoom level
-pausefocus=Pause on focus loss
-skiptutorial=Always skip tutorial
-showdebug=Show debug info
-showquest=Show quest markers
-showpickup=Show pickup text
-showdamage=Show damage text
-showdot=Show damage over time text
-showbosshealthbars=Show boss health bars
-showtooltipsbackground=Show tooltips background
-showcontroltips=Show control tips
-showlogicgate=Show logic gate tooltips
-alwaysshowquickbar=Always show quickbar
-interfacesize=Size
-languageselect=Language: <language>
-opensaves=Open saves folder
-resetrecipes=Reset to default recipes
-resetcache=Clear client cache folder
-recipesconfirm=Are you sure you want to reset recipes?
-cacheconfirm=Are you sure you want to clear client cache folder?
-onlyinmenu=Cannot be done in-game
-vsync=Enable vSync
-smoothlight=Smooth lighting
-perffocus=Save performance on focus loss
-wavygrass=Wavy grass
-camerashake=Camera shake
-cursorsize=Size
-mutefocus=Mute on focus loss
-mastervolume=Master volume
-effectsvolume=Effects volume
-weathervolume=Weather volume
-uivolume=UI volume
-musicvolume=Music volume
-nopermission=No server permission
-communitytranslations=Community translations
-save=Save
+cursorcolor=Couleur du curseur
+cursorpreview=Aperçu
+sound=Son
+confirm=Confirmer ?
+zoomlevel=Niveau de Zoom
+pausefocus=Pause sur la perte de mise au point
+skiptutorial=Toujours ignorer le tutoriel
+showdebug=Afficher les informations de débogage
+showquest=Afficher les marqueurs de quête
+showpickup=Afficher le texte de ramassage
+showdamage=Afficher le texte des dommages
+showdot=Afficher le texte des dommages au fil du temps
+showbosshealthbars=Afficher la vie des boss
+showtooltipsbackground=Afficher l'arrière-plan des info-bulles
+showcontroltips=Afficher les astuces de contrôle
+showlogicgate=Afficher les bulles d'aide de connecteur logiques
+alwaysshowquickbar=Toujours afficher la barre rapide
+interfacesize=Taille 
+languageselect=Langue : <language>
+opensaves=Ouvrir le dossier de sauvegarde
+resetrecipes=Réinitialiser les recettes par défaut
+resetcache=Vider le dossier de cache
+recipesconfirm=Voulez-vous vraiment réinitialiser les recettes ?
+cacheconfirm=Voulez-vous vraiment vider le dossier de cache ?
+onlyinmenu=Ne peut pas être fait dans le jeu
+vsync=Activer vSync
+smoothlight=Lumière douce
+perffocus=Économiser les performances en cas de perte de mise au point
+wavygrass=Herbe ondulée
+camerashake=Tremblement de l'écran
+cursorsize=Taille
+mutefocus=Mute en cas de perte de mise au point
+mastervolume=Volume Principal
+effectsvolume=Volume des Effets
+weathervolume=Volume de la Météo
+uivolume=Volume de l'interface utilisateur
+musicvolume=Volume de la Musique
+nopermission=Aucune autorisation sur le serveur
+communitytranslations=Traductions communautaires
+save=Sauvegarder
 
 [stats]
 filter=Filter:
@@ -2347,17 +2349,18 @@ craftall=Craft all
 craft5=Craft 5
 
 // Control tips
-interacttip=Interact
-usetip=Use
-opentip=Open
-closetip=Close
-boatuse=Use boat
-humantalk=Talk
-mountmob=Mount
-addropemob=Add rope
-removeropemob=Remove rope
-feedmob=Feed
-equiptip=Equip
+// Conseils de contrôle 
+interacttip=Interagir
+usetip=Utiliser
+opentip=Ouvrir
+closetip=Femer
+boatuse=Utiliser un bateau
+humantalk=Parler
+mountmob=Monter
+addropemob=Ajouter une corde
+removeropemob=Retirer la corde
+feedmob=Nourrir
+equiptip=Equiper
 
 [misc]
 recipecostmult=Cost for <amount>:
