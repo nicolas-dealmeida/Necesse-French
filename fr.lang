@@ -1509,10 +1509,10 @@ summonedmob=Monstre invoqué
 settlementflag=Colonie à proximité
 
 [bufftooltip]
-canceltip=Cancel
-nomodifiers=§9No modifiers given by buff
-teleportsicknesstip=Unable to teleport again
-settlementflagtip=Mob spawns reduced significantly
+canceltip=Annuler
+nomodifiers=§9Aucun modificateur donné par buff
+teleportsicknesstip=Impossible de se téléporter à nouveau
+settlementflagtip=Le nombre d'apparitions de monstres a été très réduit
 
 [biome]
 unknown=Inconnu
