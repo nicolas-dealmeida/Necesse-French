@@ -1487,26 +1487,26 @@ travelingarrive=§a<mob> est arrivé
 travelingleave=§a<mob> est parti
 
 [buff]
-healthpotionfatigue=Health potion fatigue
-onfire=On fire
-ablaze=Ablaze
-brokenarmor=Broken armor
-teleportsickness=Teleport sickness
-voidsetcooldown=Néant set cooldown
-fowcooldown=Force of Wind cooldown
-lifelinecooldown=Recent lifeline
-spidervenom=Spider venom
-chilled=Chilled
-freezing=Freezing
-frostburn=Frostburn
-haunted=Haunted
-ninjasetbonus=Ninja set bonus
-bannerofspeed=Banner of Speed
-debugbuff=Debug buff
-summonedpet=Summoned pet
-summonedmount=Summoned mount
-summonedmob=Summoned mob
-settlementflag=Colonie nearby
+healthpotionfatigue=Fatigue des potions de santé
+onfire=En feu
+ablaze=Enflammé
+brokenarmor=Armure brisée
+teleportsickness=Mal de téléportation
+voidsetcooldown=Temps de recharge du Néant
+fowcooldown=Temps de recharge des Forces du Vent
+lifelinecooldown=Ligne de vie récente
+spidervenom=Venin d'Araignée
+chilled=Réfroidi
+freezing=Congelé
+frostburn=Feu Congelé
+haunted=Hanté
+ninjasetbonus=Bonus d'ensemble de Ninja
+bannerofspeed=Bannière de Rapidité
+debugbuff=Buff Débug
+summonedpet=Familier invoqué
+summonedmount=Monture invoquée
+summonedmob=Monstre invoqué
+settlementflag=Colonie à proximité
 
 [bufftooltip]
 canceltip=Cancel
