@@ -580,7 +580,7 @@ piratetelescope=Longue Vue Pirate
 regenpendant=Pendentif Régénérant
 mobilitycloak=Cape de Mobilitée
 mesmertablet=Tablette Mesmer
-inducingamulet=Inducing Amulet
+inducingamulet=Amulette d'Induction
 lifeline=Fils de Vie
 magicfoci=Magic Foci
 rangefoci=Range Foci
@@ -991,7 +991,7 @@ materialslot=Emplacement de matériel de Fabrication
 trashslot=Poubelle
 voidshardtip=Essence magique
 glassbottletip=Utilisé en alchimie
-mapfragmenttip=Combinez 2 pour une carte
+mapfragmenttip=Combiner 2 pour une carte
 sparepartstip=Utilisé pour fabriquer un bateau en acier
 wiretip=Peut être utilisé avec la Clé à Outil
 voidpouchtip=Une petite pochette personnelle
@@ -1001,7 +1001,7 @@ coinpouchstored=Pièces stockées : <coins>
 rclickopentip=[input=-99] pour ouvrir
 rclickinvopentip=[input=-99] dans l'inventaire à ouvrir
 usetoopentip=Utiliser pour ouvrir
-grassseedtip=Utilisé pour démarrer une parcelle d'herbe
+grassseedtip=Utiliser pour faire une parcelle d'herbe
 fertilizertip=À utiliser sur les cultures pour accélérer la croissance
 brokentooltip=Peut être fondu ou vendu
 portalnotonsurface=J'ai besoin d'être en surface
