@@ -1528,38 +1528,38 @@ forestvillage=Village Forestier
 piratevillage=Village Pirate
 
 [expedition]
-completequests=Complete more settlement quests
-cave=Cave
-swampcave=Swamp Cave
+completequests=Terminez plus de quêtes de Colonie
+cave=Caverne
+swampcave=Caverne Marais
 dungeon=Donjon
-desertcave=Desert Cave
+desertcave=Caverne Desert
 pirate=Pirate
-deepcave=Deep Cave
-deepsnowcave=Deep Snow Cave
+deepcave=Caverne Profonde
+deepsnowcave=Caverne Profonde Neigeuse
 
 [disconnect]
-chatmsg=<name> disconnected: <msg>
-unknown=Inconnu reason
-internal=Internal error
-kicked=Kicked: <reason>
-noreason=No reason
-invalidname=Invalid name
-clientresponding=Not responding
-serverstopped=Serveur stopped
-servererror=Serveur error
-wrongpassword=Wrong password
-missingclient=Missing client
-banned=You are banned from this server
-wrongversion=Wrong client version
-alreadyplaying=Already playing
-serverfull=Serveur full
-nomessage=No message
-missingappearance=Missing appearance
-networkerror=Network error
-networkerrormsg=Network error: <msg>
-statedesync=Game state desync
-notresponding=Have not received updates in <seconds> seconds
-respondingdc=Serveur did not respond
+chatmsg=<name> se déconnecte : <msg>
+unknown=Raison inconnue
+internal=Erreur interne
+kicked=Kick : <reason>
+noreason=Aucune raison
+invalidname=Nom Invalide
+clientresponding=Ne répond pas
+serverstopped=Serveur arrêté
+servererror=Erreur du serveur
+wrongpassword=Mauvais mot de passe
+missingclient=Client manquant
+banned=Vous êtes banni de ce serveur
+wrongversion=Mauvaise version du client
+alreadyplaying=Déja en jeu
+serverfull=Serveur plein
+nomessage=Aucun message
+missingappearance=Apparence manquante
+networkerror=Erreur réseau
+networkerrormsg=Erreur réseau : <msg>
+statedesync=Désynchronisation de l'état du jeu
+notresponding=Je n'ai pas reçu de réponse depuis <secondes> secondes
+respondingdc=Le serveur n'a pas répondu
 
 [deaths]
 default=<victim> est mort
