@@ -1561,72 +1561,100 @@ statedesync=Désynchronisation de l'état du jeu
 notresponding=Je n'ai pas reçu de réponse depuis <secondes> secondes
 respondingdc=Le serveur n'a pas répondu
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [deaths]
 default=<victim> est mort
 unknownatt=Inconnu
-toobuffed=<victim> was too buffed
-generic1=<victim> was slain by <attacker>
-generic2=<victim> got ripped to pieces by <attacker>
-generic3=<victim> got humiliated by <attacker>
-generic4=<victim> could not handle <attacker>
-generic5=<attacker> overcame <victim>
-generic6=<attacker> was too fast for <victim>
-generic7=<attacker> humiliated <victim>
-generic8=<victim> could not handle <attacker>
-projectile1=<victim> got headshot by <attacker>
-projectile2=<attacker> landed a fatal shot on <victim>
-projectile3=<victim> was hunted down by <attacker>
-evilsproj1=<victim> got cleaned up by <attacker>
-evilsproj2=<attacker> finished off <victim>
-evilsproj3=<victim> could not handle <attacker>
-portalmin1=<victim> got scared of by <attacker>
-portalmin2=<victim> could not handle the horror of <attacker>
-portalmin3=<attacker> scared <victim> to death
+toobuffed=<victim> était trop poli
+generic1=<victim> a été tué par <attacker>
+generic2=<victim> a été mis en pièces par <attacker>
+generic3=<victim> a été humilié par <attacker>
+generic4=<victim> n'a pas pu gérer <attacker>
+generic5=<attacker> a vaincu <victim>
+generic6=<attacker> était trop rapide pour <victim>
+generic7=<attacker> a humilié <victim>
+generic8=<victim> n'a pas pu gérer <attacker>
+projectile1=<victim> a reçu une balle dans la tête par <attacker>
+projectile2=<attacker> a décroché un tir fatal sur <victim>
+projectile3=<victim> a été traqué par <attacker>
+evilsproj1=<victim> a été nettoyé par <attacker>
+evilsproj2=<attacker> a terminé <victim>
+evilsproj3=<victim> n'a pas pu gérer <attacker>
+portalmin1=<victim> a été effrayé par <attacker>
+portalmin2=<victim> n'a pas pu gérer l'horreur de <attacker>
+portalmin3=<attacker> a fait peur à <victim> à mort
 tntname=TNT
 explosionname=Explosion
-explosion1=<victim> got split to pieces by <attacker>
-explosion2=<attacker> exploded all over <victim>
-explosion3=<attacker> made <victim> rest in pieces
-firename=Fire
-lavaname=Lava
-fire1=<victim> did not have any protection against <attacker>
-fire2=<attacker> was too hot for <victim>
-fire3=<victim> was burned alive by <attacker>
-arrowtrapname=Arrow trap
-flametrapname=Flame trap
-flametrap1=<victim> got roasted by <attacker>
-flametrap2=<attacker> grilled <victim>
-lightning1=<victim> got electrocuted to pieces by <attacker>'s lightning
-lightning2=<attacker> toasted <victim> with lightning
-zombie1=<victim> got ripped to pieces by <attacker>
-zombie2=<victim> got humiliated by <attacker>
-zombie3=<attacker> ate <victim>'s entire body
-mummy1=<victim> got wrapped around by <attacker>
-mummy2=<attacker> was too scary for <victim>
-mummy3=<attacker> was sadly too good for <victim>
-skeleton1=<victim> got ripped to pieces by <attacker>
-skeleton2=<attacker> was too scary for <victim>
-skeleton3=<attacker> was too hard for <victim>
-polar1=<victim> got mauled by <attacker>
-polar2=<attacker> was too fast for <victim>
-polar3=<victim> got slaughtered by <attacker>
-vamp1=<attacker> out juked <victim>
-vamp2=<attacker> took <victim> to his lair
-vamp3=<victim> forgot the counter for <attacker>
-voidwiz1=<attacker> turned <victim> to magic dust
-voidwiz2=<attacker> defended his territory against <victim>
-voidwiz3=<victim> got hit by too many spells from <attacker>
-voidwiz4=<attacker>'s magic was too powerful for <victim>
-voidapp1=<attacker> blasted <victim> with color
-voidapp2=<victim> got a taste of <attacker>'s staff
-voidapp3=<attacker> was too fast for <victim>
-piratecap1=<victim> got swarmed by <attacker>
-piratecap2=<attacker> exploded <victim>'s face
-piratecap3=<attacker> kept his treasure from <victim>
-piratecap4=<victim> could not handle <attacker>'s cannon
-cavespider1=<victim> got torn up by <attacker>
-cavespider2=<attacker>'s fangs was too big for <victim>
-cavespider3=<attacker> ate <victim> alive
+explosion1=<victim> a été divisé en morceaux par <attacker>
+explosion2=<attacker> a explosé partout <victim>
+explosion3=<attacker> a fait reposer <victim> en morceaux
+firename=Feu
+lavaname=Lave 
+fire1=<victim> n'avait aucune protection contre <attacker>
+fire2=<attacker> était trop chaud pour <victim>
+fire3=<victim> a été brûlé vif par <attacker>
+arrowtrapname=Piège à flèches
+flametrapname=Piège à flammes
+flametrap1=<victim> a été rôti par <attacker>
+flametrap2=<attacker> a grillé <victim>
+lightning1=<victim> a été réduit en cendres par la foudre de <attacker>
+lightning2=<attacker> grillé <victim> avec la foudre
+zombie1=<victim> a été mis en pièces par <attacker>
+zombie2=<victim> a été humilié par <attacker>
+zombie3=<attacker> a mangé le corps entier de <victim>
+mummy1=<victim> a été momifié par <attacker>
+mummy2=<attacker> était trop effrayant pour <victim>
+mummy3=<attacker> était malheureusement trop bon pour <victim>
+skeleton1=<victim> a été mis en pièces par <attacker>
+skeleton2=<attacker> était trop effrayant pour <victim>
+skeleton3=<attacker> était trop dur pour <victim>
+polar1=<victim> a été mutilé par <attacker>
+polar2=<attacker> était trop rapide pour <victim>
+polar3=<victim> a été tué par <attacker>
+vamp1=<attacker> a éliminé <victim> 
+vamp2=<attacker> a emmené <victim> dans son repaire
+vamp3=<victim> n'a pas fait attention à <attacker>
+voidwiz1=<attacker> a transformé <victim> en poudre magique
+voidwiz2=<attacker> a défendu son territoire contre <victim>
+voidwiz3=<victim> a été trop touché par les sorts de <attacker>
+voidwiz4=La magie de <attacker> était trop puissante pour <victim>
+voidapp1=<attacker> a fustigé <victim> avec de la couleur
+voidapp2=<victim> a eu un avant-goût du bâton de <attacker>
+voidapp3=<attacker> était trop rapide pour <victim>
+piratecap1=<victim> a été envahi par <attacker>
+piratecap2=<attacker> a explosé le visage de <victim>
+piratecap3=<attacker> a gardé le trésor de <victim>
+piratecap4=<victim> n'a pas pu gérer le canon de <attacker>
+cavespider1=<victim> a été déchiré par <attacker>
+cavespider2=Les crocs de <attacker> étaient trop gros pour <victim>
+cavespider3=<attacker> a mangé <victim> vivant
 
 [tech]
 all=All
