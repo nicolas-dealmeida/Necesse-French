@@ -1561,34 +1561,6 @@ statedesync=Désynchronisation de l'état du jeu
 notresponding=Je n'ai pas reçu de réponse depuis <secondes> secondes
 respondingdc=Le serveur n'a pas répondu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [deaths]
 default=<victim> est mort
 unknownatt=Inconnu
