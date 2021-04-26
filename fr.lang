@@ -1,9 +1,9 @@
-// Community French translations by Biprini#0001 / Piebleu
-// Chaque langue doit avoir lang.localname et lang.engname pour être chargée
-// Le fichier doit être sauvegardé en encodage UTF-8
+// Community French translations by Biprini#0001 / Piebleu. Github of translation : https://github.com/Piebleu/Necesse-French
+// Every language must have lang.localname and lang.engname to be loaded
+// File must be saved with UTF-8 encoding
 [lang]
 localname=Français
-engname=Français
+engname=French
 
 [tile]
 unknowntile=Inconnu
