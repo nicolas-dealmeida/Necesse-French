@@ -1,6 +1,6 @@
 // Community French translations by Biprini#0001 / Piebleu
 // Chaque langue doit avoir lang.localname et lang.engname pour être chargée
-// Le fichier doit être sauvgardé en encodage UTF-8
+// Le fichier doit être sauvegardé en encodage UTF-8
 [lang]
 localname=Français
 engname=Français
@@ -39,7 +39,6 @@ unknownobject=Inconnu
 air=Air
 
 // Trees/big flora
-// Arbre / Grande Fleurs
 oaktree=Chêne
 oaksapling=Pousse de Chêne
 sprucetree=Épicéa
@@ -54,7 +53,6 @@ cactus=Cactus
 cactussapling=Pousse de Cactus
 
 // Work stations
-// Établi
 workstation=Établi
 forge=Forge
 carpentersbench=Banc de Menuiserie
@@ -65,7 +63,6 @@ advancedworkstation=Établi Avancé
 
 
 // Walls and doors etc
-// Mur et Porte etc
 woodwall=Mur en Bois
 wooddoor=Porte en Bois
 pinewall=Mur en Pin
@@ -92,15 +89,12 @@ woodfence=Clôture en Bois
 woodfencegate=Portillons en Bois 
 
 // Inventories
-// Inventaire
 storagebox=Box de Rangement
 barrel=Baril
 demonchest=Coffre Démoniaque
 
 // ### Furniture ###
-// ### Fourniture ###
 // Lighting
-// Lumière
 torch=Torche
 walltorch=Torche Murale
 ironlamp=Lampe en Fer
@@ -108,7 +102,6 @@ goldlamp=Lampe en Or
 firechalice=Calice de Feu
 
 // Misc
-// Autres
 sign=Pancarte
 flowerpot=Pot de Fleur
 itemstand=Porte Item
@@ -116,8 +109,7 @@ armorstand=Porte Armure
 trainingdummy=Mannequin d'Entraînement
 
 // Furniture types
-// Fourniture Type
-// Chêne
+// Oak
 oakchest=Coffre en Chêne
 oakdinnertable=Table à Dîner en Chêne
 oakdesk=Bureau en Chêne
@@ -134,7 +126,7 @@ oakdisplay=Affiche en Chêne
 oakbathtub=Baignoire en Chêne
 oaktoilet=Toilette en Chêne
 
-// Épicéa
+// Spruce
 sprucechest=Coffre en Épicéa
 sprucedinnertable=Table à Dîner en Épicéa
 sprucedesk=Bureau en Épicéa
@@ -151,7 +143,7 @@ sprucedisplay=Affiche en Épicéa
 sprucebathtub=Baignoire en Épicéa
 sprucetoilet=Toilette en Épicéa
 
-// Pin
+// Pine
 pinechest=Coffre en Pin
 pinedinnertable=Table à Dîner en Pin
 pinedesk=Bureau en Pin
@@ -168,7 +160,7 @@ pinedisplay=Affiche en Pin
 pinebathtub=Baignoire en Pin
 pinetoilet=Toilette en Pin
 
-// Palmier
+// Palm
 palmchest=Coffre en Palmier
 palmdinnertable=Table à Dîner en Palmier
 palmdesk=Bureau en Palmier
@@ -185,7 +177,7 @@ palmdisplay=Affiche en Palmier
 palmbathtub=Baignoire en Palmier
 palmtoilet=Toilette en Palmier
 
-// Donjon
+// Dungeon
 dungeonchest=Coffre de Donjon
 dungeondinnertable=Table à Dîner de Donjon
 dungeondesk=Bureau de Donjon
@@ -203,7 +195,6 @@ dungeonbathtub=Baignoire de Donjon
 dungeontoilet=Toilette de Donjon
 
 // Misc
-// Autre
 wooddinnertable=Table à Dîner en Bois
 wooddesk=Bureau en Bois
 woodmodulartable=Table Modulable en Bois
@@ -215,15 +206,13 @@ woodbathtub=Baignoire en Bois
 woodtoilet=Toilette en Bois
 
 // Carpets
-// Tapis
 woolcarpet=Tapis en Laine
 leathercarpet=Tapis en Cuir
 
-// Lits
+// Beds
 woodbed=Lit en Bois
 
 // Logic - traps etc
-// Logiques - Pièges, etc
 woodpressureplate=Plaque de Pression en Bois
 rockpressureplate=Plaque de Pression en Roche
 dungeonpressureplate=Plaque de Pression de Donjon 
@@ -251,13 +240,12 @@ icewalltrap=Glace <trap>
 deepstonewalltrap=Pierre Profonde <trap>
 obsidianwalltrap=Obsidienne <trap>
 dungeonwalltrap=Donjon <trap>
-arrowtrap=Arrow Trap
-flametrap=Flame Trap
-voidtrap=Néant Trap
+arrowtrap=Trape à Flèche
+flametrap=Trape à Flame
+voidtrap=Trap du Néant
 tnt=TNT
 
 // Agriculture / flowers / alchemy
-// Agriculture / Fleurs / Alchimie
 sunflowerseed=Graines de Tournesol
 wildsunflower=Tournesol Sauvage
 sunflower=Tournesol
@@ -273,14 +261,13 @@ mushroomflower=Fleur de Champignon
 wheatseed=Graines de Blé
 wildwheat=Blé Sauvage
 wheat=Blé
-caveglowsprout=Spores de Caveglow
-wildcaveglow=Caveglow Sauvage
-caveglow=Caveglow
+caveglowsprout=Spores de Champignon des Mines
+wildcaveglow=Champignon des Mines Sauvage
+caveglow=Champignon des Mines
 compostbin=Bac à Compost
 feedingtrough=Mangeoire
 
 // Roches - unobtainable
-// Roche non Obtenable
 surfacerock=Roche de Surface
 sandsurfacerock=Roche de Sable de Surface 
 surfacerocksmall=Petite Roche de Surface
@@ -311,7 +298,6 @@ lifequartzore=Minerai de Quartz de Vie
 glacialore=Minerai de Glacial
 
 // Misc
-// Autre
 grass=Herbe
 swampgrass=Herbe de Marécage
 cattail=Quenouille
@@ -345,26 +331,25 @@ sensorhostileon=Détecte Créatures Hostiles
 sensorhostileoff=Ne Détecte pas de Créatures Hostiles
 sensorpassiveon=Détecte Créature Passive
 sensorpassiveoff=Ne Détecte pas de Créature Passive
-rsactivate=Activate: <value>
-rsreset=Reset: <value>
+rsactivate=Activer : <value>
+rsreset=Réinitialiser : <value>
 tflipflopout1=Alterne
-tflipflopout2=N'Alterne Pas
-timerticks=Ticks: <value>
-timercurrent=Timer: <value>
-timeractive=Running
-timerinactive=Not running
+tflipflopout2=N'alterne Pas
+timerticks=Ticks : <value>
+timercurrent=Temps : <value>
+timeractive=Lancé
+timerinactive=Non lancé
 soundbass=Bass
 soundhat=Hat
 soundkick=Kick
 soundpiano=Piano
 soundsnare=Snare
 soundnone=N/A
-soundname=Sound: <name>
-soundpitch=Pitch: <value>
+soundname=Sound : <name>
+soundpitch=Pitch : <value>
 
 [item]
 // General materials
-// Matériaux Généraux
 coin=Pièces
 oaklog=Bûche de Chêne
 sprucelog=Bûche de Épicéa
@@ -415,7 +400,6 @@ brokencoppertool=Outil en Cuivre cassé
 brokenirontool=Outil en Fer cassé
 
 // Pickaxes
-// Pioches
 woodpickaxe=Pioche en Bois
 copperpickaxe=Pioche en Cuivre
 ironpickaxe=Pioche en Fer
@@ -424,7 +408,6 @@ tungstenpickaxe=Pioche en Tungstène
 icepickaxe=Pioche de Glace
 
 // Axes
-// Haches
 woodaxe=Hache en Bois
 copperaxe=Hache en Cuivre
 ironaxe=Hache en Fer
@@ -432,7 +415,6 @@ demonicaxe=Hache en Demonic
 tungstenaxe=Hache en Tungstène
 
 // Shovels
-// Pelles
 woodshovel=Pelle en Bois
 coppershovel=Pelle en Cuivre
 ironshovel=Pelle en Fer
@@ -440,7 +422,6 @@ demonicshovel=Pelle en Demonic
 tungstenshovel=Pelle en Tungstène
 
 // Fishing rods
-// Canne à pêche
 godrod=Canne des Dieux
 woodfishingrod=Canne à pêche en Bois
 ironfishingrod=Canne à pêche en Fer
@@ -449,21 +430,18 @@ goldfishingrod=Canne à pêche en Or
 depthscatcher=Piège de Profondeur
 
 // Bait
-// Appât
 godbait=Appât Divin
 wormbait=Vers d'Appât
 swamplarva=Larve des Marécage
 anglersbait=Appât de Pêcheur
 
 // Misc tools
-// Divers Outils
 farmingscythe=Faux de Culture
 wrench=Clé à Outil
 cutter=Cutter
 wire=Câble
 
 // Swords
-// Epées
 woodsword=Épée en Bois
 coppersword=Épée en Bois Cuivre 
 ironsword=Épée en Bois Fer 
@@ -476,7 +454,6 @@ tungstensword=Épée en Bois Tungstène
 reaperscythe=Faux de Faucheuse
 
 // Spears
-// Lances
 woodspear=Lance en Bois
 copperpitchfork=Fourche en Cuivre
 copperspear=Lance en Cuivre
@@ -488,17 +465,15 @@ tungstenspear=Lance en Tungstène
 cryospear=Lance de Glace
 
 // Bows
-// Arcs
 woodbow=Arc en Bois
 copperbow=Arc en Cuivre
 ironbow=Arc en Fer
 demonicbow=Arc Demonic
-vulturesburst=Vultures Burst
+vulturesburst=Arc de Vautour
 tungstenbow=Arc en Tungstène
 glacialbow=Arc de Glacial
 
 // Arrows
-// Flèches
 stonearrow=Flèches en Pierre
 firearrow=Flèches de Feu
 bouncingarrow=Flèche Rebondissante
@@ -516,13 +491,11 @@ deathripper=Éventreur de la mort
 cryoblaster=Blaster Cryogénique
 
 // Bullets
-// Balles
 simplebullet=Balle Simple
 bouncingbullet=Balle rebondissante
 cannonball=Boulet de Canon
 
 // Magic weapons
-// Armes Magiques
 bloodbolt=Éclair de Sang
 bloodvolley=Volley de Sant
 voidstaff=Bâton du Néant
@@ -538,10 +511,9 @@ shadowbeam=Faisceau d'Ombre
 cryoquake=Tremblement de Glace
 
 // Throw weapons
-// Armes de Jets
 ninjastar=Étoile de Ninja
 woodboomerang=Boomerang en Bois
-spiderboomerang=Spider Boomerang
+spiderboomerang=Boomerang Araignée
 voidboomerang=Boomerang du Néant
 tungstenboomerang=Boomerang en Tungstène
 hook=Crochet
@@ -551,7 +523,6 @@ boxingglovegun=Gants de Boxe
 glacialboomerang=Boomerang Glacial
 
 // Summon weapons
-// Armes d'invocation
 brainonastick=Bâton d'Intelligence
 spiderstaff=Bâton D'Arachnéen
 vulturestaff=Bâton des Vautours
@@ -559,18 +530,15 @@ cryostaff=Bâton des Glaces
 reaperscall=Appel de la Mort
 
 // Banners
-// Bannière
 bannerofspeed=Bannière de Rapidité
 
 // Misc weapons
-// Divers Armes
 forceofwind=Force du Vent
 mlg1=MLG 1
 mlg2=MLG 2
 mousetest=Test de Souris
 
 // Trinkets
-// Bibelots
 ninjasmark=Marque Ninja
 vampiresgift=Cadeau de Vampire
 demonclaw=Griffe de Demon
@@ -582,9 +550,9 @@ mobilitycloak=Cape de Mobilitée
 mesmertablet=Tablette Mesmer
 inducingamulet=Amulette d'Induction
 lifeline=Fils de Vie
-magicfoci=Magic Foci
-rangefoci=Range Foci
-meleefoci=Melee Foci
+magicfoci=Foci Magique
+rangefoci=Foci de Distance
+meleefoci=Foci de Melée
 summonfoci=Invocateur de Foci
 ancientfeather=Plume Antique
 miningcharm=Charme de Minage
@@ -606,7 +574,6 @@ calmingrose=Rose Calmante
 hysteriatablet=Tablette d'Hystérie
 frenzyorb=Orb de Frénésie
 
-// Armure
 // Armure
 leatherhood=Capuche en Cuir
 leathershirt=Chemise en Cuir
@@ -646,7 +613,6 @@ glacialchestplate=Plastron Glacial
 glacialboots=Bottes Glacial
 
 // Cosmetic Armure
-// Armures Cosmetic
 shoes=Chaussures
 shirt=Chemise
 wig=Perruque
@@ -661,16 +627,15 @@ pirateboots=Bottes de Pirate
 piratebandana=Bandana de Pirate
 pirateshirt=Chemise de Pirate
 vulturemask=Masque de Vautour
-plaguemask=Masque de Peste
-plaguerobe=Robe de Peste
-plagueboots=Bottes de Peste
-surgicalmask=Masque Chirurgical
-trapperhat=Chapeau de Trappeur
-horsemask=Masque de Cheval
-horsecostumeshirt=Chemise de Costume de Cheval
-horsecostumeboots=Bottes de Costume de Chevalgreater
+plaguemask=Masque de malade
+plaguerobe=Robe de malade
+plagueboots=Bottes de malade
+surgicalmask=Masque chirurgical
+trapperhat=Chapeau de trappeur
+horsemask=Masque de cheval
+horsecostumeshirt=Chemise de costume de cheval
+horsecostumeboots=Bottes de costume de cheval
 
-// Potions
 // Potions
 healthpotion=Potion de Vie
 greaterhealthpotion=Grande Potion de Vie
@@ -689,14 +654,12 @@ buildingpotion=Potion de Construction
 miningpotion=Potion de Minage
 
 // Consumables
-// Consomable
 recallscroll=Parchemin de Rappel
 travelscroll=Parchemin de Voyage
 recallflask=Fiole de Rappel
 stinkflask=Fiole Repoussante
 
 // Misc
-// Autres
 craftingguide=Guide de Fabrication
 voidpouch=Pochette Vide
 coinpouch=Porte-Monnaie
@@ -732,7 +695,6 @@ lifeelixir=Elixir de Vie
 emptypendant=Pendentif Vide
 
 // Quest items
-// Items de Quêtes
 zombiearm=Bras de Zombie
 goblinring=Anneau de Gobelin
 swampeel=Anguille des Marécages
@@ -757,15 +719,13 @@ feraltail=Queue Sauvage
 razoricicle=Stalactite Coupant
 
 // Global ingredients
-// Ingrédient Globaux
 anysapling=Toute Pousse d'Arbre
 anylog=Toute Bûche
 anystone=Toute Pierre
 bulletuser=Toute Balle de Pistolet
 
 [itemtooltip]
-// Armure
-// Armur
+// Armor
 headslot=Emplacement de Tête
 chestslot=Emplacement de Torse
 feetslot=Emplacement de Pieds
@@ -774,7 +734,7 @@ cosmeticchestslot=Emplacement Cosmétique de Torse
 cosmeticfeetslot=Emplacement Cosmétique de Pieds
 cosmetic=Item Cosmétique
 cosmeticslot=Pas de statistique dans les emplacements cosmétiques
-armorvalue=+<value> Armure
+armorvalue=+<value> d'Armure
 setbonus=Bonus d'ensemble :
 ninjaset1=Vous êtes un Ninja effrayant !
 ninjaset2=Supprime la vitesse de déplacement\nréduction lors de l'attaque
@@ -790,7 +750,6 @@ spiderset=Attaque les cibles empoisonnées\net inflige 10 dégâts toutes les 5 
 glacialhelmetset=Les attaques de mêlée lance de la Glace
 glacialcircletset=Les attaques d'invocations ralentissent la cible
 
-// Bibelots
 // Trinkets
 trinketslot=Emplacement pour bijou
 trinketdisabled=§hDésactivé par <items>
@@ -844,7 +803,6 @@ tungstentooltip1=Peut extraire l'obsidienne et
 tungstentooltip2=Minerai de glace dans des profondes grottes de neige 
 
 // Weapons
-// Armes
 damagetip=Dégâts : <value>
 truedamagetip=Dégâts réel : <value>
 meleedamagetip=Dégâts mêlée : <value>
@@ -919,7 +877,6 @@ buildingpot=Augmente la vitesse de placement des objets
 miningpot=Augmente la vitesse de minage
 
 // Tiles
-// Tuiles
 tiletip=Peut être placé sur la plupart des terrains
 
 // Objects
@@ -1048,7 +1005,6 @@ razoricicleobtain=Lâché par les flocons de glace
 noenchant=NO_ENCHANT
 
 // Trinkets
-// Bibelots
 keen=Vif
 blunt=Émoussé
 nimble=Agile
@@ -1059,14 +1015,12 @@ sturdy=Robuste
 weak=Faible
 
 // Swords
-// Épées
 berserk=Berserk
 brutal=Brutal
 shoddy=Mauvaise
 agile=Agile
 heavy=Lourde
 
-// Projectile
 // Projectile
 pounding=Martèlement
 tightened=Resserré
@@ -1076,7 +1030,6 @@ advanced=Avancé
 primitive=Primitif
 
 // Tool damage
-// Dommages aux outils
 sharp=Tranchant
 dull=Terne
 
@@ -1170,7 +1123,6 @@ velocity=<mod>% de vitesse
 
 [mob]
 // Passive
-// Passif
 sheep=Mouton
 lamb=Agneau
 wildostrich=Autruche Sauvage
@@ -1180,7 +1132,6 @@ penguin=Manchot
 polarbear=Ours Polaire
 
 // Critters
-// Bestioles
 rabbit=Lapin
 squirrel=Écureuil
 snowhare=Lièvre des neiges
@@ -1196,7 +1147,6 @@ spider=Araignée
 mouse=Souris
 
 // Humans
-// Humains
 human=Villageois
 humanname=<name> le villageois
 farmerhuman=Fermier
@@ -1232,7 +1182,6 @@ travelingmerchantname=<name> le Voyageur Marchand
 travelingpawnbroker=Prêteur sur gages itinérant
 travelingpawnbrokername=<name> le Prêteur sur gages itinérant
 
-// Hostile
 // Hostile
 zombie=Zombie
 trapperzombie=Zombie Trappeur
@@ -1276,7 +1225,6 @@ playerreaperspirit=Esprit de la Faucheuse
 playercryoflake=Flocons de Glace
 
 // Bosses/minions
-// Boss et autres
 evilsprotector=Protecteur du mal
 evilsportal=Portail du mal
 portalminion=Serviteur du portail
@@ -1443,7 +1391,6 @@ pirateescape1=Ai peur et cours !
 pirateescape2=J'en ai fini avec toi!
 pirateescape3=Peut-être une prochaine fois mon garçon ! 
 
-// Colonie
 [settlement]
 maxcount=<count> per Colonie
 roomreqs=Exigences de salle :
@@ -1654,13 +1601,13 @@ defeat_boss_desc=Battez votre premier boss
 get_pet=Compagnon d'aventure
 get_pet_desc=Obtenez votre premier animal de compagnie
 start_settlement=Faites-le vous-même
-start_settlement_desc=Commencer un colonie
+start_settlement_desc=Commencez un colonie
 set_spawn=Sieste instantanée
 set_spawn_desc=Changez votre point d'apparition
 enchant_item=Artificier
-enchant_item_desc=Enchanter un objet en utilisant le mage
+enchant_item_desc=Enchantez un objet en utilisant le mage
 magical_drop=Goutte de magie
-magical_drop_desc=Augmenter le nombre maximum d'emplacements de bibelots
+magical_drop_desc=Augmentez le nombre maximum d'emplacements de bibelots
 village_helper=Assistant de village
 village_helper_desc=Terminez un palier de quête de colonie
 hoarder=Thésauriseur
@@ -1668,17 +1615,17 @@ hoarder_desc=Avoir un inventaire plein d'objets différents
 self_proclaimed=Auto-proclamé
 self_proclaimed_desc=Portez une couronne en or
 double_catch=Double capture
-double_catch_desc=Attrapez 2 poissons en 1 lancer
+double_catch_desc=Attrapez 2 poissons en 1 lancé
 complete_host=Hôte complet
 complete_host_desc=Que tous les colons possibles vivent dans la même colonie
 getting_hot=Chaud Bouillant
 getting_hot_desc=Atteignez les cavernes profondes
 obtain_items=Collectionneur
-obtain_items_desc=Obtenir tous les objets possibles
+obtain_items_desc=Obtenez tous les objets possibles
 visit_biomes=Touriste
 visit_biomes_desc=Visitez tous les différents biomes
 fish_up=Plus qu'un passe-temps
-fish_up_desc=Pêcher un total de 500 objets
+fish_up_desc=Pêchez un total de 500 objets
 run_marathon=Marathonien
 run_marathon_desc=Courez un marathon complet à pied
 play_24h=Temps Perdu
@@ -1755,7 +1702,7 @@ craftsearchfilter=Filtre
 showhidden=Démasquer
 craftshowhiddentip=Certaines recettes sont cachées jusqu'à ce que vous puissiez les fabriquer, ou que vous ayez besoin d'un ingrédient spécifique dans l'inventaire 
 usenearbyinv=Utiliser les stocks à proximité 
-usenearbyinvtip=If crafting should use nearby inventory items
+usenearbyinvtip=Si l'artisanat doit utiliser des objets stocké à proximité 
 expand=Développer
 collapse=Réduire
 catmats=Matériaux
@@ -1784,7 +1731,6 @@ cancelbutton=Annuler
 closebutton=Fermer
 
 // Main menu
-// Menu
 continueworld=Continuer le Monde
 continuetip=Continuer <world>
 newworld=Nouveau Monde
@@ -1858,7 +1804,7 @@ colorred=Rouge
 colorgreen=Vert
 colorblue=Bleu
 resetappearance=Défaut
-undoreset=Annuler le reset
+undoreset=Annuler la réinitialisation
 randomappearance=Aléatoire
 customspawn=Personnaliser le point d'apparition
 xcoord=Coordonnée X
@@ -1926,7 +1872,6 @@ modinposition=Position incorrecte
 modmissingsome=Des mods sont manquants
 
 // Achievements and stats form
-// Succès et Statistiques
 achievementsandstats=Succès et statistiques
 achievements=Succès
 achdisabled=Succès Désactivé
@@ -1946,7 +1891,6 @@ worldstatstip=Statistiques totales dans ce Monde
 gotinvite=Invitation de jeu de : <name>
 
 // Pause menu
-// Menu pause
 resumegame=Reprendre
 invitefriends=Inviter des amis
 playinggame=Jouer à <game>
@@ -1964,7 +1908,6 @@ statuslookingtoplay=Recherche pour jouer
 statuslookingtotrade=Recherche pour échanger
 
 // Player
-// Joueur
 pvplabel=PvP
 teamcreate=Créer une nouvelle équipe
 teamleave=Quitter l'équipe
@@ -2152,7 +2095,6 @@ tutoriallabel=Tutoriel
 wireedit=Éditer
 
 // Quickbar
-// Bar Rapide
 shiftmoreinfo=Maintenez shift pour plus d'informations.
 restocktip=Réapprovisionner à partir des stocks à proximité.
 quickstacktip=Empilement rapide dans l'inventaires.
@@ -2306,6 +2248,7 @@ homestones_used=Homestones utilisées
 waystones_used=Waystones utilisées
 crafted_items=Objets fabriqués
 crates_broken=Caisses détruite
+
 normal_damage=Dommages normaux
 true_damage=Vrai dommage
 melee_damage=Dommages en mêlée
@@ -2351,7 +2294,6 @@ craftall=Fabriquer Tout
 craft5=Fabriquer 5
 
 // Control tips
-// Conseils de contrôle 
 interacttip=Interagir
 usetip=Utiliser
 opentip=Ouvrir
@@ -2364,7 +2306,6 @@ removeropemob=Retirer la corde
 feedmob=Nourrir
 equiptip=Équiper
 
-// Divers
 [misc]
 recipecostmult=Coût pour <amount> :
 recipecostsing=Coût :
