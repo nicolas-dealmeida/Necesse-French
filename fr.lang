@@ -1926,23 +1926,24 @@ modinposition=Position incorrecte
 modmissingsome=Des mods sont manquants
 
 // Achievements and stats form
-achievementsandstats=Achievements and stats
-achievements=Achievements
-achdisabled=Achievements disabled
-achenabled=Achievements enabled
-achdisabledhelp=This world does not have achievements and player stats enabled. Achievements get disabled when cheats are used in the world. This is not reversible, and you have to start a new world to progress in achievements.
-showcompleted=Show completed
-loadingstats=Loading...
-statsnotfound=Stats not found
-playerstats=Player stats
-playerstatstip=Your total stats across all worlds
-psdisabled=Player stats disabled
-globalstats=Global stats
-characterstats=Character stats
-characterstatstip=Current characters stats
-worldstats=World stats
-worldstatstip=Total stats in this world
-gotinvite=Game invite from <name>
+// Succès et Statistiques
+achievementsandstats=Succès et statistiques
+achievements=Succès
+achdisabled=Succès Désactivé
+achenabled=Succès Activé
+achdisabledhelp=Ce monde n'a pas de succès ni de statistiques activé. Les succès sont désactivés lorsque des cheats ou Mods sont utilisées dans le monde. Ce n'est pas réversible, et vous devez commencer un nouveau monde pour progresser dans les Succès.
+showcompleted=Afficher Terminés
+loadingstats=Chargement...
+statsnotfound=Statistiques non trouvées
+playerstats=Statistiques des joueurs
+playerstatstip=Toutes vos statistiques dans tous les mondes
+psdisabled=Statistiques du joueur désactivées
+globalstats=Statistiques globales
+characterstats=Statistiques des personnages
+characterstatstip=Statistiques actuelles des personnages
+worldstats=Statistiques du Monde
+worldstatstip=Statistiques totales dans ce Monde
+gotinvite=Invitation de jeu de : <name>
 
 // Pause menu
 // Menu pause
