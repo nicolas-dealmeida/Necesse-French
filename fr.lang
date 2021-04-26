@@ -1964,28 +1964,29 @@ statuslookingtoplay=Recherche pour jouer
 statuslookingtotrade=Recherche pour échanger
 
 // Player
+// Joueur
 pvplabel=PvP
-teamcreate=Create new team
-teamleave=Leave team
-teamleaveconfirm=Leave team?\nYou will have to get an invite to join again
-teamnocurrent=You are currently not in any team
-teamowner=Owner: <owner>
-teamchangename=Change team name
-teaminvite=Invite players
-teaminviteselected=Invite selected
-teammembers=Members
+teamcreate=Créer une nouvelle équipe
+teamleave=Quitter l'équipe
+teamleaveconfirm=Quitter l'équipe?\nVous devrez recevoir une nouvelle invitation pour rejoindre à nouveau.
+teamnocurrent=Vous n'êtes actuellement pas dans une équipe.
+teamowner=Propriétaire : <owner>
+teamchangename=Changer le nom de l'équipe
+teaminvite=Inviter des joueurs
+teaminviteselected=Invite sélectionné
+teammembers=Membres
 teamkick=Kick <name>
-teampassowner=Pass team ownership
+teampassowner=Donner la propriété de l'équipe
 teaminvites=Invites
-diedlabel=You died
+diedlabel=Vous êtes mort
 settlement=Colonie
-settlementsurface=Only on surface
-pvpandteams=PvP and teams
-quests=Quests
-noquests=You do not have any active quests
-maphide=Hide
-mapshow=Show
-toggleautodoor=Toggle auto door
+settlementsurface=Uniquement en surface
+pvpandteams=PvP and équipes
+quests=Quêtes
+noquests=Vous n'avez aucune quête active
+maphide=Cacher
+mapshow=Afficher
+toggleautodoor=Activer l'ouverture automatique des portes
 
 // Containers
 elderheader=What can I help you with?
