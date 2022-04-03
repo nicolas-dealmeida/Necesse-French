@@ -1392,7 +1392,7 @@ pirateescape2=J'en ai fini avec toi!
 pirateescape3=Peut-être une prochaine fois mon garçon ! 
 
 [settlement]
-maxcount=<count> per Colonie
+maxcount=<count> par Colonie
 roomreqs=Exigences de salle :
 showreqs=Maintenez shift pour voir les exigences de la salle
 clear=Effacer le colon sélectionné
